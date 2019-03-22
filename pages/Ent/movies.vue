@@ -3,95 +3,89 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Thursday 21th March 2019</h2>
+    <h2>Sturday 23rd March 2019</h2>
 
     <b-card-group deck
     class="mb-3">
+    <Dog /><!--A Dog's Way Home-->
     <Alita /><!--Alita Battle Angel -->
     <Badla /><!--Badia -->
-    <Band /><!--Band Vaaje-->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <Band /><!--Band Vaaje-->
   <Ben /><!--Ben is Back 15-->
   <Bohemian /><!--Bohemian Rhapsody -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Border /><!--Border -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Burning /><!--Burning-->
+  <Bumblebee /><!--Bumblebee -->
   <Caper /><!--Capernaum -->
-  <Marvel /><!-- Captain Marvil -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Marvel /><!-- Captain Marvil -->
   <Cold /><!--Cold Pursuit -->
   <Escape /><!--Escape Room -->
-  <Everybody /><!--Everybody Knows -->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<Fighting /><!--Fighting With My Family -->
-<Fisherman /><!--Fisherman’s Friend 12A-->
-<Glass /><!--Glass-->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<Green /><!--Green Book-->
-<Guddiyan /><!--Guddiyan Patole -->
-<Gully /><!--Gully Boy -->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<Happy /><!--Happy Death Day -->
-<Dragonworld /><!--How to Train Your Dragon the Hidden -->
-<Beale /><!--If Beale Street Could talk-->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<family /><!--Instant Family  -->
-<Luka /><!--Luka Chuppi  -->
-<Scots /><!--Mary Queen Of Scots -->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<Poppins /><!--Mary Poppins-->
-  <Milan /><!--Milan Talkies-->
-  <Bala /><!--Miss Bala-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Sex /><!--On The Basis Of Sex-->
+  <Everybody /><!--Everybody Knows -->
+<Fighting /><!--Fighting With My Family -->
+<Fisherman /><!--Fisherman’s Friend -->
+</b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+<Five /><!--Five Feet Apart-->
+<Glass /><!--Glass-->
+<Green /><!--Green Book-->
+</b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+<Guddiyan /><!--Guddiyan Patole -->
+<Gully /><!--Gully Boy -->
+<Happy /><!--Happy Death Day -->
+</b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+<Dragonworld /><!--How to Train Your Dragon the Hidden -->
+<Beale /><!--If Beale Street Could talk-->
+<family /><!--Instant Family  -->
+</b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+<Luka /><!--Luka Chuppi  -->
+<Scots /><!--Mary Queen Of Scots -->
+<Poppins /><!--Mary Poppins-->
+</b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Bala /><!--Miss Bala-->
   <Spider /><!--Spider-Man Into The Spider-Verse -->
-  <Stan /><!--Stan & Ollie -->
+  <Crow /><!--The White Crow-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <Favourite /><!--The Favourite -->
-  <Fight /><!--The Fight-->
-  <Hole /><!--The Hole In The Ground-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <King /><!--The Kid Who Would Be King-->
-  <Kindergarten /><!--The Kindergarten Teacher -->
   <Prodigy /><!--The Prodigy-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <Total /><!--Total Dhamal  -->
+  <Us /><!--Us-->
   <Preview />
   <Blank />
 </b-card-group>
@@ -99,26 +93,31 @@
 
       <!--<Ml --90ML -->
       <!--<Star --A star is Born-->
-      <!--<Dog /--A Dog's Way Home-->
       <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
       <!--<Aquaman --Aquaman -->
       <!--Black --Blackklansman -->
       <!--Boy --Beautiful Boy -->
-      <!--Bumblebee --Bumblebee -->
+      <!--Burning --Burning-->
       <!--<Dragon --Dragon Ball Super -->
       <!--<Erased --Boy Erased-->
+      <!--<Fight --The Fight-->
       <!--<Forgive --Can You Ever Forgive Me -->
       <!--<Had --What They Had -->
       <!--<Hannah --Hannah-->
+      <!--<Hole --The Hole In The Ground-->
+      <!--<Kindergarten --The Kindergarten Teacher -->
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
       <!--Maiden --Maiden-->
+      <!--<Milan -Milan Talkies-->
       <!--<Ralph --Ralph Breaks The Internet: Wreck-It -->
       <!--<Ring --Ring-->
       <!--Second --Second Act-->
       <!--Serenityx--Serenity -->
+      <!--<Sex --On The Basis Of Sex-->
+      <!--<Stan --Stan & Ollie -->
       <!--<Kala /> Kala Shah Kala -->
       <!--Upside --The Upside -->
       <!--Grinch --Grinch-->
@@ -204,6 +203,8 @@ import Burning from '@/components/Films/Burning'
 import Ring from '@/components/Films/Ring'
 import Hannah from '@/components/Films/Hannah'
 import Rose from '@/components/Films/Rose'
+import Crow from '@/components/Films/Crow'
+import Five from '@/components/Films/Five'
 
 
 
@@ -245,6 +246,7 @@ export default {
     Cold,
     Colette,
     Creed,
+    Crow,
     Destroyer,
     Dog,
     Dragon,
@@ -257,6 +259,7 @@ export default {
     Fight,
     Fighting,
     Fisherman,
+    Five,
     Forgive,
     Glass,
     Green,

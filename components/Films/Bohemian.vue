@@ -24,7 +24,7 @@
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <Pgreenwichbutton />
+  <!--<Pgreenwichbutton />-->
   <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
@@ -34,7 +34,7 @@
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <Romfordbutton />
+  <!--<Romfordbutton />-->
   <Vstratford />
   </b-button-group>
 </b-card>

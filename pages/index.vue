@@ -4,25 +4,22 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Thursday<br>21th March 2019</font></h1>
+    <h1> <font color="gold"><br>Saturday<br>23rd March 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 
-      
-<!--
 <h3 class="title-color">
-  Home Game<br>Hackney Wick F.C.‎<br>V<br>Wivenhoe Town<br> @ 7.45pm
+  Home Game<br>Dagenham & Redbridge F.C‎<br>V<br>Dover Athletic<br> @ 3pm
 <br>
-<b-button href="http://bit.ly/2BXvUHu" target="_blank" variant="info">open</b-button>
+<b-button href="http://bit.ly/2KLUYEr" target="_blank" variant="info">open</b-button>
 </h3>
--->
 
 <h3 class ="tory">
-<br>Fisherman’s Friend<br>
+<br>Five Feet Apart<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/3MJqOowzbNk"
+          src    = "https://www.youtube.com/embed/24YrEAGF32M"
           allowfullscreen
   ></b-embed>
     Showing today @
@@ -45,7 +42,7 @@ Ilford
   ></b-embed>
     Showing today @
   <br>Stratford East
-  <br>@<br>7.30pm
+  <br>@<br>2.30pm & 7.30pm
 </h3>
 
 <b-button href="http://bit.ly/2JjU3Kr" target="_blank" variant="info">open</b-button>
