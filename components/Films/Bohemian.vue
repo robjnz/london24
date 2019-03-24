@@ -34,10 +34,17 @@
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <!--<Romfordbutton />-->
+  <Romfordbutton />
   <Vstratford />
   </b-button-group>
+
+  <h4 class="title-color"></h4>
+  <b-button-group>
+  <BohemianR />
+  </b-button-group>
 </b-card>
+
+
 </template>
 
 <script>
@@ -53,6 +60,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import BohemianR from '@/components/ReviewMovies/BohemianR'
+
 
 
 export default {
@@ -69,6 +78,7 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
+    BohemianR,
 
       }
 }

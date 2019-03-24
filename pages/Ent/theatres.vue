@@ -7,11 +7,11 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "An Evening with Paolo Di Canio">
+<b-card bg-variant="dark" text-variant="white" title= "Stranded">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Thurs 21 - Sat 23 March 2019
+    7pm Wed 27 March 2019
     </p>
     <b-button href="http://bit.ly/2O857LG" target="_blank" variant="info">open</b-button>
 
@@ -50,23 +50,28 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Chiargo">
+<b-card bg-variant="dark" text-variant="white" title= "Dirty Rotten Scoundrels">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Thu 21 March - Sat 23  2019
+    Thu 28 - Sat 30 March 2019
 
     </p>
     <b-button href="http://bit.ly/2D9UPtc" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Local artists Art Exhibition">
+<b-card bg-variant="dark" text-variant="white" title= "In Basildon">
   <p class="title-color">
 
   <p class="title-color">
     Queen's Theatre Hornchurch<br>
-    Mon 11 - Sun 24 March 2019
+    Tues 26 - Sat 30 March 2019
+  <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/d5ilLcjmvTE"
+          allowfullscreen
+  ></b-embed>
     </p>
     <b-button href="http://bit.ly/2Soh3MB" target="_blank" variant="info">open</b-button>
 
@@ -77,15 +82,15 @@
     <b-card-group deck
       class="mb-3">
 
-      <b-card bg-variant="dark" text-variant="white" title= "Equus">
+      <b-card bg-variant="dark" text-variant="white" title= "An Evening Of Areatha Franklin">
         <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/yM2jqiDSkjQ"
+          src    = "https://www.youtube.com/embed/AnODrzpsXDY"
           allowfullscreen
   ></b-embed>
   <p class="title-color">
     Theatre Royal Stratford East<br>
-    Fri 15 Feb - Sat 23 Mar 2019
+    Thurs 28 - Fri 29 March 2019
 
     </p>
     <b-button href="http://bit.ly/2JjU3Kr" target="_blank" variant="info">open</b-button>

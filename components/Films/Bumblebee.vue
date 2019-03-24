@@ -13,14 +13,14 @@
   </b-button-group>
 <br><br>
 <b-button-group>
-<ilfordbutton />
-<westbutton />
+<!--<Ilfordbutton />-->
+<!--<westbutton />-->
   </b-button-group>
 
 <h4 class="title-color">Odeon</h4>
   <b-button-group>
-<Ogreenwichbutton />
-  <Osouthbutton />
+<!--<Ogreenwichbutton />-->
+  <!--<Osouthbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Showcase</h4>

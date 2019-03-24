@@ -4,14 +4,14 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Saturday<br>23rd March 2019</font></h1>
+    <h1> <font color="gold"><br>Monday<br>25th March 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 
 <h3 class="title-color">
-  Home Game<br>Dagenham & Redbridge F.C‎<br>V<br>Dover Athletic<br> @ 3pm
+  Home Game<br>Barkingside F.C.<br>V<br>Clapton CFC<br> @ 7.45pm
 <br>
-<b-button href="http://bit.ly/2KLUYEr" target="_blank" variant="info">open</b-button>
+<b-button href="http://bit.ly/2Ei7cTX" target="_blank" variant="info">open</b-button>
 </h3>
 
 <h3 class ="tory">
@@ -33,7 +33,7 @@ Ilford
 <b-button href="http://bit.ly/2AuCVyP" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-
+<!--
 <h3 class="labour">EQUUS<br>
 <b-embed type="iframe"
           aspect = "16by9"
@@ -47,7 +47,7 @@ Ilford
 
 <b-button href="http://bit.ly/2JjU3Kr" target="_blank" variant="info">open</b-button>
 <br><br>
-
+-->
     </b-badge>
 
     </div>

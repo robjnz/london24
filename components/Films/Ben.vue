@@ -44,6 +44,12 @@
   <Vstratford />
   </b-button-group>
 
+  <h4 class="title-color"></h4>
+  <b-button-group>
+  <BenR />
+  
+  </b-button-group>
+
 </b-card>
 </template>
 
@@ -60,6 +66,7 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import BenR from '@/components/ReviewMovies/BenR'
 
 
 
@@ -79,6 +86,7 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
+    BenR,
 
 
       }

@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Saturday 23rd March 2019</h2>
+    <h2>Monday 25th March 2019</h2>
 
     <b-card-group deck
     class="mb-3">
