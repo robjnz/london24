@@ -4,14 +4,14 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Monday<br>25th March 2019</font></h1>
+    <h1> <font color="gold"><br>Tuesday<br>26th March 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 
 <h3 class="title-color">
-  Home Game<br>Barkingside F.C.<br>V<br>Clapton CFC<br> @ 7.45pm
+  Home Game<br>May & Baker F.C.<br>V<br>Coggeshall United<br> @ 7.45pm
 <br>
-<b-button href="http://bit.ly/2Ei7cTX" target="_blank" variant="info">open</b-button>
+<b-button href="http://bit.ly/2FjUzHY" target="_blank" variant="info">open</b-button>
 </h3>
 
 <h3 class ="tory">
@@ -33,21 +33,21 @@ Ilford
 <b-button href="http://bit.ly/2AuCVyP" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-<!--
-<h3 class="labour">EQUUS<br>
+
+<h3 class="labour">In Basildon<br>
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/yM2jqiDSkjQ"
+          src    = "https://www.youtube.com/embed/d5ilLcjmvTE"
           allowfullscreen
   ></b-embed>
     Showing today @
-  <br>Stratford East
-  <br>@<br>2.30pm & 7.30pm
+  <br>Queen's Theatre Hornchurch
+  <br>@<br>7.30pm
 </h3>
 
-<b-button href="http://bit.ly/2JjU3Kr" target="_blank" variant="info">open</b-button>
+<b-button href="http://bit.ly/2Soh3MB" target="_blank" variant="info">open</b-button>
 <br><br>
--->
+
     </b-badge>
 
     </div>

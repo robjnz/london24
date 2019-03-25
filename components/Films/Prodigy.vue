@@ -8,7 +8,7 @@
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<!--<Bexleyheathbutton />-->
+<Bexleyheathbutton />
 <!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
@@ -41,7 +41,7 @@
   <h4 class="title-color">Vue</h4>
   <b-button-group>
   <!--<Romfordbutton />-->
-  <Vstratford />
+  <!--<Vstratford />-->
   </b-button-group>
 
 </b-card>
