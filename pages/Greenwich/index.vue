@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <h1 class="title-color">Greenwich</h1>
-  
+
   <b-card-group deck
                   class="mb-3">
         <b-card  bg-variant="dark" text-variant="white" title="Places To Eat">
@@ -20,26 +20,30 @@
 
     <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Clive Efford MP <br>Eltham ">
+        <b-card  bg-variant="dark" text-variant="white" title="Clive Efford MP">
+          <p>Eltham</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2Egwh3o" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1522836710/Clive_Efford_ujkjzb.jpg" fluid-grow alt="Clive Efford MP Eltham "/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Teresa Pearce MP<br>Erith & Thamesmead">
-<p       class="labour">Labour</p>
-<a       href="http://bit.ly/2OhkwOE" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1516967810/Teresa_Pearce_tsxxty.jpg" fluid-grow alt="Teresa Pearce MP Erith & Thamesmead" /></a>
+<b-card  bg-variant="dark" text-variant="white" title="Teresa Pearce MP">
+  <p>Erith & Thamesmead</p>
+<p class="labour">Labour</p>
+<a href="http://bit.ly/2OhkwOE" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1516967810/Teresa_Pearce_tsxxty.jpg" fluid-grow alt="Teresa Pearce MP Erith & Thamesmead" /></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Matthew Pennycook MP <br>Greenwich & Woolwich">
-<p       class="labour">Labour</p>
-<a       href="http://bit.ly/2yu4aaJ" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1522837170/pennycook_njkaco.jpg" fluid-grow alt="Matthew Pennycook MP Greenwich & Woolwich" /></a>
+<b-card  bg-variant="dark" text-variant="white" title="Matthew Pennycook MP">
+  <p>Greenwich & Woolwich</p>
+<p class="labour">Labour</p>
+<a href="http://bit.ly/2yu4aaJ" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1522837170/pennycook_njkaco.jpg" fluid-grow alt="Matthew Pennycook MP Greenwich & Woolwich" /></a>
 </b-card>
 
   </b-card-group>
 
   <b-card-group deck
-                  class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Len Duvall AM <br>Greenwich and Lewisham">
+          class="mb-3">
+        <b-card  bg-variant="dark" text-variant="white" title="Len Duvall AM">
+          <p>Greenwich & Lewisham</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2OQulCG" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1522829824/duvall_buid2q.jpg" fluid-grow alt="Len Duvall AM Greenwich and Lewisham"/></a>
 </b-card>

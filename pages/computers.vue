@@ -42,7 +42,7 @@
 
 <b-card-group deck
   class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Bitdefender <br> Rescue CD">
+<b-card bg-variant="dark" text-variant="white" title= "Bitdefender Rescue CD">
   <p class="title-color">
     Free tool that scans your computer for viruses, without the need of loading the operating system.
   </p>
@@ -89,7 +89,7 @@
   <b-button href="http://bit.ly/2xnJ4Lr" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Emsisoft <br> Emergency Kit">
+<b-card bg-variant="dark" text-variant="white" title= "Emsisoft Emergency Kit">
   <p class="title-color">
     Free program to scan for malware and cleans infected computers.
   </p>

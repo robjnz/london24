@@ -20,18 +20,21 @@
 
     <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Rushanara Ali MP<br>Bethnal Green & Bow">
+        <b-card  bg-variant="dark" text-variant="white" title="Rushanara Ali MP">
+        <p>Bethnal Green & Bow</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2D4w1TA" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1519662140/Rali2_cmh1be.jpg" fluid-grow alt="Rushanara Ali MP Bethnal Green & Bow"/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Jim Fitzpatrick MP <br>Poplar & Limehouse">
+<b-card  bg-variant="dark" text-variant="white" title="Jim Fitzpatrick MP">
+<p>Poplar & Limehouse</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2yXARgR" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1519662414/Jim_Fitzpatrick_fh9f4u.jpg" fluid-grow alt="Jim Fitzpatrick MP Poplar & Limehouse"/></a>
 </b-card>
 
 
-<b-card  bg-variant="dark" text-variant="white" title="Unmesh Desai AM <br>City & East Constituency">
+<b-card  bg-variant="dark" text-variant="white" title="Unmesh Desai AM">
+<p>City & East Constituency</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2PdUeJu" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1538814314/desai_ojp1oc.jpg" fluid-grow alt="Unmesh Desai AM City & East Constituency"/></a>
 </b-card>

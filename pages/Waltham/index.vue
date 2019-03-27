@@ -21,18 +21,21 @@
 
     <b-card-group deck
     class="mb-3">
-    <b-card  bg-variant="dark" text-variant="white" title="John Cryer MP <br>Leyton & Wanstead">
-    <br><p class="labour">Labour</p>
+    <b-card  bg-variant="dark" text-variant="white" title="John Cryer MP">
+    <p>Leyton & Wanstead</p>
+    <p class="labour">Labour</p>
     <a href="http://bit.ly/2yxdL1f" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1517232186/John_Cryer_m1bo60.jpg" fluid-grow alt="John Cryer MP Leyton & Wanstead"/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Stella Creasy MP<br> Walthamstow">
-<br><p class="labour">Labour</p>
+<b-card  bg-variant="dark" text-variant="white" title="Stella Creasy MP">
+<p> Walthamstow</p>
+<p class="labour">Labour</p>
 <a href="http://bit.ly/2R9U2f0" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1521566375/creasy_kki6qh.jpg" fluid-grow alt="Stella Creasy MP Walthamstow"/></a>
 </b-card>
 
 
-<b-card  bg-variant="dark" text-variant="white" title="Iain D Smith MP <br> Chingford & Woodford Green">
+<b-card  bg-variant="dark" text-variant="white" title="Iain D Smith MP">
+<p> Chingford & Woodford Green</p>
 <p class="tory">Conservative</p>
 <a href="http://bit.ly/2OJDsGd" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1517232998/smithmp_v5ecrw.jpg" fluid-grow alt="Iain D Smith MP Chingford & Woodford Green"/></a>
 </b-card>
@@ -41,7 +44,8 @@
 
     <b-card-group deck
     class="mb-3">
-    <b-card  bg-variant="dark" text-variant="white" title="Jennette Arnold AM <br>North East London">
+    <b-card  bg-variant="dark" text-variant="white" title="Jennette Arnold AM">
+    <p>North East London</p>
     <p class="labour">Labour</p>
     <a href="http://bit.ly/2C9Odd5" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1518971008/arnold_wkw31e.jpg" fluid-grow alt="Jennette Arnold AM North East London"/></a>
 </b-card>

@@ -20,19 +20,22 @@
 
     <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Diane Abbott MP <br>Hackney North <br>& Stoke Newington">
+        <b-card  bg-variant="dark" text-variant="white" title="Diane Abbott MP">
+        <p>Hackney North & Stoke Newington</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2OUUqAq" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1518970119/abbott_epnzxr.jpg" fluid-grow alt="Diane Abbott MP Hackney North & Stoke Newington"/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Meg Hillier MP<br> Hackney South <br>& Shoreditch">
+<b-card  bg-variant="dark" text-variant="white" title="Meg Hillier MP">
+<p> Hackney South & Shoreditch</p>
 <p       class="labour">Labour</p>
 <a       href="http://bit.ly/2QKiEdR" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1518970496/Hillier_vd9kdp.jpg" fluid-grow alt="Meg Hillier MP Hackney South & Shoreditch"/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Jennette Arnold AM<br> North East <br>London">
-<p       class="labour">Labour</p>
-<a       href="http://bit.ly/2C9Odd5" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1518971008/arnold_wkw31e.jpg" fluid-grow alt="Jennette Arnold AM North East London"/></a>
+<b-card  bg-variant="dark" text-variant="white" title="Jennette Arnold AM">
+<p> North East London</p>
+<p class="labour">Labour</p>
+<a href="http://bit.ly/2C9Odd5" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1518971008/arnold_wkw31e.jpg" fluid-grow alt="Jennette Arnold AM North East London"/></a>
 </b-card>
 
   </b-card-group>

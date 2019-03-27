@@ -20,25 +20,29 @@
 
     <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Jon Cruddas mp <br>Dagenham and Rainham">
+        <b-card  bg-variant="dark" text-variant="white" title="Jon Cruddas MP">
+        <p>Dagenham & Rainham</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2pBDAZa" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1538814068/cruddas_lagghr.jpg" fluid-grow alt="Jon Cruddas mp Dagenham and Rainham"/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Julia Lopez MP <br>Hornchurch & Upminster">
-<p       class="labour">Labour</p>
-<a       href="http://bit.ly/2PuG4UE" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces,h_180,w_200/v1518367706/Lopez_v6rgkf.jpg" fluid-grow alt="Julia Lopez MP Hornchurch & Upminster"/></a>
+<b-card  bg-variant="dark" text-variant="white" title="Julia Lopez MP">
+<p>Hornchurch & Upminster</p>
+<p class="labour">Labour</p>
+<a href="http://bit.ly/2PuG4UE" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces,h_180,w_200/v1518367706/Lopez_v6rgkf.jpg" fluid-grow alt="Julia Lopez MP Hornchurch & Upminster"/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Andrew Rosindell MP <br>Romford">
-<p       class="tory">Conservative</p>
-<a       href="http://bit.ly/2Om9LdU" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1518368168/Rosindell_shwekz.jpg" fluid-grow alt="Andrew Rosindell MP Romford"/></a>
+<b-card  bg-variant="dark" text-variant="white" title="Andrew Rosindell MP">
+  <p>Romford</p>
+<p class="tory">Conservative</p>
+<a href="http://bit.ly/2Om9LdU" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1518368168/Rosindell_shwekz.jpg" fluid-grow alt="Andrew Rosindell MP Romford"/></a>
 </b-card>
 
   </b-card-group>
   <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Keith Prince AM <br>Havering and Redbridge">
+        <b-card  bg-variant="dark" text-variant="white" title="Keith Prince AM">
+          <p>Havering & Redbridge</p>
         <p class="tory">Conservative</p>
         <a href="http://bit.ly/2OsF72v" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1519146309/Keith_Prince_vp1tn9.png" fluid-grow alt="Keith Prince AM Havering and Redbridge"/></a>
 </b-card>

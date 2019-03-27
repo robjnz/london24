@@ -21,18 +21,21 @@
 
     <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Jon Cruddas mp <br>Dagenham and Rainham">
+        <b-card  bg-variant="dark" text-variant="white" title="Jon Cruddas MP">
+        <p> Dagenham & Rainham</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2pBDAZa" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1538814068/cruddas_lagghr.jpg" fluid-grow alt="Jon Cruddas mp
             Dagenham and Rainham"/></a>
 </b-card>
 
-        <b-card  bg-variant="dark" text-variant="white" title="Margaret Hodge MP <br>Barking and Dagenham">
+        <b-card  bg-variant="dark" text-variant="white" title="Margaret Hodge MP">
+          <p> Barking & Dagenham</p>
         <p class="labour">Labour</p>
 <a href="http://bit.ly/2y2xPs2" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1538813775/hodges_stl9fq.jpg" fluid-grow alt="Margaret Hodge MP Barking and Dagenham" /></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Unmesh Desai AM <br> City & East Constituency">
+<b-card  bg-variant="dark" text-variant="white" title="Unmesh Desai AM">
+  <p>City & East Constituency</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2PdUeJu" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1538814314/desai_ojp1oc.jpg" fluid-grow alt="Unmesh Desai AM City & East Constituency" /></a>
 </b-card>

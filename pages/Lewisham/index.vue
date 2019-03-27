@@ -20,17 +20,20 @@
 
     <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Janet Daby MP <br> Lewisham East">
+        <b-card  bg-variant="dark" text-variant="white" title="Janet Daby MP">
+          <p> Lewisham East</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2CMJFum" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1539712225/daby_jbuhjq.jpg" fluid-grow alt="Janet Daby MP Lewisham East"/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Vicky Foxcroft MP <br> Lewisham Deptford">
+<b-card  bg-variant="dark" text-variant="white" title="Vicky Foxcroft MP">
+  <p>Lewisham Deptford</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2AeiXrZ" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1539792210/foxcroft_gtcs2q.jpg" fluid-grow alt="Vicky Foxcroft MP Lewisham Deptford"/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Ellie Reeves MP <br> Lewisham West and Penge">
+<b-card  bg-variant="dark" text-variant="white" title="Ellie Reeves MP">
+  <p>Lewisham West and Penge</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2AfdIIB" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1539799072/reeves_q6m3ir.jpg" fluid-grow alt="Ellie Reeves MP Lewisham West and Penge"/></a>
 </b-card>
@@ -39,7 +42,8 @@
 
   <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Len Duvall AM <br>Greenwich and Lewisham">
+        <b-card  bg-variant="dark" text-variant="white" title="Len Duvall AM">
+          <p>Greenwich and Lewisham</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2OQulCG" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1522829824/duvall_buid2q.jpg" fluid-grow alt="Len Duvall AM Greenwich and Lewisham"/></a>
 </b-card>

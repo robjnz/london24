@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <h1 class="title-color">Bexley</h1>
-  
+
   <b-card-group deck
                   class="mb-3">
         <b-card  bg-variant="dark" text-variant="white" title="Places To Eat">
@@ -20,17 +20,20 @@
 
     <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="James Brokenshire MP <br>Old Bexley & Sidcup">
+        <b-card  bg-variant="dark" text-variant="white" title="James Brokenshire MP">
+          <p>Old Bexley & Sidcup</p>
         <p class="tory">Conservative</p>
         <a href="http://bit.ly/2QGOOXP" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces,h_180,w_200/v1516967072/brokenshire_f5tawg.jpg" fluid-grow alt="James Brokenshire MP Old Bexley & Sidcup"/></a>
 </b-card>
 
-        <b-card  bg-variant="dark" text-variant="white" title="David Evennett MP <br>Bexleyheath and Crayford">
+        <b-card  bg-variant="dark" text-variant="white" title="David Evennett MP">
+          <p>Bexleyheath & Crayford</p>
         <p class="tory">Conservative</p>
 <a href="http://bit.ly/2OkY4Ex" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces,h_180,w_200/v1516967470/evennett_zrvmj5.jpg" fluid-grow alt="David Evennett MP Bexleyheath and Crayford" /></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Teresa Pearce MP<br>Erith & Thamesmead">
+<b-card  bg-variant="dark" text-variant="white" title="Teresa Pearce MP">
+<p>Erith & Thamesmead</p>
 <p       class="labour">Labour</p>
 <a       href="http://bit.ly/2OhkwOE" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1516967810/Teresa_Pearce_tsxxty.jpg" fluid-grow alt="Teresa Pearce MP Erith & Thamesmead" /></a>
 </b-card>
@@ -39,7 +42,8 @@
 
   <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Gareth Bacon AM <br>Bexley and Bromley">
+        <b-card  bg-variant="dark" text-variant="white" title="Gareth Bacon AM">
+        <p>Bexley & Bromley</p>
         <p class="tory">Conservative</p>
         <a href="http://bit.ly/2pKZHMI" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1519145579/bacon_l7lpqe.jpg" fluid-grow alt="Gareth Bacon AM Bexley and Bromley"/></a>
 </b-card>

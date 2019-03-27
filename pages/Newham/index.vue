@@ -20,17 +20,20 @@
 
     <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Lyn Brown MP<br> west ham ">
+        <b-card  bg-variant="dark" text-variant="white" title="Lyn Brown MP">
+          <p> West Ham</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2yRERjc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1523375559/lyn_brown_m9l0ly.jpg" fluid-grow alt="Lyn Brown MP west ham "/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Stephen Timms MP <br>East Ham ">
+<b-card  bg-variant="dark" text-variant="white" title="Stephen Timms MP">
+  <p>East Ham</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2Ow1WT7" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1523375100/timms_ffq0zs.jpg" fluid-grow alt="Stephen Timms MP East Ham "/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Unmesh Desai AM <br>City & East Constituency">
+<b-card  bg-variant="dark" text-variant="white" title="Unmesh Desai AM">
+<p>City & East Constituency</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2PdUeJu" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1538814314/desai_ojp1oc.jpg" fluid-grow alt="Unmesh Desai AM City & East Constituency"/></a>
 </b-card>

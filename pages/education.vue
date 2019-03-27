@@ -86,7 +86,7 @@
   <b-button href="http://bit.ly/2QuFHth" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Learning and Enterprice<br>Collage Bexley">
+<b-card bg-variant="dark" text-variant="white" title= "Learning and Enterprice Collage Bexley">
   <p class="title-color">
     Adult education, vocational qualifications and skills for life.
     <br>

@@ -20,17 +20,20 @@
 
     <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="John Cryer MP <br>Leyton & Wanstead">
+        <b-card  bg-variant="dark" text-variant="white" title="John Cryer MP">
+        <p>Leyton & Wanstead</p>
         <br><p class="labour">Labour</p>
         <a href="http://bit.ly/2yxdL1f" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1517232186/John_Cryer_m1bo60.jpg" fluid-grow alt="John Cryer MP Leyton & Wanstead"/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Mike Gapes MP <br>Ilford South">
+<b-card  bg-variant="dark" text-variant="white" title="Mike Gapes MP">
+ <p>Ilford South</p>
 <br><p class="labour">The Independent Group</p>
 <a href="http://bit.ly/2NdB2eT" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces:auto,h_180,w_200/v1517232454/gapes_uaqlub.jpg" fluid-grow alt="Mike Gapes MP Ilford South"/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Iain D Smith MP <br> Chingford & Woodford Green">
+<b-card  bg-variant="dark" text-variant="white" title="Iain D Smith MP">
+ <p> Chingford & Woodford Green</p>
 <p class="tory">Conservative</p>
 <a href="http://bit.ly/2OJDsGd" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1517232998/smithmp_v5ecrw.jpg" fluid-grow alt="Iain D Smith MP Chingford & Woodford Green"/></a>
 </b-card>
@@ -39,12 +42,14 @@
 
   <b-card-group deck
                   class="mb-3">
-        <b-card  bg-variant="dark" text-variant="white" title="Wes Streeting MP<br> Ilford North ">
+        <b-card  bg-variant="dark" text-variant="white" title="Wes Streeting MP">
+        <p> Ilford North</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2yUzf7z" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1517233222/streeting_pmfcgu.jpg" fluid-grow alt="Wes Streeting MP Ilford North "/></a>
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Keith Prince AM <br>Havering & Redbridge">
+<b-card  bg-variant="dark" text-variant="white" title="Keith Prince AM">
+<p>Havering & Redbridge</p>
 <p class="tory">Conservative</p>
 <a href="http://bit.ly/2OsF72v" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1519146309/Keith_Prince_vp1tn9.png" fluid-grow alt="Keith Prince AM Havering & Redbridge"/></a>
 </b-card>

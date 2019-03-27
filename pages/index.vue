@@ -4,14 +4,14 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Tuesday<br>26th March 2019</font></h1>
+    <h1> <font color="gold"><br>Wednesday<br>27th March 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 
 <h3 class="title-color">
-  Home Game<br>May & Baker F.C.<br>V<br>Coggeshall United<br> @ 7.45pm
+  Home Game<br>Leyton Athletic F.C.<br>V<br>Walthamstow <br> @ 7.45pm
 <br>
-<b-button href="http://bit.ly/2FjUzHY" target="_blank" variant="info">open</b-button>
+<b-button href="http://bit.ly/2LjQdCd" target="_blank" variant="info">open</b-button>
 </h3>
 
 <h3 class ="tory">
