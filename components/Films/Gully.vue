@@ -41,7 +41,12 @@
   <h4 class="title-color">Vue</h4>
   <b-button-group>
   <!--<Romfordbutton />-->
- <Vstratford />
+  <Vstratford />
+  </b-button-group>
+
+  <h4 class="title-color"></h4>
+  <b-button-group>
+  <GullyR />
   </b-button-group>
 
 </b-card>
@@ -60,6 +65,7 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import GullyR from '@/components/ReviewMovies/GullyR'
 
 
 
@@ -79,7 +85,7 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-
+    GullyR,
 
       }
 }

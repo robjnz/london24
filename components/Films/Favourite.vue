@@ -38,6 +38,11 @@
   <!--<Romfordbutton />-->
  <!--<Vstratford />-->
   </b-button-group>
+
+  <h4 class="title-color"></h4>
+  <b-button-group>
+  <FavouriteR />
+  </b-button-group>
 </b-card>
 </template>
 
@@ -53,6 +58,8 @@ import Phackneybutton from '@/components/Picturehouses/Phackneybutton'
 import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import FavouriteR from '@/components/ReviewMovies/FavouriteR'
+
 
 export default {
   components: {
@@ -67,6 +74,7 @@ export default {
     Pstratfordbutton,
     Romfordbutton,
     Vstratford,
+    FavouriteR,
 
       }
 }

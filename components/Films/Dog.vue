@@ -36,6 +36,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
   <DogR />
+  <DogF />
   </b-button-group>
 
 </b-card>
@@ -55,6 +56,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import DogR from '@/components/ReviewMovies/DogR'
+import DogF from '@/components/FreeMovies/DogF'
 
 
 
@@ -75,6 +77,7 @@ export default {
     Romfordbutton,
     Vstratford,
     DogR,
+    DogF,
 
 
       }

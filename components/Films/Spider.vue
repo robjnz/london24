@@ -43,6 +43,11 @@
   <!--<Romfordbutton />-->
   <Vstratford />
   </b-button-group>
+
+<h4 class="title-color"></h4>
+  <b-button-group>
+  <SpiderR />
+  </b-button-group>
 </b-card>
 </template>
 
@@ -59,6 +64,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import SpiderR from '@/components/ReviewMovies/SpiderR'
+
 
 
 export default {
@@ -75,7 +82,7 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-
+    SpiderR,
       }
 }
 </script>

@@ -44,6 +44,11 @@
   <Vstratford />
   </b-button-group>
 
+  <h4 class="title-color">Vue</h4>
+  <b-button-group>
+  <ProdigyR />
+  </b-button-group>
+
 </b-card>
 </template>
 
@@ -60,6 +65,7 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import ProdigyR from '@/components/ReviewMovies/ProdigyR'
 
 
 
@@ -79,6 +85,7 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
+    ProdigyR,
 
 
       }
