@@ -1,27 +1,25 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Escape Room 15">
-  <b-embed type="iframe"
+<b-card bg-variant="dark" text-variant="white" title= "Notebook 12A">
+<b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/KgjNRC-nsz0"
+          src    = "https://www.youtube.com/embed/SXYxOCLc9-c"
           allowfullscreen
   ></b-embed>
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
 <!--<Bexleyheathbutton />-->
-<!--<greenwichbutton/>-->
+<Greenwichbutton />
   </b-button-group>
-
 <br><br>
 <b-button-group>
-<!--<ilfordbutton />-->
-<!--<westbutton />-->
+<Ilfordbutton />
+<!--<Westbutton />-->
   </b-button-group>
-
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
-  <!--<Ogreenwichbutton />-->
+ <!-- <Ogreenwichbutton />-->
   <!--<Osouthbutton />-->
   </b-button-group>
 
@@ -37,7 +35,7 @@
 
   <h4 class="title-color">Showcase</h4>
   <b-button-group>
-  <Newhambutton />
+  <!--<Newhambutton />-->
   </b-button-group>
 
   <h4 class="title-color">Vue</h4>
@@ -48,8 +46,8 @@
 
   <h4 class="title-color"></h4>
   <b-button-group>
-  <EscapeR />
-  <EscapeF />
+    <NotebookR />
+
   </b-button-group>
 
 </b-card>
@@ -68,8 +66,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import EscapeR from '@/components/ReviewMovies/EscapeR'
-import EscapeF from '@/components/FreeMovies/EscapeF'
+import NotebookR from '@/components/ReviewMovies/NotebookR'
+import AlitaF from '@/components/FreeMovies/AlitaF'
+
 
 
 
@@ -87,8 +86,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    EscapeR,
-    EscapeF,
+    NotebookR,
+    AlitaF,
+
       }
 }
 </script>

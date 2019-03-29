@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Friday 29th March 2019</h2>
+    <h2>Saturday 30th March 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -78,21 +78,28 @@
   <b-card-group deck
   class="mb-3 ">
   <Bala /><!--Miss Bala-->
+  <Notebook /><!--Notebook-->
+  <Blue /><!--Out Of Blue -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Spider /><!--Spider-Man Into The Spider-Verse -->
   <Crow /><!--The White Crow-->
+  <Favourite /><!--The Favourite -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Favourite /><!--The Favourite -->
   <King /><!--The Kid Who Would Be King-->
   <Prodigy /><!--The Prodigy-->
+  <Total /><!--Total Dhamal  -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Total /><!--Total Dhamal  -->
   <Us /><!--Us-->
+  <Vice /><!--Vice-->
   <Preview />
 </b-card-group>
 
@@ -128,7 +135,6 @@
       <!--Upside --The Upside -->
       <!--Grinch --Grinch-->
       <!--<Rose --Wild Rose -->
-      <!--<Vice --Vice-->
       </b-container>
       </section>
 
@@ -215,6 +221,8 @@ import Dumbo from '@/components/Films/Dumbo'
 import Junglee from '@/components/Films/Junglee'
 import Lion from '@/components/Films/Lion'
 import Us from '@/components/Films/Us'
+import Blue from '@/components/Films/Blue'
+import Notebook from '@/components/Films/Notebook'
 
 
 
@@ -247,6 +255,7 @@ export default {
     Ben,
     Black,
     Blank,
+    Blue,
     Bohemian,
     Border,
     Boy,
@@ -293,6 +302,7 @@ export default {
     Milan,
     Ml,
     Mule,
+    Notebook,
     Poppins,
     Preview,
     Prodigy,

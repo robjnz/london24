@@ -7,11 +7,11 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "REVIVAL Showcase + Afterparty">
+<b-card bg-variant="dark" text-variant="white" title= "The King, The Queen & The Prince">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    7 pm Fri 29 March 2019
+    7pm Sat 30 March 2019
     </p>
     <b-button href="http://bit.ly/2O857LG" target="_blank" variant="info">open</b-button>
 
@@ -77,20 +77,14 @@
 
 </b-card>
 
-
     </b-card-group>
+
     <b-card-group deck
       class="mb-3">
-
-      <b-card bg-variant="dark" text-variant="white" title= "An Evening Of Areatha Franklin">
-        <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/AnODrzpsXDY"
-          allowfullscreen
-  ></b-embed>
+  <b-card bg-variant="dark" text-variant="white" title= "Noughts & Crosses">
   <p class="title-color">
     Theatre Royal Stratford East<br>
-    Thurs 28 - Fri 29 March 2019
+    Wed 24 April - Sat 4 May 2019
 
     </p>
     <b-button href="http://bit.ly/2JjU3Kr" target="_blank" variant="info">open</b-button>

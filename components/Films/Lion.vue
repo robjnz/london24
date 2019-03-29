@@ -13,7 +13,7 @@
   </b-button-group>
 <br><br>
 <b-button-group>
-<!--<Ilfordbutton />-->
+<Ilfordbutton />
 <!--<Westbutton />-->
   </b-button-group>
 
@@ -47,7 +47,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
     <LionR />
-    
+
   </b-button-group>
 
 </b-card>
