@@ -4,16 +4,16 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Wednesday<br>27th March 2019</font></h1>
+    <h1> <font color="gold"><br>Friday<br>29th March 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
-
+<!--
 <h3 class="title-color">
   Home Game<br>Leyton Athletic F.C.<br>V<br>Walthamstow <br> @ 7.45pm
 <br>
 <b-button href="http://bit.ly/2LjQdCd" target="_blank" variant="info">open</b-button>
 </h3>
-
+-->
 <h3 class ="tory">
 <br>Five Feet Apart<br>
 
@@ -42,7 +42,7 @@ Ilford
   ></b-embed>
     Showing today @
   <br>Queen's Theatre Hornchurch
-  <br>@<br>7.30pm
+  <br>@<br>8pm
 </h3>
 
 <b-button href="http://bit.ly/2Soh3MB" target="_blank" variant="info">open</b-button>

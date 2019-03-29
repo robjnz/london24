@@ -42,16 +42,16 @@
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <Romfordbutton />
-  <Vstratford />
+  <!--<Romfordbutton />-->
+  <!--<Vstratford />-->
   </b-button-group>
 
   <h4 class="title-color"></h4>
   <b-button-group>
   <EscapeR />
-  
+  <EscapeF />
   </b-button-group>
- 
+
 </b-card>
 </template>
 
@@ -69,6 +69,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import EscapeR from '@/components/ReviewMovies/EscapeR'
+import EscapeF from '@/components/FreeMovies/EscapeF'
 
 
 
@@ -87,7 +88,7 @@ export default {
     Romfordbutton,
     Vstratford,
     EscapeR,
-
+    EscapeF,
       }
 }
 </script>

@@ -47,6 +47,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
   <MarvelR />
+  <MarvelF />
   </b-button-group>
 
 </b-card>
@@ -66,6 +67,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import MarvelR from '@/components/ReviewMovies/MarvelR'
+import MarvelF from '@/components/FreeMovies/MarvelF'
 
 
 
@@ -86,7 +88,7 @@ export default {
     Romfordbutton,
     Vstratford,
     MarvelR,
-
+    MarvelF,
       }
 }
 </script>

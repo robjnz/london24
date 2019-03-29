@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Wednesday 27th March 2019</h2>
+    <h2>Friday 29th March 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -30,36 +30,43 @@
   class="mb-3 ">
   <Marvel /><!-- Captain Marvil -->
   <Cold /><!--Cold Pursuit -->
-  <Escape /><!--Escape Room -->
+  <Dumbo /><!--Dumbo -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Escape /><!--Escape Room -->
   <Everybody /><!--Everybody Knows -->
 <Fighting /><!--Fighting With My Family -->
-<Fisherman /><!--Fisherman’s Friend -->
 </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+<Fisherman /><!--Fisherman’s Friend -->
 <Five /><!--Five Feet Apart-->
 <Glass /><!--Glass-->
-<Green /><!--Green Book-->
 </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+<Green /><!--Green Book-->
 <Guddiyan /><!--Guddiyan Patole -->
 <Gully /><!--Gully Boy -->
-<Happy /><!--Happy Death Day -->
 </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+<Happy /><!--Happy Death Day -->
 <Dragonworld /><!--How to Train Your Dragon the Hidden -->
 <Beale /><!--If Beale Street Could talk-->
-<family /><!--Instant Family  -->
 </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+<family /><!--Instant Family  -->
+  <Junglee /><!--Junglee -->
+  <Lion /><!--Eaten by Lion -->
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
@@ -87,7 +94,6 @@
   <Total /><!--Total Dhamal  -->
   <Us /><!--Us-->
   <Preview />
-  <Blank />
 </b-card-group>
 
 
@@ -205,6 +211,10 @@ import Hannah from '@/components/Films/Hannah'
 import Rose from '@/components/Films/Rose'
 import Crow from '@/components/Films/Crow'
 import Five from '@/components/Films/Five'
+import Dumbo from '@/components/Films/Dumbo'
+import Junglee from '@/components/Films/Junglee'
+import Lion from '@/components/Films/Lion'
+import Us from '@/components/Films/Us'
 
 
 
@@ -301,7 +311,10 @@ export default {
     Upside,
     Vice,
     War,
-
+    Dumbo,
+    Junglee,
+    Lion,
+    Us,
       }
 }
 </script>

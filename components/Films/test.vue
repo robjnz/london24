@@ -44,6 +44,12 @@
   <!--<Vstratford />-->
   </b-button-group>
 
+  <h4 class="title-color"></h4>
+  <b-button-group>
+    <AlitaR />
+    <AlitaF />
+  </b-button-group>
+
 </b-card>
 </template>
 
@@ -60,7 +66,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-
+import AlitaR from '@/components/ReviewMovies/AlitaR'
+import AlitaF from '@/components/FreeMovies/AlitaF'
 
 
 
@@ -79,7 +86,8 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-
+    AlitaR,
+    AlitaF,
 
       }
 }

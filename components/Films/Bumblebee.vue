@@ -37,6 +37,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
   <BumblebeeR />
+  <BumblebeeF />
   </b-button-group>
 </b-card>
 </template>
@@ -52,6 +53,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import BumblebeeR from '@/components/ReviewMovies/BumblebeeR'
+import BumblebeeF from '@/components/FreeMovies/BumblebeeF'
 
 
 
@@ -67,7 +69,7 @@ export default {
     Romfordbutton,
     Vstratford,
     BumblebeeR,
-
+    BumblebeeF,
       }
 }
 </script>

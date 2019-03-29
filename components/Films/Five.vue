@@ -26,11 +26,11 @@
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
   <!--<Pgreenwichbutton />-->
-  <Phackneybutton />
+  <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
   <b-button-group>
-  <Pstratfordbutton />
+  <!---<Pstratfordbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Showcase</h4>
@@ -41,12 +41,13 @@
   <h4 class="title-color">Vue</h4>
   <b-button-group>
   <Romfordbutton />
-  <Vstratford />
+  <!--<Vstratford />-->
   </b-button-group>
 
   <h4 class="title-color"></h4>
   <b-button-group>
   <FiveR />
+  <FiveF />
   </b-button-group>
 
 </b-card>
@@ -66,6 +67,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import FiveR from '@/components/ReviewMovies/FiveR'
+import FiveF from '@/components/FreeMovies/FiveF'
 
 
 
@@ -86,7 +88,7 @@ export default {
     Romfordbutton,
     Vstratford,
     FiveR,
-
+    FiveF,
       }
 }
 </script>

@@ -47,6 +47,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
     <AlitaR />
+    <AlitaF />
   </b-button-group>
 
 </b-card>
@@ -66,6 +67,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import AlitaR from '@/components/ReviewMovies/AlitaR'
+import AlitaF from '@/components/FreeMovies/AlitaF'
 
 
 
@@ -86,7 +88,7 @@ export default {
     Romfordbutton,
     Vstratford,
     AlitaR,
-
+    AlitaF,
 
       }
 }

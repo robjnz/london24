@@ -6,47 +6,13 @@
           allowfullscreen
   ></b-embed>
 
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<Greenwichbutton />-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-<!--<Ilfordbutton />-->
-<!--<Westbutton />-->
-  </b-button-group>
 
-  <h4 class="title-color">Odeon</h4>
-  <b-button-group>
- <!--<Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
-  </b-button-group>
 
-  <h4 class="title-color">Picturehouses</h4>
-  <b-button-group>
-  <!--<Pgreenwichbutton />-->
-  <!--<Phackneybutton />-->
-  </b-button-group>
-<br><br>
-  <b-button-group>
-  <!--<Pstratfordbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <Romfordbutton />
-  <Vstratford />
-  </b-button-group>
 
   <h4 class="title-color"></h4>
   <b-button-group>
   <BealeR />
+  <BealeF />
   </b-button-group>
 
 </b-card>
@@ -66,6 +32,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import BealeR from '@/components/ReviewMovies/BealeR'
+import BealeF from '@/components/FreeMovies/BealeF'
 
 
 
@@ -86,6 +53,7 @@ export default {
     Romfordbutton,
     Vstratford,
     BealeR,
+    BealeF,
 
       }
 }

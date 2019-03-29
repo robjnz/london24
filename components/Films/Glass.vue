@@ -47,6 +47,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
   <GlassR />
+  <GlassF />
   </b-button-group>
 
 </b-card>
@@ -66,6 +67,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import GlassR from '@/components/ReviewMovies/GlassR'
+import GlassF from '@/components/FreeMovies/GlassF'
 
 
 
@@ -84,7 +86,7 @@ export default {
     Romfordbutton,
     Vstratford,
     GlassR,
-
+    GlassF,
       }
 }
 </script>

@@ -41,12 +41,13 @@
   <h4 class="title-color">Vue</h4>
   <b-button-group>
   <Romfordbutton />
-  <!--<Vstratford />-->
+  <Vstratford />
   </b-button-group>
 
   <h4 class="title-color"></h4>
   <b-button-group>
   <HappyR />
+  <HappyF />
   </b-button-group>
 
 </b-card>
@@ -66,6 +67,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import HappyR from '@/components/ReviewMovies/HappyR'
+import HappyF from '@/components/FreeMovies/HappyF'
 
 
 
@@ -86,7 +88,7 @@ export default {
     Romfordbutton,
     Vstratford,
     HappyR,
-
+    HappyF,
       }
 }
 </script>

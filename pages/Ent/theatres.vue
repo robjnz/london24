@@ -7,11 +7,11 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Stranded">
+<b-card bg-variant="dark" text-variant="white" title= "REVIVAL Showcase + Afterparty">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    7pm Wed 27 March 2019
+    7 pm Fri 29 March 2019
     </p>
     <b-button href="http://bit.ly/2O857LG" target="_blank" variant="info">open</b-button>
 

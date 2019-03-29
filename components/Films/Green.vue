@@ -27,7 +27,7 @@
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <Pgreenwichbutton />
+  <!--<Pgreenwichbutton />-->
   <Phackneybutton />
   </b-button-group>
 <br><br>
@@ -42,13 +42,14 @@
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <Romfordbutton />
+  <!--<Romfordbutton />-->
   <Vstratford />
   </b-button-group>
 
   <h4 class="title-color"></h4>
   <b-button-group>
   <GreenR />
+  <GreenF />
   </b-button-group>
 
 </b-card>
@@ -68,6 +69,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import GreenR from '@/components/ReviewMovies/GreenR'
+import GreenF from '@/components/FreeMovies/GreenF'
 
 
 
@@ -86,7 +88,7 @@ export default {
     Romfordbutton,
     Vstratford,
     GreenR,
-
+    GreenF,
       }
 }
 </script>

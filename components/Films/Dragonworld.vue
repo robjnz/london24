@@ -8,19 +8,19 @@
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<Bexleyheathbutton />
-<Greenwichbutton />
+<!--<Bexleyheathbutton />-->
+<!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
 <b-button-group>
-<Ilfordbutton />
+<!--<Ilfordbutton />-->
 <!--<Westbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
- <Ogreenwichbutton />
-  <Osouthbutton />
+ <!--<Ogreenwichbutton />-->
+  <!--<Osouthbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
@@ -47,6 +47,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
   <DragonworldR />
+  <DragonworldF />
   </b-button-group>
 
 </b-card>
@@ -66,6 +67,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import DragonworldR from '@/components/ReviewMovies/DragonworldR'
+import DragonworldF from '@/components/FreeMovies/DragonworldF'
 
 
 
@@ -86,7 +88,7 @@ export default {
     Romfordbutton,
     Vstratford,
     DragonworldR,
-
+    DragonworldF,
       }
 }
 </script>

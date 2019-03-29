@@ -13,7 +13,7 @@
   </b-button-group>
 <br><br>
 <b-button-group>
-<Ilfordbutton />
+<!--<Ilfordbutton />-->
 <!--<Westbutton />-->
   </b-button-group>
 
@@ -41,7 +41,7 @@
   <h4 class="title-color">Vue</h4>
   <b-button-group>
 <!--<Romfordbutton />-->
-  <Vstratford />
+  <!--<Vstratford />-->
   </b-button-group>
 
   <h4 class="title-color"></h4>
