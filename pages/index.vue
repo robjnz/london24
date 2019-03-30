@@ -4,16 +4,16 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Saturday<br>30th March 2019</font></h1>
+    <h1> <font color="gold"><br>Sunday<br>31th March 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
-
+<!--
 <h3 class="title-color">
-  Home Game<br>Charlton Athletic F.C.‎<br>V<br>Bradford City <br> @ 3pm
+  Home Game<br>Charlton Athletic F.C. Woman Team<br>V<br>Tottenham <br> @ 3pm
 <br>
 <b-button href="http://bit.ly/2LjQdCd" target="_blank" variant="info">open</b-button>
 </h3>
-
+-->
 <h3 class ="tory">
 <br>Five Feet Apart<br>
 
@@ -33,7 +33,7 @@ Ilford
 <b-button href="http://bit.ly/2AuCVyP" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-
+<!--
 <h3 class="labour">In Basildon<br>
 <b-embed type="iframe"
           aspect = "16by9"
@@ -47,7 +47,7 @@ Ilford
 
 <b-button href="http://bit.ly/2Soh3MB" target="_blank" variant="info">open</b-button>
 <br><br>
-
+-->
     </b-badge>
 
     </div>

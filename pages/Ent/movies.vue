@@ -3,69 +3,76 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Saturday 30th March 2019</h2>
+    <h2>Sunday 31st March 2019</h2>
 
     <b-card-group deck
     class="mb-3">
     <Dog /><!--A Dog's Way Home-->
+    <Airaa /><!--Airaa -->
     <Alita /><!--Alita Battle Angel -->
-    <Badla /><!--Badia -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <Badla /><!--Badia -->
     <Band /><!--Band Vaaje-->
-  <Ben /><!--Ben is Back 15-->
-  <Bohemian /><!--Bohemian Rhapsody -->
-  </b-card-group>
+    <Ben /><!--Ben is Back 15-->
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Bohemian /><!--Bohemian Rhapsody -->
   <Border /><!--Border -->
   <Bumblebee /><!--Bumblebee -->
-  <Caper /><!--Capernaum -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Caper /><!--Capernaum -->
   <Marvel /><!-- Captain Marvil -->
   <Cold /><!--Cold Pursuit -->
-  <Dumbo /><!--Dumbo -->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Dumbo /><!--Dumbo -->
+  <Lion /><!--Eaten by Lion -->
   <Escape /><!--Escape Room -->
+   </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Everybody /><!--Everybody Knows -->
 <Fighting /><!--Fighting With My Family -->
-</b-card-group>
+<Fisherman /><!--Fisherman’s Friend -->
+ </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-<Fisherman /><!--Fisherman’s Friend -->
 <Five /><!--Five Feet Apart-->
 <Glass /><!--Glass-->
-</b-card-group>
+<Green /><!--Green Book-->
+ </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-<Green /><!--Green Book-->
 <Guddiyan /><!--Guddiyan Patole -->
 <Gully /><!--Gully Boy -->
-</b-card-group>
+<Happy /><!--Happy Death Day -->
+ </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-<Happy /><!--Happy Death Day -->
 <Dragonworld /><!--How to Train Your Dragon the Hidden -->
 <Beale /><!--If Beale Street Could talk-->
-</b-card-group>
+<family /><!--Instant Family  -->
+ </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-<family /><!--Instant Family  -->
   <Junglee /><!--Junglee -->
-  <Lion /><!--Eaten by Lion -->
+  <Lucifer /><!--Lucifer-->
+  <Lords /><!--Lords of chaos-->
   </b-card-group>
 
   <b-card-group deck
@@ -84,24 +91,25 @@
 
   <b-card-group deck
   class="mb-3 ">
+  <Rabb /><!--Rabb Da Radio-->
   <Spider /><!--Spider-Man Into The Spider-Verse -->
   <Crow /><!--The White Crow-->
-  <Favourite /><!--The Favourite -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Favourite /><!--The Favourite -->
   <King /><!--The Kid Who Would Be King-->
   <Prodigy /><!--The Prodigy-->
-  <Total /><!--Total Dhamal  -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Total /><!--Total Dhamal  -->
   <Us /><!--Us-->
   <Vice /><!--Vice-->
-  <Preview />
-</b-card-group>
+  </b-card-group>
+
 
 
       <!--<Ml --90ML -->
@@ -223,6 +231,11 @@ import Lion from '@/components/Films/Lion'
 import Us from '@/components/Films/Us'
 import Blue from '@/components/Films/Blue'
 import Notebook from '@/components/Films/Notebook'
+import Lords from '@/components/Films/Lords'
+import Lucifer from '@/components/Films/Lucifer'
+import Rabb from '@/components/Films/Rabb'
+import Airaa from '@/components/Films/Airaa/Airaa'
+
 
 
 
@@ -245,6 +258,7 @@ export default {
   },
   components: {
     Aftermath,
+    Airaa,
     Alita,
     Aquaman,
     Badla,
@@ -296,6 +310,8 @@ export default {
     Kodathi,
     Kumbalangi,
     Lego,
+    Lucifer,
+    Lords,
     Luka,
     Maiden,
     Marvel,
@@ -306,6 +322,7 @@ export default {
     Poppins,
     Preview,
     Prodigy,
+    Rabb,
     Ralph,
     Ring,
     Rose,

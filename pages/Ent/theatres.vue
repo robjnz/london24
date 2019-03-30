@@ -7,20 +7,20 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "The King, The Queen & The Prince">
+<b-card bg-variant="dark" text-variant="white" title= "Celebrating Young Women">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    7pm Sat 30 March 2019
+    Sun 31 March 2019 - Sat 6 April 2019
     </p>
     <b-button href="http://bit.ly/2O857LG" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Lord of the Flies">
+<b-card bg-variant="dark" text-variant="white" title= "The Trials of Oscar Wilde">
   <p class="title-color">
     Greenwich Theatre<br>
-    Wed 20 March - Sat 30 March 2019
+    Tues 2 - Sat 6 April 2019
     </p>
     <b-button href="http://bit.ly/2CKtih3" target="_blank" variant="info">open</b-button>
 
@@ -50,26 +50,30 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Dirty Rotten Scoundrels">
-
+<b-card bg-variant="dark" text-variant="white" title= "Giselle">
+<b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/5N1S0VbGaco"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Thu 28 - Sat 30 March 2019
+    5pm @ Sat 6 April 2019
 
     </p>
     <b-button href="http://bit.ly/2D9UPtc" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "In Basildon">
+<b-card bg-variant="dark" text-variant="white" title= "Approaching Empty">
   <p class="title-color">
 
   <p class="title-color">
     Queen's Theatre Hornchurch<br>
-    Tues 26 - Sat 30 March 2019
+    Tues 2 - Sat 6 April 2019
   <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/d5ilLcjmvTE"
+          src    = "https://www.youtube.com/embed/NklAFJbSkOs"
           allowfullscreen
   ></b-embed>
     </p>
