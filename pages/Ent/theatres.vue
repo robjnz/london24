@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <h1 class="title-color">What on this month @ East London Theatres</h1>
-    <h2>March 2019</h2>
+    <h2>April 2019</h2>
     <br>
     <b-card-group deck
       class="mb-3">
@@ -51,16 +51,17 @@
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Giselle">
-<b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/5N1S0VbGaco"
-          allowfullscreen
-  ></b-embed>
+
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
     5pm @ Sat 6 April 2019
 
-    </p>
+    <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/5N1S0VbGaco"
+          allowfullscreen
+  ></b-embed>
+</p>
     <b-button href="http://bit.ly/2D9UPtc" target="_blank" variant="info">open</b-button>
 
 </b-card>
@@ -161,7 +162,7 @@ export default {
     return {
       titleTemplate: '%s theatres',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, March 2019, Hackney empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
+        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, April 2019, Hackney empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
       ]
     }
   }

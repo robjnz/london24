@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Sunday<br>31th March 2019</font></h1>
+    <h1> <font color="gold"><br>Monday<br>1st April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -33,21 +33,23 @@ Ilford
 <b-button href="http://bit.ly/2AuCVyP" target="_blank" variant="info">open</b-button>
 <br>
 <br>
+
+<h3 class="labour">Drake<br>
 <!--
-<h3 class="labour">In Basildon<br>
 <b-embed type="iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/d5ilLcjmvTE"
           allowfullscreen
   ></b-embed>
+  -->
     Showing today @
-  <br>Queen's Theatre Hornchurch
-  <br>@<br>2.30pm & 8pm
+  <br>The O2 arena
+  <br>@<br>6pm
 </h3>
 
-<b-button href="http://bit.ly/2Soh3MB" target="_blank" variant="info">open</b-button>
+<b-button href="http://bit.ly/2PpXswU" target="_blank" variant="info">open</b-button>
 <br><br>
--->
+
     </b-badge>
 
     </div>

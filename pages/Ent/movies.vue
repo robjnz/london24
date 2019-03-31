@@ -3,68 +3,54 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Sunday 31st March 2019</h2>
+    <h2>Monday 1st April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
-    <Dog /><!--A Dog's Way Home-->
     <Airaa /><!--Airaa -->
     <Alita /><!--Alita Battle Angel -->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
     <Badla /><!--Badia -->
-    <Band /><!--Band Vaaje-->
-    <Ben /><!--Ben is Back 15-->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Bohemian /><!--Bohemian Rhapsody -->
+    <Band /><!--Band Vaaje-->
   <Border /><!--Border -->
-  <Bumblebee /><!--Bumblebee -->
+  <Caper /><!--Capernaum -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Caper /><!--Capernaum -->
   <Marvel /><!-- Captain Marvil -->
-  <Cold /><!--Cold Pursuit -->
-   </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <Dumbo /><!--Dumbo -->
   <Lion /><!--Eaten by Lion -->
-  <Escape /><!--Escape Room -->
    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Escape /><!--Escape Room -->
   <Everybody /><!--Everybody Knows -->
 <Fighting /><!--Fighting With My Family -->
-<Fisherman /><!--Fisherman’s Friend -->
  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+<Fisherman /><!--Fisherman’s Friend -->
 <Five /><!--Five Feet Apart-->
 <Glass /><!--Glass-->
-<Green /><!--Green Book-->
  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+<Green /><!--Green Book-->
 <Guddiyan /><!--Guddiyan Patole -->
 <Gully /><!--Gully Boy -->
-<Happy /><!--Happy Death Day -->
  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+<Happy /><!--Happy Death Day -->
 <Dragonworld /><!--How to Train Your Dragon the Hidden -->
-<Beale /><!--If Beale Street Could talk-->
 <family /><!--Instant Family  -->
  </b-card-group>
 
@@ -78,39 +64,60 @@
   <b-card-group deck
   class="mb-3 ">
 <Luka /><!--Luka Chuppi  -->
-<Scots /><!--Mary Queen Of Scots -->
-<Poppins /><!--Mary Poppins-->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <Bala /><!--Miss Bala-->
   <Notebook /><!--Notebook-->
-  <Blue /><!--Out Of Blue -->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Blue /><!--Out Of Blue -->
   <Rabb /><!--Rabb Da Radio-->
   <Spider /><!--Spider-Man Into The Spider-Verse -->
-  <Crow /><!--The White Crow-->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Crow /><!--The White Crow-->
   <Favourite /><!--The Favourite -->
   <King /><!--The Kid Who Would Be King-->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Prodigy /><!--The Prodigy-->
+  <Vanishing /><!--The Vanishing-->
+  <Total /><!--Total Dhamal  -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Total /><!--Total Dhamal  -->
   <Us /><!--Us-->
   <Vice /><!--Vice-->
+  <Blank />
   </b-card-group>
 
+  <h1 class="title-color">Movies free to watch online </h1>
+  <b-card-group deck
+  class="mb-3 ">
+  <Dog /><!--A Dog's Way Home-->
+  <Ben /><!--Ben is Back 15-->
+  <Bohemian /><!--Bohemian Rhapsody -->
+  </b-card-group>
 
+  <b-card-group deck
+  class="mb-3 ">
+  <Bumblebee /><!--Bumblebee -->
+  <Forgive /><!--Can You Ever Forgive Me -->
+  <Cold /><!--Cold Pursuit -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Beale /><!--If Beale Street Could talk-->
+  <Scots /><!--Mary Queen Of Scots -->
+  <Poppins /><!--Mary Poppins-->
+  
+  </b-card-group>
 
       <!--<Ml --90ML -->
       <!--<Star --A star is Born-->
@@ -123,7 +130,6 @@
       <!--<Dragon --Dragon Ball Super -->
       <!--<Erased --Boy Erased-->
       <!--<Fight --The Fight-->
-      <!--<Forgive --Can You Ever Forgive Me -->
       <!--<Had --What They Had -->
       <!--<Hannah --Hannah-->
       <!--<Hole --The Hole In The Ground-->
@@ -154,7 +160,6 @@ import Dog from '@/components/Films/Dog'
 import Aquaman from '@/components/Films/Aquaman'
 import Boy from '@/components/Films/Boy'
 import Glass from '@/components/Films/Glass'
-import Scots from '@/components/Films/Scots'
 import Second from '@/components/Films/Second'
 import Stan from '@/components/Films/Stan'
 import Favourite from '@/components/Films/Favourite'
@@ -173,7 +178,6 @@ import Creed from '@/components/Films/Creed'
 import Dragon from '@/components/Films/Dragon'
 import Colette from '@/components/Films/Colette'
 import Green from '@/components/Films/Green'
-import Forgive from '@/components/Films/Forgive'
 import Star from '@/components/Films/Star'
 import Alita from '@/components/Films/Alita'
 import Lego from '@/components/Films/Lego'
@@ -211,7 +215,6 @@ import Kobiety from '@/components/Films/Kobiety'
 import Beale from '@/components/Films/Beale'
 import Kodathi from '@/components/Films/Kodathi'
 import Maiden from '@/components/Films/Maiden'
-import Poppins from '@/components/Films/Poppins'
 import Ben from '@/components/Films/Ben'
 import Fisherman from '@/components/Films/Fisherman'
 import Fight from '@/components/Films/Fight'
@@ -235,6 +238,10 @@ import Lords from '@/components/Films/Lords'
 import Lucifer from '@/components/Films/Lucifer'
 import Rabb from '@/components/Films/Rabb'
 import Airaa from '@/components/Films/Airaa/Airaa'
+import Vanishing from '@/components/Films/Vanishing/Vanishing'
+import Poppins from '@/components/Films/Poppins/Poppins'
+import Scots from '@/components/Films/Scots/Scots'
+import Forgive from '@/components/Films/Forgive/Forgive'
 
 
 
@@ -252,7 +259,7 @@ export default {
     return {
       titleTemplate: '%s Movies Today',
       meta         : [
-        { hid: 'description', name: 'description', content: ' Whats on today @ cineworld, odeon, picturehouses, showcase & Vue cinemas in east London, Bexleyheath, Greenwich 02, Ilford,romford, South Woodford and West India Quay, February 2019 ' }
+        { hid: 'description', name: 'description', content: ' Whats on today @ cineworld, odeon, picturehouses, showcase & Vue cinemas in east London, Bexleyheath, Greenwich 02, Ilford,romford, South Woodford and West India Quay, April 2019 and free to watch online movies' }
       ]
     }
   },
@@ -336,6 +343,7 @@ export default {
     Total,
     True,
     Upside,
+    Vanishing,
     Vice,
     War,
     Dumbo,

@@ -1,49 +1,16 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Can You Ever Forgive Me?  15">
-<b-embed type="iframe"
+<b-card bg-variant="dark" text-variant="white" title= "Mary Poppins Returns U">
+  <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/UvJIaNsf_bY"
+          src    = "http://bit.ly/2V8a0IX"
           allowfullscreen
   ></b-embed>
 
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<Greenwichbutton />-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-<!--<Ilfordbutton />-->
-<!--<Westbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Odeon</h4>
+  <h4 class="title-color"></h4>
   <b-button-group>
- <!--<Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
+  <PoppinsR />
+  <PoppinsF />
   </b-button-group>
-
-  <h4 class="title-color">Picturehouses</h4>
-  <b-button-group>
-  <!--<Pgreenwichbutton />-->
-  <!--<Phackneybutton />-->
-  </b-button-group>
-<br><br>
-  <b-button-group>
-  <!--<Pstratfordbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <!--<Romfordbutton />-->
-  <!--<Vstratford />-->
-  </b-button-group>
-
 </b-card>
 </template>
 
@@ -60,7 +27,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-
+import PoppinsR from '@/components/Films/Poppins/poppinsR'
+import PoppinsF from '@/components/Films/Poppins/poppinsF'
 
 
 
@@ -79,6 +47,8 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
+    PoppinsR,
+    PoppinsF,
 
 
       }

@@ -1,52 +1,16 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Mary Queen Of Scots 15">
+<b-card bg-variant="dark" text-variant="white" title= "Can You Ever Forgive Me?  15">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/T5l8cvuo7IA"
+          src    = "http://bit.ly/2OAxTX6"
           allowfullscreen
   ></b-embed>
 
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<greenwichbutton />-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-<!--<ilfordbutton />-->
-<!--<westbutton />-->
-  </b-button-group>
 
-  <h4 class="title-color">Odeon</h4>
+<h4 class="title-color"></h4>
   <b-button-group>
-  <!--<Ogreenwichbutton />-->
- <!-- <Osouthbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Picturehouses</h4>
-  <b-button-group>
-  <!--<Pgreenwichbutton />-->
-  <!--<Phackneybutton />-->
-  </b-button-group>
-<br><br>
-  <b-button-group>
- <!--<Pstratfordbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
- <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <!--<Romfordbutton />-->
-<!--<Vstratford />-->
-  </b-button-group>
-
-  <h4 class="title-color"></h4>
-  <b-button-group>
-  <ScotsR />
+  <ForgiveR />
+  <ForgiveF />
   </b-button-group>
 </b-card>
 </template>
@@ -64,7 +28,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import ScotsR from '@/components/ReviewMovies/ScotsR'
+import ForgiveR from '@/components/Films/Forgive/ForgiveR'
+import ForgiveF from '@/components/Films/Forgive/ForgiveF'
+
 
 
 
@@ -82,7 +48,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    ScotsR,
+    ForgiveR,
+    ForgiveF,
+
 
       }
 }
