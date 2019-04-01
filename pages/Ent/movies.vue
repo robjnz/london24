@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Monday 1st April 2019</h2>
+    <h2>Tuesday 2nd April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -16,107 +16,116 @@
   class="mb-3 ">
     <Band /><!--Band Vaaje-->
   <Border /><!--Border -->
-  <Caper /><!--Capernaum -->
+  <BoyC /><!--Beautiful Boy -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Caper /><!--Capernaum -->
   <Marvel /><!-- Captain Marvil -->
   <Dumbo /><!--Dumbo -->
-  <Lion /><!--Eaten by Lion -->
-   </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Escape /><!--Escape Room -->
-  <Everybody /><!--Everybody Knows -->
-<Fighting /><!--Fighting With My Family -->
- </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<Fisherman /><!--Fisherman’s Friend -->
-<Five /><!--Five Feet Apart-->
-<Glass /><!--Glass-->
- </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<Green /><!--Green Book-->
-<Guddiyan /><!--Guddiyan Patole -->
-<Gully /><!--Gully Boy -->
- </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<Happy /><!--Happy Death Day -->
-<Dragonworld /><!--How to Train Your Dragon the Hidden -->
-<family /><!--Instant Family  -->
- </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Junglee /><!--Junglee -->
-  <Lucifer /><!--Lucifer-->
-  <Lords /><!--Lords of chaos-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Lion /><!--Eaten by Lion -->
+  <Escape /><!--Escape Room -->
+  <Everybody /><!--Everybody Knows -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+<Fighting /><!--Fighting With My Family -->
+<Fisherman /><!--Fisherman’s Friend -->
+<Five /><!--Five Feet Apart-->
+</b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+<Glass /><!--Glass-->
+<Green /><!--Green Book-->
+<Guddiyan /><!--Guddiyan Patole -->
+</b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+<Gully /><!--Gully Boy -->
+<Happy /><!--Happy Death Day -->
+<Dragonworld /><!--How to Train Your Dragon the Hidden -->
+</b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+<family /><!--Instant Family  -->
+  <Junglee /><!--Junglee -->
+  <Lucifer /><!--Lucifer-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Lords /><!--Lords of chaos-->
 <Luka /><!--Luka Chuppi  -->
   <Bala /><!--Miss Bala-->
-  <Notebook /><!--Notebook-->
-   </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Notebook /><!--Notebook-->
   <Blue /><!--Out Of Blue -->
   <Rabb /><!--Rabb Da Radio-->
-  <Spider /><!--Spider-Man Into The Spider-Verse -->
-   </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Crow /><!--The White Crow-->
+  <Spider /><!--Spider-Man Into The Spider-Verse -->
   <Favourite /><!--The Favourite -->
   <King /><!--The Kid Who Would Be King-->
-    </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <Prodigy /><!--The Prodigy-->
-  <Vanishing /><!--The Vanishing-->
-  <Total /><!--Total Dhamal  -->
+  <VanishingC /><!--The Vanishing-->
+  <Crow /><!--The White Crow-->
+
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Total /><!--Total Dhamal  -->
   <Us /><!--Us-->
   <Vice /><!--Vice-->
-  <Blank />
   </b-card-group>
+
+
 
   <h1 class="title-color">Movies free to watch online </h1>
   <b-card-group deck
   class="mb-3 ">
   <Dog /><!--A Dog's Way Home-->
+  <Boy /><!--Beautiful Boy -->
   <Ben /><!--Ben is Back 15-->
-  <Bohemian /><!--Bohemian Rhapsody -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Bohemian /><!--Bohemian Rhapsody -->
   <Bumblebee /><!--Bumblebee -->
   <Forgive /><!--Can You Ever Forgive Me -->
-  <Cold /><!--Cold Pursuit -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Cold /><!--Cold Pursuit -->
   <Beale /><!--If Beale Street Could talk-->
   <Scots /><!--Mary Queen Of Scots -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Poppins /><!--Mary Poppins-->
-  
+  <Vanishing /><!--The Vanishing-->
+  <Blank />
   </b-card-group>
 
       <!--<Ml --90ML -->
@@ -125,7 +134,6 @@
       <!--<Bell --Bell bottom-->
       <!--<Aquaman --Aquaman -->
       <!--Black --Blackklansman -->
-      <!--Boy --Beautiful Boy -->
       <!--Burning --Burning-->
       <!--<Dragon --Dragon Ball Super -->
       <!--<Erased --Boy Erased-->
@@ -158,7 +166,6 @@
 
 import Dog from '@/components/Films/Dog'
 import Aquaman from '@/components/Films/Aquaman'
-import Boy from '@/components/Films/Boy'
 import Glass from '@/components/Films/Glass'
 import Second from '@/components/Films/Second'
 import Stan from '@/components/Films/Stan'
@@ -239,9 +246,13 @@ import Lucifer from '@/components/Films/Lucifer'
 import Rabb from '@/components/Films/Rabb'
 import Airaa from '@/components/Films/Airaa/Airaa'
 import Vanishing from '@/components/Films/Vanishing/Vanishing'
+import VanishingC from '@/components/Films/Vanishing/VanishingC'
 import Poppins from '@/components/Films/Poppins/Poppins'
 import Scots from '@/components/Films/Scots/Scots'
 import Forgive from '@/components/Films/Forgive/Forgive'
+import Boy from '@/components/Films/Boy/Boy'
+import BoyC from '@/components/Films/Boy/BoyC'
+
 
 
 
@@ -280,6 +291,7 @@ export default {
     Bohemian,
     Border,
     Boy,
+    BoyC,
     Bumblebee,
     Burning,
     Caper,
@@ -344,6 +356,7 @@ export default {
     True,
     Upside,
     Vanishing,
+    VanishingC,
     Vice,
     War,
     Dumbo,

@@ -1,8 +1,8 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Glass 15">
+<b-card bg-variant="dark" text-variant="white" title= "Beautiful Boy 15">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/95ghQs5AmNk"
+          src    = "http://bit.ly/2WEvrSo"
           allowfullscreen
   ></b-embed>
 
@@ -13,43 +13,42 @@
   </b-button-group>
 <br><br>
 <b-button-group>
-<!--<Ilfordbutton />-->
+
+<!--<Greenwichbutton />-->
+  </b-button-group>
+<br><br>
+<b-button-group>
+
 <!--<Westbutton />-->
   </b-button-group>
 
-  <h4 class="title-color">Odeon</h4>
+<h4 class="title-color">Odeon</h4>
   <b-button-group>
-  <!--<Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
+  <Ogreenwichbutton />
+  <Osouthbutton />
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
   <!--<Pgreenwichbutton />-->
-  <!--<Phackneybutton />-->
+ <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
   <b-button-group>
   <!--<Pstratfordbutton />-->
   </b-button-group>
 
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <Romfordbutton />
-  <Vstratford />
+  <!--<Romfordbutton />-->
+  <!--<Vstratford />-->
   </b-button-group>
 
   <h4 class="title-color"></h4>
   <b-button-group>
-  <GlassR />
-  <GlassF />
+    <BoyR />
+    <BoyF />
   </b-button-group>
-
 </b-card>
 </template>
 
@@ -63,12 +62,10 @@ import Osouthbutton from '@/components/Odeon/Osouthbutton'
 import Pgreenwichbutton from '@/components/Picturehouses/Pgreenwichbutton'
 import Phackneybutton from '@/components/Picturehouses/Phackneybutton'
 import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
-import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import GlassR from '@/components/ReviewMovies/GlassR'
-import GlassF from '@/components/FreeMovies/GlassF'
-
+import BoyF from '@/components/Films/Boy/BoyF'
+import BoyR from '@/components/Films/Boy/BoyR'
 
 
 export default {
@@ -82,11 +79,11 @@ export default {
     Pgreenwichbutton,
     Phackneybutton,
     Pstratfordbutton,
-    Newhambutton,
     Romfordbutton,
     Vstratford,
-    GlassR,
-    GlassF,
+    BoyR,
+    BoyF,
+
       }
 }
 </script>

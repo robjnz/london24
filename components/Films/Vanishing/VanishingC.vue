@@ -1,8 +1,8 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Beautiful Boy 15">
+<b-card bg-variant="dark" text-variant="white" title= "The Vanishing 15">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/y23HyopQxEg"
+          src    = "http://bit.ly/2UgsNol"
           allowfullscreen
   ></b-embed>
 
@@ -13,29 +13,29 @@
   </b-button-group>
 <br><br>
 <b-button-group>
-
-<!--<Greenwichbutton />-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-
+<!--<Ilfordbutton />-->
 <!--<Westbutton />-->
   </b-button-group>
 
-<h4 class="title-color">Odeon</h4>
+  <h4 class="title-color">Odeon</h4>
   <b-button-group>
-  <!--<Ogreenwichbutton />-->
+ <!-- <Ogreenwichbutton />-->
   <!--<Osouthbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
   <!--<Pgreenwichbutton />-->
- <!--<Phackneybutton />-->
+  <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
   <b-button-group>
   <!--<Pstratfordbutton />-->
+  </b-button-group>
+
+  <h4 class="title-color">Showcase</h4>
+  <b-button-group>
+<Newhambutton />
   </b-button-group>
 
   <h4 class="title-color">Vue</h4>
@@ -43,6 +43,13 @@
   <!--<Romfordbutton />-->
   <!--<Vstratford />-->
   </b-button-group>
+
+  <h4 class="title-color"></h4>
+  <b-button-group>
+    <VanishingR />
+    <VanishingF />
+  </b-button-group>
+
 </b-card>
 </template>
 
@@ -56,8 +63,13 @@ import Osouthbutton from '@/components/Odeon/Osouthbutton'
 import Pgreenwichbutton from '@/components/Picturehouses/Pgreenwichbutton'
 import Phackneybutton from '@/components/Picturehouses/Phackneybutton'
 import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
+import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import VanishingR from '@/components/Films/Vanishing/VanishingR'
+import VanishingF from '@/components/Films/Vanishing/VanishingF'
+
+
 
 
 export default {
@@ -71,8 +83,11 @@ export default {
     Pgreenwichbutton,
     Phackneybutton,
     Pstratfordbutton,
+    Newhambutton,
     Romfordbutton,
     Vstratford,
+    VanishingR,
+    VanishingF,
 
       }
 }

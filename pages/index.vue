@@ -4,16 +4,16 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Monday<br>1st April 2019</font></h1>
+    <h1> <font color="gold"><br>Tuesday<br>2nd April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
-<!--
+
 <h3 class="title-color">
-  Home Game<br>Charlton Athletic F.C. Woman Team<br>V<br>Tottenham <br> @ 3pm
+  Home Game<br>Newbury Forest F.C.<br>V<br>Hackney Wick<br> @ 7.45pm
 <br>
-<b-button href="http://bit.ly/2LjQdCd" target="_blank" variant="info">open</b-button>
+<b-button href="http://bit.ly/2ueptve" target="_blank" variant="info">open</b-button>
 </h3>
--->
+
 <h3 class ="tory">
 <br>Five Feet Apart<br>
 
@@ -44,7 +44,7 @@ Ilford
   -->
     Showing today @
   <br>The O2 arena
-  <br>@<br>6pm
+  <br>@<br>7pm
 </h3>
 
 <b-button href="http://bit.ly/2PpXswU" target="_blank" variant="info">open</b-button>
