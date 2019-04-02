@@ -2,10 +2,9 @@
 <b-card bg-variant="dark" text-variant="white" title= "Beautiful Boy 15">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "http://bit.ly/2WEvrSo"
+          src    = "https://www.youtube.com/embed/XEw2uHUYUPk"
           allowfullscreen
   ></b-embed>
-
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
 <!--<Bexleyheathbutton />-->

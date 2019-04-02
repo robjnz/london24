@@ -2,10 +2,9 @@
 <b-card bg-variant="dark" text-variant="white" title= "Can You Ever Forgive Me?  15">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "http://bit.ly/2OAxTX6"
+          src    = "https://www.youtube.com/embed/UvJIaNsf_bY"
           allowfullscreen
   ></b-embed>
-
 
 <h4 class="title-color"></h4>
   <b-button-group>

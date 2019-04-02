@@ -2,10 +2,9 @@
 <b-card bg-variant="dark" text-variant="white" title= "The Vanishing 15">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "http://bit.ly/2UgsNol"
+          src    = "https://www.youtube.com/embed/RyFlfN4dD14"
           allowfullscreen
   ></b-embed>
-
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
 <!--<Bexleyheathbutton />-->
