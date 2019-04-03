@@ -1,4 +1,4 @@
 <template>
-    <b-button href="http://bit.ly/2U4wRIZ" target="_blank" variant="light">Review</b-button>
+    <b-button href="https://kutt.it/vanishingR" target="_blank" variant="light">Review</b-button>
 
 </template>

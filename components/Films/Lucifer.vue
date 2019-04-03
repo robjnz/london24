@@ -67,7 +67,6 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import LuciferR from '@/components/ReviewMovies/LuciferR'
-import AlitaF from '@/components/FreeMovies/AlitaF'
 
 
 
@@ -87,7 +86,6 @@ export default {
     Romfordbutton,
     Vstratford,
     LuciferR,
-    AlitaF,
 
       }
 }

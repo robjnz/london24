@@ -8,7 +8,7 @@
     <b-card-group deck
     class="mb-3">
     <Airaa /><!--Airaa -->
-    <Alita /><!--Alita Battle Angel -->
+    <AlitaC /><!--Alita Battle Angel -->
     <Badla /><!--Badia -->
     </b-card-group>
 
@@ -22,41 +22,41 @@
   <b-card-group deck
   class="mb-3 ">
   <Caper /><!--Capernaum -->
-  <Marvel /><!-- Captain Marvil -->
+  <MarvelC /><!-- Captain Marvel -->
   <Dumbo /><!--Dumbo -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <Lion /><!--Eaten by Lion -->
-  <Escape /><!--Escape Room -->
-  <Everybody /><!--Everybody Knows -->
+  <EscapeC /><!--Escape Room -->
+  <EverybodyC /><!--Everybody Knows -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-<Fighting /><!--Fighting With My Family -->
+<FightingC /><!--Fighting With My Family -->
 <Fisherman /><!--Fisherman’s Friend -->
-<Five /><!--Five Feet Apart-->
+<FiveC /><!--Five Feet Apart-->
 </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-<Glass /><!--Glass-->
-<Green /><!--Green Book-->
+<GlassC /><!--Glass-->
+<GreenC /><!--Green Book-->
 <Guddiyan /><!--Guddiyan Patole -->
 </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
 <Gully /><!--Gully Boy -->
-<Happy /><!--Happy Death Day -->
-<Dragonworld /><!--How to Train Your Dragon the Hidden -->
+<HappyC /><!--Happy Death Day -->
+<DragonworldC /><!--How to Train Your Dragon the Hidden -->
 </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-<family /><!--Instant Family  -->
+  <FamilyC /><!--Instant Family  -->
   <Junglee /><!--Junglee -->
   <Lucifer /><!--Lucifer-->
   </b-card-group>
@@ -64,7 +64,7 @@
   <b-card-group deck
   class="mb-3 ">
   <Lords /><!--Lords of chaos-->
-<Luka /><!--Luka Chuppi  -->
+  <Luka /><!--Luka Chuppi  -->
   <Bala /><!--Miss Bala-->
   </b-card-group>
 
@@ -103,28 +103,56 @@
   <b-card-group deck
   class="mb-3 ">
   <Dog /><!--A Dog's Way Home-->
+  <Alita /><!--Alita Battle Angel -->
   <Boy /><!--Beautiful Boy -->
-  <Ben /><!--Ben is Back 15-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Ben /><!--Ben is Back 15-->
   <Bohemian /><!--Bohemian Rhapsody -->
   <Bumblebee /><!--Bumblebee -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Escape /><!--Escape Room -->
+  <Fighting /><!--Fighting With My Family -->
   <Forgive /><!--Can You Ever Forgive Me -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Cold /><!--Cold Pursuit -->
-  <Beale /><!--If Beale Street Could talk-->
-  <Scots /><!--Mary Queen Of Scots -->
+  <Marvel /><!-- Captain Marvel -->
+  <Cold /><!--cold Pursuit -->
+  <Dragonworld /><!--How to Train Your Dragon the Hidden -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Five /><!--Five Feet Apart-->
+  <Everybody /><!--Everybody Knows -->
+  <Glass /><!--Glass-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Green /><!--Green Book-->
+  <Happy /><!--Happy Death Day -->
+  <Beale /><!--If Beale Street Could talk-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Family /><!--Instant Family  -->
+  <Scots /><!--Mary Queen Of Scots -->
   <Poppins /><!--Mary Poppins-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Vanishing /><!--The Vanishing-->
+  <Blank />
   <Blank />
   </b-card-group>
 
@@ -164,19 +192,14 @@
 
 <script>
 
-import Dog from '@/components/Films/Dog'
 import Aquaman from '@/components/Films/Aquaman'
-import Glass from '@/components/Films/Glass'
 import Second from '@/components/Films/Second'
 import Stan from '@/components/Films/Stan'
 import Favourite from '@/components/Films/Favourite'
 import Mule from '@/components/Films/Mule'
 import Vice from '@/components/Films/Vice'
 import Blank from '@/components/Films/Blank'
-import Bohemian from '@/components/Films/Bohemian'
-import Bumblebee from '@/components/Films/Bumblebee'
 import Ralph from '@/components/Films/Ralph'
-import Escape from '@/components/Films/Escape'
 import Upside from '@/components/Films/Upside'
 import Spider from '@/components/Films/Spider'
 import Destroyer from '@/components/Films/Destroyer'
@@ -184,21 +207,14 @@ import Preview from '@/components/Films/Preview'
 import Creed from '@/components/Films/Creed'
 import Dragon from '@/components/Films/Dragon'
 import Colette from '@/components/Films/Colette'
-import Green from '@/components/Films/Green'
 import Star from '@/components/Films/Star'
-import Alita from '@/components/Films/Alita'
 import Lego from '@/components/Films/Lego'
-import Happy from '@/components/Films/Happy'
 import True from '@/components/Films/True'
-import Family from '@/components/Films/Family'
 import King from '@/components/Films/King'
-import Fighting from '@/components/Films/Fighting'
 import Grinch from '@/components/Films/Grinch'
-import Cold from '@/components/Films/Cold'
 import Caper from '@/components/Films/Caper'
 import Sex from '@/components/Films/Sex'
 import Black from '@/components/Films/Black'
-import Dragonworld from '@/components/Films/Dragonworld'
 import War from '@/components/Films/War'
 import Aftermath from '@/components/Films/Aftermath'
 import Had from '@/components/Films/Had'
@@ -209,7 +225,6 @@ import Ml from '@/components/Films/Ml'
 import Luka from '@/components/Films/Luka'
 import Badla from '@/components/Films/Badla'
 import Kindergarten from '@/components/Films/Kindergarten'
-import Marvel from '@/components/Films/Marvel'
 import Border from '@/components/Films/Border'
 import Bala from '@/components/Films/Bala'
 import Guddiyan from '@/components/Films/Guddiyan'
@@ -217,12 +232,9 @@ import Kumbalangi from '@/components/Films/Kumbalangi'
 import Hole from '@/components/Films/Hole'
 import Total from '@/components/Films/Total'
 import Bell from '@/components/Films/Bell'
-import Everybody from '@/components/Films/Everybody'
 import Kobiety from '@/components/Films/Kobiety'
-import Beale from '@/components/Films/Beale'
 import Kodathi from '@/components/Films/Kodathi'
 import Maiden from '@/components/Films/Maiden'
-import Ben from '@/components/Films/Ben'
 import Fisherman from '@/components/Films/Fisherman'
 import Fight from '@/components/Films/Fight'
 import Prodigy from '@/components/Films/Prodigy'
@@ -234,7 +246,6 @@ import Ring from '@/components/Films/Ring'
 import Hannah from '@/components/Films/Hannah'
 import Rose from '@/components/Films/Rose'
 import Crow from '@/components/Films/Crow'
-import Five from '@/components/Films/Five'
 import Dumbo from '@/components/Films/Dumbo'
 import Junglee from '@/components/Films/Junglee'
 import Lion from '@/components/Films/Lion'
@@ -252,6 +263,35 @@ import Scots from '@/components/Films/Scots/Scots'
 import Forgive from '@/components/Films/Forgive/Forgive'
 import Boy from '@/components/Films/Boy/Boy'
 import BoyC from '@/components/Films/Boy/BoyC'
+import Dog from '@/components/Films/Dog/Dog'
+import Ben from '@/components/Films/Ben/Ben'
+import Bohemian from '@/components/Films/Bohemian/Bohemian'
+import Cold from '@/components/Films/Cold/Cold'
+import Beale from '@/components/Films/Beale/Beale'
+import Bumblebee from '@/components/Films/Bumblebee/Bumblebee'
+import Alita from '@/components/Films/Alita/Alita'
+import AlitaC from '@/components/Films/Alita/AlitaC'
+import Marvel from '@/components/Films/Marvel/Marvel'
+import MarvelC from '@/components/Films/Marvel/MarvelC'
+import Happy from '@/components/Films/Happy/Happy'
+import HappyC from '@/components/Films/Happy/HappyC'
+import Green from '@/components/Films/Green/Green'
+import GreenC from '@/components/Films/Green/GreenC'
+import Glass from '@/components/Films/Glass/Glass'
+import GlassC from '@/components/Films/Glass/GlassC'
+import Five from '@/components/Films/Five/Five'
+import FiveC from '@/components/Films/Five/FiveC'
+import Fighting from '@/components/Films/Fighting/Fighting'
+import FightingC from '@/components/Films/Fighting/FightingC'
+import Family from '@/components/Films/Family/Family'
+import FamilyC from '@/components/Films/Family/FamilyC'
+import Everybody from '@/components/Films/Everybody/Everybody'
+import EverybodyC from '@/components/Films/Everybody/EverybodyC'
+import Escape from '@/components/Films/Escape/Escape'
+import EscapeC from '@/components/Films/Escape/EscapeC'
+import Dragonworld from '@/components/Films/Dragonworld/Dragonworld'
+import DragonworldC from '@/components/Films/Dragonworld/DragonworldC'
+
 
 
 
@@ -278,6 +318,7 @@ export default {
     Aftermath,
     Airaa,
     Alita,
+    AlitaC,
     Aquaman,
     Badla,
     Bala,
@@ -303,24 +344,33 @@ export default {
     Dog,
     Dragon,
     Dragonworld,
+    DragonworldC,
     Erased,
     Escape,
+    EscapeC,
     Everybody,
+    EverybodyC,
     Family,
+    FamilyC,
     Favourite,
     Fight,
     Fighting,
+    FightingC,
     Fisherman,
     Five,
+    FiveC,
     Forgive,
     Glass,
+    GlassC,
     Green,
+    GreenC,
     Grinch,
     Guddiyan,
     Gully,
     Had,
     Hannah,
     Happy,
+    HappyC,
     Hole,
     Kala,
     Kindergarten,
@@ -334,6 +384,7 @@ export default {
     Luka,
     Maiden,
     Marvel,
+    MarvelC,
     Milan,
     Ml,
     Mule,

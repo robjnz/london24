@@ -47,7 +47,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
     <JungleeR />
-    
+
   </b-button-group>
 
 </b-card>
@@ -67,7 +67,6 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import JungleeR from '@/components/ReviewMovies/JungleeR'
-import AlitaF from '@/components/FreeMovies/AlitaF'
 
 
 
@@ -87,7 +86,6 @@ export default {
     Romfordbutton,
     Vstratford,
     JungleeR,
-    AlitaF,
 
       }
 }
