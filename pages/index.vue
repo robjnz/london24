@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Thurday<br>4th April 2019</font></h1>
+    <h1> <font color="gold"><br>Friday<br>5th April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -15,11 +15,11 @@
 </h3>
 -->
 <h3 class ="tory">
-<br>Five Feet Apart<br>
+<br>Shazam<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/24YrEAGF32M"
+          src    = "https://www.youtube.com/embed/Y5I4TA0yhr4"
           allowfullscreen
   ></b-embed>
     Showing today @
@@ -30,7 +30,7 @@ Ilford
 
 </h3>
 
-<b-button href="http://bit.ly/2AuCVyP" target="_blank" variant="info">open</b-button>
+<b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
 
@@ -47,7 +47,7 @@ Ilford
   <br>@<br>7pm
 </h3>
 
-<b-button href="http://bit.ly/2PpXswU" target="_blank" variant="info">open</b-button>
+<b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
 <br><br>
 
     </b-badge>

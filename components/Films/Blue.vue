@@ -14,7 +14,7 @@
 <br><br>
 <b-button-group>
 <!--<Ilfordbutton />-->
-<Westbutton />
+<!--<Westbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
@@ -30,7 +30,7 @@
   </b-button-group>
 <br><br>
   <b-button-group>
-  <Pstratfordbutton />
+  <!--<Pstratfordbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Showcase</h4>

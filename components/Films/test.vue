@@ -46,8 +46,8 @@
 
   <h4 class="title-color"></h4>
   <b-button-group>
-    <AlitaR />
-    <AlitaF />
+    <HappyR />
+    <HappyF />
   </b-button-group>
 
 </b-card>
@@ -66,8 +66,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import AiraaR from '@/components/Films/Airaa/AiraaR'
-import AlitaF from '@/components/FreeMovies/AlitaF'
+import HappyR from '@/components/Films/Happy/HappyR'
+import HappyF from '@/components/Films/Happy/HappyF'
 
 
 
@@ -86,8 +86,8 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    AlitaR,
-    AlitaF,
+    HappyR,
+    HappyF,
 
       }
 }

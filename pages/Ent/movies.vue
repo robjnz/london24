@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Tuesday 2nd April 2019</h2>
+    <h2>Friday 5th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -70,88 +70,42 @@
 
   <b-card-group deck
   class="mb-3 ">
+  <MissingC /><!--Missing Link-->
   <Notebook /><!--Notebook-->
   <Blue /><!--Out Of Blue -->
-  <Rabb /><!--Rabb Da Radio-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Rabb /><!--Rabb Da Radio-->
   <Spider /><!--Spider-Man Into The Spider-Verse -->
   <Favourite /><!--The Favourite -->
-  <King /><!--The Kid Who Would Be King-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <King /><!--The Kid Who Would Be King-->
+  <Peppa /><!--Peppa Pig Festival of Fun-->
+  <PetC /><!--Pet Sematary-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <ShazamC /><!--Shazam-->
   <Prodigy /><!--The Prodigy-->
   <VanishingC /><!--The Vanishing-->
-  <Crow /><!--The White Crow-->
-
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Crow /><!--The White Crow-->
   <Total /><!--Total Dhamal  -->
   <Us /><!--Us-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Vice /><!--Vice-->
-  </b-card-group>
-
-
-
-  <h1 class="title-color">Movies free to watch online </h1>
-  <b-card-group deck
-  class="mb-3 ">
-  <Dog /><!--A Dog's Way Home-->
-  <Alita /><!--Alita Battle Angel -->
-  <Boy /><!--Beautiful Boy -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Ben /><!--Ben is Back 15-->
-  <Bohemian /><!--Bohemian Rhapsody -->
-  <Bumblebee /><!--Bumblebee -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Escape /><!--Escape Room -->
-  <Fighting /><!--Fighting With My Family -->
-  <Forgive /><!--Can You Ever Forgive Me -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Marvel /><!-- Captain Marvel -->
-  <Cold /><!--cold Pursuit -->
-  <Dragonworld /><!--How to Train Your Dragon the Hidden -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Five /><!--Five Feet Apart-->
-  <Everybody /><!--Everybody Knows -->
-  <Glass /><!--Glass-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Green /><!--Green Book-->
-  <Happy /><!--Happy Death Day -->
-  <Beale /><!--If Beale Street Could talk-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Family /><!--Instant Family  -->
-  <Scots /><!--Mary Queen Of Scots -->
-  <Poppins /><!--Mary Poppins-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Vanishing /><!--The Vanishing-->
   <Blank />
   <Blank />
   </b-card-group>
@@ -291,6 +245,11 @@ import Escape from '@/components/Films/Escape/Escape'
 import EscapeC from '@/components/Films/Escape/EscapeC'
 import Dragonworld from '@/components/Films/Dragonworld/Dragonworld'
 import DragonworldC from '@/components/Films/Dragonworld/DragonworldC'
+import Missing from '@/components/Films/Missing/Missing'
+import MissingC from '@/components/Films/Missing/MissingC'
+import Peppa from '@/components/Films/Peppa/Peppa'
+import ShazamC from '@/components/Films/Shazam/ShazamC'
+import PetC from '@/components/Films/Pet/PetC'
 
 
 
@@ -386,9 +345,13 @@ export default {
     Marvel,
     MarvelC,
     Milan,
+    Missing,
+    MissingC,
     Ml,
     Mule,
     Notebook,
+    Peppa,
+    PetC,
     Poppins,
     Preview,
     Prodigy,
@@ -400,6 +363,7 @@ export default {
     Second,
     Serenityx,
     Sex,
+    ShazamC,
     Spider,
     Stan,
     Star,

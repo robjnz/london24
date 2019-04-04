@@ -16,14 +16,14 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2RigHWs" target="_blank" variant="info">Bexleyheath</b-button>
-  <b-button href="http://bit.ly/2Puit9G" target="_blank" variant="info">Greenwich O2</b-button>
-  <b-button href="http://bit.ly/2AuCVyP" target="_blank" variant="info">Ilford</b-button>
+  <b-button href="https://kutt.it/cineworld-bexley" target="_blank" variant="info">Bexleyheath</b-button>
+  <b-button href="https://kutt.it/cineworld-o2" target="_blank" variant="info">Greenwich O2</b-button>
+  <b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">Ilford</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2TCDxtf" target="_blank" variant="info">West India Quay</b-button>
+  <b-button href="https://kutt.it/cineworld-west" target="_blank" variant="info">West India Quay</b-button>
   </b-button-group>
 
   </b-card>
@@ -33,8 +33,8 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2D8flKS" target="_blank" variant="info">Greenwich</b-button>
-  <b-button href="http://bit.ly/2ELp5MY" target="_blank" variant="info">South Woodford</b-button>
+  <b-button href="https://kutt.it/odeon-greenwich" target="_blank" variant="info">Greenwich</b-button>
+  <b-button href="https://kutt.it/odeon-woodford" target="_blank" variant="info">South Woodford</b-button>
   </b-button-group>
 
   </b-card>
@@ -47,9 +47,9 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2EO2sqZ" target="_blank" variant="info">Greenwich</b-button>
-  <b-button href="http://bit.ly/2OcoJhx" target="_blank" variant="info">Hackney</b-button>
-  <b-button href="http://bit.ly/2CKRC2w" target="_blank" variant="info">Stratford</b-button>
+  <b-button href="https://kutt.it/picturehouse-greenwich" target="_blank" variant="info">Greenwich</b-button>
+  <b-button href="https://kutt.it/picturehouse-hackney" target="_blank" variant="info">Hackney</b-button>
+  <b-button href="https://kutt.it/picturehouse-stratford" target="_blank" variant="info">Stratford</b-button>
   </b-button-group>
 
   </b-card>
@@ -59,7 +59,7 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2yCcvds" target="_blank" variant="info">Newham</b-button>
+  <b-button href="https://kutt.it/showcase-newham" target="_blank" variant="info">Newham</b-button>
   </b-button-group>
   </b-card>
   </b-card-group>
@@ -71,20 +71,17 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2qdceZw" target="_blank" variant="info">Romford</b-button>
-  <b-button href="http://bit.ly/2D9eWYS" target="_blank" variant="info">Statford</b-button>
+  <b-button href="https://kutt.it/vue-romford" target="_blank" variant="info">Romford</b-button>
+  <b-button href="https://kutt.it/vue-stratford" target="_blank" variant="info">Statford</b-button>
   </b-button-group>
 
   </b-card>
 
-  <b-card bg-variant="dark" text-variant="white" title= "Film Reviews">
+  <b-card bg-variant="dark" text-variant="white" title= "">
   <p class="title-color">
 
   </p>
-  <b-button-group>
-  <b-button href="http://bit.ly/2siWfKs" target="_blank" variant="info">Den of Geek</b-button>
-  <b-button href="http://bit.ly/2RADa52" target="_blank" variant="info">UK Film Review</b-button>
-  </b-button-group>
+  
   </b-card>
   </b-card-group>
 </div>

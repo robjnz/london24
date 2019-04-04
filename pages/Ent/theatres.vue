@@ -13,7 +13,7 @@
     Broadway Theatre Barking<br>
     Sun 31 March 2019 - Sat 6 April 2019
     </p>
-    <b-button href="http://bit.ly/2O857LG" target="_blank" variant="info">open</b-button>
+    <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
@@ -22,7 +22,7 @@
     Greenwich Theatre<br>
     Tues 2 - Sat 6 April 2019
     </p>
-    <b-button href="http://bit.ly/2CKtih3" target="_blank" variant="info">open</b-button>
+    <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
@@ -32,7 +32,7 @@
     Tues 08 Jan 2019- Tues 16 Apr 2019
 
     </p>
-    <b-button href="http://bit.ly/2JnhX7Z" target="_blank" variant="info">open</b-button>
+    <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
 
 </b-card>
     </b-card-group>
@@ -46,7 +46,7 @@
     Tuesday's @ 6pm - 8pm
 
     </p>
-    <b-button href="http://bit.ly/2EX7IsG" target="_blank" variant="info">open</b-button>
+    <b-button href="https://kutt.it/hoxtonT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
@@ -62,7 +62,7 @@
           allowfullscreen
   ></b-embed>
 </p>
-    <b-button href="http://bit.ly/2D9UPtc" target="_blank" variant="info">open</b-button>
+    <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
@@ -78,7 +78,7 @@
           allowfullscreen
   ></b-embed>
     </p>
-    <b-button href="http://bit.ly/2Soh3MB" target="_blank" variant="info">open</b-button>
+    <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
@@ -92,7 +92,7 @@
     Wed 24 April - Sat 4 May 2019
 
     </p>
-    <b-button href="http://bit.ly/2JjU3Kr" target="_blank" variant="info">open</b-button>
+    <b-button href="https://kutt.it/stratfordeastT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
@@ -102,7 +102,7 @@
     Mon 1 April - Mon 11 April 2019
 
     </p>
-    <b-button href="http://bit.ly/2PpXswU" target="_blank" variant="info">open</b-button>
+    <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
@@ -113,7 +113,7 @@
     Wed 27 March — Thurs 11 May 2019
 
     </p>
-    <b-button href="http://bit.ly/2OYFsdx" target="_blank" variant="info">open</b-button>
+    <b-button href="https://kutt.it/yardT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
