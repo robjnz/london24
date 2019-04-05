@@ -3,61 +3,33 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Friday 5th April 2019</h2>
+    <h2>Saturday 6th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
-    <Airaa /><!--Airaa -->
+    <DogC /><!--A Dog's Way Home-->
     <AlitaC /><!--Alita Battle Angel -->
-    <Badla /><!--Badia -->
+  <MarvelC /><!-- Captain Marvel -->
+   </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Dumbo /><!--Dumbo -->
+    <EscapeC /><!--Escape Room -->
+    <FightingC /><!--Fighting With My Family -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+    <Fisherman /><!--Fisherman’s Friend -->
+    <GlassC /><!--Glass-->
+    <GreenC /><!--Green Book-->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <Band /><!--Band Vaaje-->
-  <Border /><!--Border -->
-  <BoyC /><!--Beautiful Boy -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Caper /><!--Capernaum -->
-  <MarvelC /><!-- Captain Marvel -->
-  <Dumbo /><!--Dumbo -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Lion /><!--Eaten by Lion -->
-  <EscapeC /><!--Escape Room -->
-  <EverybodyC /><!--Everybody Knows -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<FightingC /><!--Fighting With My Family -->
-<Fisherman /><!--Fisherman’s Friend -->
-<FiveC /><!--Five Feet Apart-->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<GlassC /><!--Glass-->
-<GreenC /><!--Green Book-->
-<Guddiyan /><!--Guddiyan Patole -->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-<Gully /><!--Gully Boy -->
-<HappyC /><!--Happy Death Day -->
-<DragonworldC /><!--How to Train Your Dragon the Hidden -->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
+    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
   <FamilyC /><!--Instant Family  -->
-  <Junglee /><!--Junglee -->
   <Lucifer /><!--Lucifer-->
   </b-card-group>
 
@@ -70,55 +42,55 @@
 
   <b-card-group deck
   class="mb-3 ">
+  <ScotsC /><!--Mary Queen Of Scots -->
   <MissingC /><!--Missing Link-->
-  <Notebook /><!--Notebook-->
   <Blue /><!--Out Of Blue -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <Rabb /><!--Rabb Da Radio-->
-  <Spider /><!--Spider-Man Into The Spider-Verse -->
   <Favourite /><!--The Favourite -->
+  <King /><!--The Kid Who Would Be King-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <King /><!--The Kid Who Would Be King-->
   <Peppa /><!--Peppa Pig Festival of Fun-->
   <PetC /><!--Pet Sematary-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <ShazamC /><!--Shazam-->
-  <Prodigy /><!--The Prodigy-->
-  <VanishingC /><!--The Vanishing-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <Crow /><!--The White Crow-->
-  <Total /><!--Total Dhamal  -->
   <Us /><!--Us-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Vice /><!--Vice-->
   <Blank />
-  <Blank />
+  
   </b-card-group>
 
       <!--<Ml --90ML -->
       <!--<Star --A star is Born-->
+      <!--<Airaa Airaa -->
       <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
       <!--<Aquaman --Aquaman -->
+      <!--<Badla /--Badia -->
+      <!--<Band /--Band Vaaje-->
+
       <!--Black --Blackklansman -->
+      <!--<BoyC /--Beautiful Boy -->
+      <!--<Border /--Border -->
+
       <!--Burning --Burning-->
+      <!--<Caper />--Capernaum -->
+
       <!--<Dragon --Dragon Ball Super -->
       <!--<Erased --Boy Erased-->
+      <!--<EverybodyC />--Everybody Knows -->
+      <!--<Guddiyan />--Guddiyan Patole -->
+      <!--<Gully />--Gully Boy -->
+      <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
       <!--<Had --What They Had -->
       <!--<Hannah --Hannah-->
@@ -127,18 +99,29 @@
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
+      <!--<Lion />--Eaten by Lion -->
+      <!--<Junglee /--Junglee -->
       <!--Maiden --Maiden-->
       <!--<Milan -Milan Talkies-->
+      <!--<Notebook />--Notebook-->
+      <!--<Prodigy --The Prodigy-->
+
       <!--<Ralph --Ralph Breaks The Internet: Wreck-It -->
       <!--<Ring --Ring-->
       <!--Second --Second Act-->
       <!--Serenityx--Serenity -->
       <!--<Sex --On The Basis Of Sex-->
+      <!--<Spider Spider-Man Into The Spider-Verse -->
+      <!--<Total /><-Total Dhamal  -->
+
       <!--<Stan --Stan & Ollie -->
       <!--<Kala /> Kala Shah Kala -->
       <!--Upside --The Upside -->
       <!--Grinch --Grinch-->
       <!--<Rose --Wild Rose -->
+      <!--<VanishingC --The Vanishing-->
+      <!--<Vice />--Vice-->
+
       </b-container>
       </section>
 
@@ -214,10 +197,12 @@ import Vanishing from '@/components/Films/Vanishing/Vanishing'
 import VanishingC from '@/components/Films/Vanishing/VanishingC'
 import Poppins from '@/components/Films/Poppins/Poppins'
 import Scots from '@/components/Films/Scots/Scots'
+import ScotsC from '@/components/Films/Scots/ScotsC'
 import Forgive from '@/components/Films/Forgive/Forgive'
 import Boy from '@/components/Films/Boy/Boy'
 import BoyC from '@/components/Films/Boy/BoyC'
 import Dog from '@/components/Films/Dog/Dog'
+import DogC from '@/components/Films/Dog/DogC'
 import Ben from '@/components/Films/Ben/Ben'
 import Bohemian from '@/components/Films/Bohemian/Bohemian'
 import Cold from '@/components/Films/Cold/Cold'
@@ -301,6 +286,7 @@ export default {
     Crow,
     Destroyer,
     Dog,
+    DogC,
     Dragon,
     Dragonworld,
     DragonworldC,
@@ -360,6 +346,7 @@ export default {
     Ring,
     Rose,
     Scots,
+    ScotsC,
     Second,
     Serenityx,
     Sex,

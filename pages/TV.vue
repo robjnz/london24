@@ -12,20 +12,20 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2qffILn" target="_blank" variant="info">TV Guide</b-button>
+  <b-button href="https://kutt.it/tvquide" target="_blank" variant="info">TV Guide</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="https://bbc.in/2OUZFRG" target="_blank" variant="info">BBC I Player</b-button>
-  <b-button href="http://bit.ly/2yLfNLx" target="_blank" variant="info">ITV Hub</b-button>
+  <b-button href="https://kutt.it/bbc-iplayer" target="_blank" variant="info">BBC I Player</b-button>
+  <b-button href="https://kutt.it/itv-hub" target="_blank" variant="info">ITV Hub</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2D9Np9A" target="_blank" variant="info">Channel 4</b-button>
-  <b-button href="http://bit.ly/2AwAWdv" target="_blank" variant="info">My 5</b-button>
-  <b-button href="http://bit.ly/2Jnmc3e" target="_blank" variant="info">OK Live TV</b-button>
+  <b-button href="https://kutt.it/channel4" target="_blank" variant="info">Channel 4</b-button>
+  <b-button href="https://kutt.it/my5" target="_blank" variant="info">My 5</b-button>
+  <b-button href="https://kutt.it/oklive" target="_blank" variant="info">OK Live TV</b-button>
   </b-button-group>
 
   </b-card>
@@ -35,9 +35,9 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2qeT0CQ" target="_blank" variant="info">123 Movies</b-button>
-  <b-button href="http://bit.ly/2Awa3q1" target="_blank" variant="info">HD Online</b-button>
-  <b-button href="http://bit.ly/2yLgQLt" target="_blank" variant="info">Yesmovies </b-button>
+  <b-button href="https://kutt.it/123movies" target="_blank" variant="info">123 Movies</b-button>
+  <b-button href="https://kutt.it/hdonline" target="_blank" variant="info">HD Online</b-button>
+  <b-button href="http://www0.yesmovies.net" target="_blank" variant="info">Yesmovies </b-button>
   </b-button-group>
   </b-card>
   </b-card-group>

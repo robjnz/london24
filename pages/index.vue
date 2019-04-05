@@ -4,16 +4,16 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Friday<br>5th April 2019</font></h1>
+    <h1> <font color="gold"><br>Saturday<br>6th April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
-<!--
+
 <h3 class="title-color">
-  Home Game<br>Newbury Forest F.C.<br>V<br>Hackney Wick<br> @ 7.45pm
+  Home Game<br>Leyton Orient F.C.<br>V<br>FC Halifax Town<br> @ 3pm
 <br>
-<b-button href="http://bit.ly/2ueptve" target="_blank" variant="info">open</b-button>
+<b-button href="http://bit.ly/2GsFU02" target="_blank" variant="info">open</b-button>
 </h3>
--->
+
 <h3 class ="tory">
 <br>Shazam<br>
 

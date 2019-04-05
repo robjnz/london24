@@ -12,9 +12,9 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2DcVBpw" target="_blank" variant="info">Design My Night</b-button>
-  <b-button href="http://bit.ly/2PoFRFG" target="_blank" variant="info">Gastro Ranking</b-button>
-  <b-button href="http://bit.ly/2qeQOLJ" target="_blank" variant="info">Open Table</b-button>
+  <b-button href="https://kutt.it/designmynight" target="_blank" variant="info">Design My Night</b-button>
+  <b-button href="https://kutt.it/gastroranking" target="_blank" variant="info">Gastro Ranking</b-button>
+  <b-button href="https://kutt.it/opentable" target="_blank" variant="info">Open Table</b-button>
   </b-button-group>
   </b-card>
   </b-card-group>

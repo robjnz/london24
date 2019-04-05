@@ -12,26 +12,26 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2CT8BzB" target="_blank" variant="info">Barking & Dagenham CVS</b-button>
-  <b-button href="http://bit.ly/2COVmjz" target="_blank" variant="info">Bexley CVS</b-button>
+  <b-button href="https://kutt.it/barking-cvs" target="_blank" variant="info">Barking & Dagenham CVS</b-button>
+  <b-button href="https://kutt.it/bexley-cvs" target="_blank" variant="info">Bexley CVS</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2PumdrS" target="_blank" variant="info">Greenwich CVS</b-button>
-  <b-button href="http://bit.ly/2SAgD63" target="_blank" variant="info">Hackney CVS</b-button>
+  <b-button href="https://kutt.it/greenwich-cvs" target="_blank" variant="info">Greenwich CVS</b-button>
+  <b-button href="https://kutt.it/hackney-cvs" target="_blank" variant="info">Hackney CVS</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2RukZu5" target="_blank" variant="info">Voluntary Action Lewisham</b-button>
-  <b-button href="http://bit.ly/2OilJAf" target="_blank" variant="info">Redbridge CVS</b-button>
+  <b-button href="https://kutt.it/lewisham-cvs" target="_blank" variant="info">Voluntary Action Lewisham</b-button>
+  <b-button href="https://kutt.it/redbridge-cvs" target="_blank" variant="info">Redbridge CVS</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2CTzBiv" target="_blank" variant="info">Tower Hamlets CVS</b-button>
-  <b-button href="http://bit.ly/2yJwwyN" target="_blank" variant="info">Waltham Forest CVS</b-button>
+  <b-button href="https://kutt.it/tower-cvs" target="_blank" variant="info">Tower Hamlets CVS</b-button>
+  <b-button href="https://kutt.it/waltham-cvs" target="_blank" variant="info">Waltham Forest CVS</b-button>
   </b-button-group>
 
   </b-card>
