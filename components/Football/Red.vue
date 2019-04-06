@@ -4,10 +4,8 @@
 <p class="title-color">
 
 
-  <br>Sat 6 April 2019 @ 3pm <br>V<br>Leyton Athetic F.C
-  <!--
   <br>Sat 13 April 2019 3pm<br>V<br>Stansted F.C
-  -->
+  
 </p>
 
 </b-card>

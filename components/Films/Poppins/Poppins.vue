@@ -26,8 +26,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import PoppinsR from '@/components/Films/Poppins/poppinsR'
-import PoppinsF from '@/components/Films/Poppins/poppinsF'
+import PoppinsR from '@/components/Films/Poppins/PoppinsR'
+import PoppinsF from '@/components/Films/Poppins/PoppinsF'
 
 
 

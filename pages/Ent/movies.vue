@@ -3,14 +3,21 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Saturday 6th April 2019</h2>
+    <h2>Sunday 7th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
     <DogC /><!--A Dog's Way Home-->
     <AlitaC /><!--Alita Battle Angel -->
-  <MarvelC /><!-- Captain Marvel -->
-   </b-card-group>
+    <Badla /><!---Badia -->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+    <Beale /><!--If Beale Street Could talk-->
+    <Border /><!--Border -->
+    <MarvelC /><!-- Captain Marvel -->
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
@@ -28,45 +35,44 @@
 
   <b-card-group deck
   class="mb-3 ">
+    <Gully /><!--Gully Boy -->
     <DragonworldC /><!--How to Train Your Dragon the Hidden -->
   <FamilyC /><!--Instant Family  -->
-  <Lucifer /><!--Lucifer-->
-  </b-card-group>
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Lucifer /><!--Lucifer-->
   <Lords /><!--Lords of chaos-->
   <Luka /><!--Luka Chuppi  -->
-  <Bala /><!--Miss Bala-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Bala /><!--Miss Bala-->
   <ScotsC /><!--Mary Queen Of Scots -->
   <MissingC /><!--Missing Link-->
-  <Blue /><!--Out Of Blue -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Blue /><!--Out Of Blue -->
   <Rabb /><!--Rabb Da Radio-->
   <Favourite /><!--The Favourite -->
-  <King /><!--The Kid Who Would Be King-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <King /><!--The Kid Who Would Be King-->
   <Peppa /><!--Peppa Pig Festival of Fun-->
   <PetC /><!--Pet Sematary-->
-  <ShazamC /><!--Shazam-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <ShazamC /><!--Shazam-->
   <Crow /><!--The White Crow-->
   <Us /><!--Us-->
-  <Blank />
-  
   </b-card-group>
 
       <!--<Ml --90ML -->
@@ -75,12 +81,10 @@
       <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
       <!--<Aquaman --Aquaman -->
-      <!--<Badla /--Badia -->
       <!--<Band /--Band Vaaje-->
 
       <!--Black --Blackklansman -->
       <!--<BoyC /--Beautiful Boy -->
-      <!--<Border /--Border -->
 
       <!--Burning --Burning-->
       <!--<Caper />--Capernaum -->
@@ -89,7 +93,6 @@
       <!--<Erased --Boy Erased-->
       <!--<EverybodyC />--Everybody Knows -->
       <!--<Guddiyan />--Guddiyan Patole -->
-      <!--<Gully />--Gully Boy -->
       <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
       <!--<Had --What They Had -->

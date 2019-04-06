@@ -3,9 +3,8 @@
 <a href="http://bit.ly/2EtqTqf" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543950328/wellingfc_kfdqwb.png" fluid-grow alt="Welling United F.C."/></a>
 <p class="title-color">
 
-<br>Sat 6th April 2019 @ 3pm<br>V <br>Bath City
-<!--
 <br>Sat 20th April 2019 @ 3pm<br>V <br>Chelmsford City
+<!--
 <br>Sat 27th April 2019 @ 3pm<br>V <br>Hampton & Richmond
 -->
 </p>

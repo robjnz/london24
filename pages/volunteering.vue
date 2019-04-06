@@ -41,20 +41,20 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2ACe7F9" target="_blank" variant="info">Do It</b-button>
-  <b-button href="http://bit.ly/2DeX0f5" target="_blank" variant="info">Jewish Volunteering Network</b-button>
+  <b-button href="https://kutt.it/do-it" target="_blank" variant="info">Do It</b-button>
+  <b-button href="https://kutt.it/jvn" target="_blank" variant="info">Jewish Volunteering Network</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2DeVUQO" target="_blank" variant="info">Muslim Hands UK</b-button>
-  <b-button href="http://bit.ly/2OYtjFD" target="_blank" variant="info">Reach Volunteering</b-button>
+  <b-button href="https://kutt.it/muslim-hands" target="_blank" variant="info">Muslim Hands UK</b-button>
+  <b-button href="https://kutt.it/reach-vol" target="_blank" variant="info">Reach Volunteering</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2DgtcyZ" target="_blank" variant="info">Salvation Army</b-button>
-  <b-button href="http://bit.ly/2Oi0rmy" target="_blank" variant="info">Volunteering Matters</b-button>
+  <b-button href="https://kutt.it/salvationarmy" target="_blank" variant="info">Salvation Army</b-button>
+  <b-button href="https://kutt.it/vol-matters" target="_blank" variant="info">Volunteering Matters</b-button>
   </b-button-group>
 
 
@@ -74,7 +74,7 @@ export default {
     return {
       titleTemplate: '%s volunteering',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Links to volunteering organizations in east London ' }
+        { hid: 'description', name: 'description', content: 'volunteering organizations in east London ' }
       ]
     }
   }

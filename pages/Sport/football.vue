@@ -210,7 +210,7 @@ head () {
 return {
 titleTemplate: '%s Football',
 meta         : [
-      { hid: 'description', name: 'description', content: 'East London Football, Home Matches, March 2019' }
+      { hid: 'description', name: 'description', content: 'East London Football, Home Matches, 2019' }
       ]
 }
 },

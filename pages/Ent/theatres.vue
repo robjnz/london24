@@ -7,20 +7,20 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Celebrating Young Women">
+<b-card bg-variant="dark" text-variant="white" title= "The Limelight Picture Show">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Sun 31 March 2019 - Sat 6 April 2019
+    1.30pm & 7pm @ Sun 7 April 2019
     </p>
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Trials of Oscar Wilde">
+<b-card bg-variant="dark" text-variant="white" title= "The Long Walk Back">
   <p class="title-color">
     Greenwich Theatre<br>
-    Tues 2 - Sat 6 April 2019
+    24 - 27 April 2019
     </p>
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
@@ -40,25 +40,24 @@
         <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Youth Arts Board : 16-19 yrs">
+<b-card bg-variant="dark" text-variant="white" title= "Good Cop Bad Cop">
   <p class="title-color">
     Hoxton Hall<br>
-    Tuesday's @ 6pm - 8pm
-
+    Thu 18 April 2019 @ 7pm
     </p>
     <b-button href="https://kutt.it/hoxtonT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Giselle">
+<b-card bg-variant="dark" text-variant="white" title= "Ben & Holly's Little Kingdom">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    5pm @ Sat 6 April 2019
+    Sat 13 - Sun 14 April 2019
 
     <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/5N1S0VbGaco"
+          src    = "https://www.youtube.com/embed/gh5HuOT6BmE"
           allowfullscreen
   ></b-embed>
 </p>
@@ -66,17 +65,13 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Approaching Empty">
+<b-card bg-variant="dark" text-variant="white" title= "Scratch Night">
   <p class="title-color">
 
   <p class="title-color">
     Queen's Theatre Hornchurch<br>
-    Tues 2 - Sat 6 April 2019
-  <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/NklAFJbSkOs"
-          allowfullscreen
-  ></b-embed>
+    Tue 9 April 2019 @ 8pm
+
     </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 

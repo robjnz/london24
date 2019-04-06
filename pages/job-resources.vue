@@ -12,29 +12,29 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2yV76Oz" target="_blank" variant="info">Adzuna</b-button>
-  <b-button href="http://bit.ly/2ACyoKQ" target="_blank" variant="info">Cv Library</b-button>
-  <b-button href="http://bit.ly/2Of9q7V" target="_blank" variant="info">Find A Job</b-button>
+  <b-button href="https://kutt.it/adzuna" target="_blank" variant="info">Adzuna</b-button>
+  <b-button href="https://kutt.it/cv-lib" target="_blank" variant="info">Cv Library</b-button>
+  <b-button href="https://kutt.it/find-a-job" target="_blank" variant="info">Find A Job</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2zgCkiz" target="_blank" variant="info">Fish 4 Jobs</b-button>
-  <b-button href="http://bit.ly/2Qcq36d" target="_blank" variant="info">Indeed</b-button>
-  <b-button href="http://bit.ly/2OXDgD8" target="_blank" variant="info">Joblift</b-button>
+  <b-button href="https://kutt.it/fish" target="_blank" variant="info">Fish 4 Jobs</b-button>
+  <b-button href="https://kutt.it/indeed" target="_blank" variant="info">Indeed</b-button>
+  <b-button href="https://kutt.it/joblift" target="_blank" variant="info">Joblift</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2RnXiUb" target="_blank" variant="info">Jobs 24</b-button>
-  <b-button href="http://bit.ly/2yGADLQ" target="_blank" variant="info">Monster</b-button>
-  <b-button href="http://bit.ly/2qk4jd9" target="_blank" variant="info">Reed</b-button>
-  <b-button href="http://bit.ly/2Q7YEC2" target="_blank" variant="info">Total</b-button>
+  <b-button href="https://kutt.it/jobs24" target="_blank" variant="info">Jobs 24</b-button>
+  <b-button href="https://kutt.it/monster" target="_blank" variant="info">Monster</b-button>
+  <b-button href="https://kutt.it/reed" target="_blank" variant="info">Reed</b-button>
+  <b-button href="https://kutt.it/totaljobs" target="_blank" variant="info">Total</b-button>
 
   </b-button-group>
 <h4>Disability Job Resources</h4>
 <b-button-group>
-  <b-button href="http://bit.ly/2QAATad" target="_blank" variant="info">Even Break</b-button>
+  <b-button href="https://kutt.it/evenbreaks" target="_blank" variant="info">Even Break</b-button>
 </b-button-group>
   </b-card>
 
@@ -43,27 +43,27 @@
 
   </p>
   <b-button-group>
-  <b-button href="http://bit.ly/2CVjdyb" target="_blank" variant="info">Company Reviews</b-button>
-  <b-button href="http://bit.ly/2PueAlc" target="_blank" variant="info">Cover Letter</b-button>
+  <b-button href="https://kutt.it/companies" target="_blank" variant="info">Company Reviews</b-button>
+  <b-button href="https://kutt.it/cover-letter" target="_blank" variant="info">Cover Letter</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2zimSCJ" target="_blank" variant="info">CV Templates</b-button>
-  <b-button href="http://bit.ly/2CS6USU" target="_blank" variant="info">Get Me Job</b-button>
-  <b-button href="http://bit.ly/2QdXSUs" target="_blank" variant="info">Job Hero</b-button>
+  <b-button href="https://kutt.it/cv-templates" target="_blank" variant="info">CV Templates</b-button>
+  <b-button href="https://kutt.it/getmeacooljob" target="_blank" variant="info">Get Me Job</b-button>
+  <b-button href="https://kutt.it/jobhero" target="_blank" variant="info">Job Hero</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2QcAuGV" target="_blank" variant="info">Jobscan</b-button>
-  <b-button href="http://bit.ly/2ACvCFo" target="_blank" variant="info">Interview Questions</b-button>
-  <b-button href="http://bit.ly/2CRrbbn" target="_blank" variant="info">RezScore</b-button>
+  <b-button href="https://kutt.it/jobscan" target="_blank" variant="info">Jobscan</b-button>
+  <b-button href="https://kutt.it/interview-questions" target="_blank" variant="info">Interview Questions</b-button>
+  <b-button href="https://kutt.it/rezscore" target="_blank" variant="info">RezScore</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
-  <b-button href="http://bit.ly/2Jtusie" target="_blank" variant="info">Salary Checker</b-button>
+  <b-button href="https://kutt.it/payscale" target="_blank" variant="info">Salary Checker</b-button>
   </b-button-group>
 
   </b-card>
@@ -81,7 +81,7 @@ export default {
     return {
       titleTemplate: '%s Job Resources',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Links to job search and voluntary vacancies websites in east London ' }
+        { hid: 'description', name: 'description', content: 'Job search and voluntary vacancies in east London ' }
       ]
     }
   }
