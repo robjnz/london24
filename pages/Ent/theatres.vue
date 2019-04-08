@@ -7,11 +7,11 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "The Limelight Picture Show">
+<b-card bg-variant="dark" text-variant="white" title= "A Night for Leah">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    1.30pm & 7pm @ Sun 7 April 2019
+    7 pm Tue 9 April 2019
     </p>
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 
