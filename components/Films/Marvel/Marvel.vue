@@ -10,6 +10,7 @@
   <b-button-group>
   <MarvelR />
   <MarvelF />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -30,6 +31,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import MarvelR from '@/components/Films/Marvel/MarvelR'
 import MarvelF from '@/components/Films/Marvel/MarvelF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -51,6 +53,7 @@ export default {
     Vstratford,
     MarvelR,
     MarvelF,
+    Nineteen,
       }
 }
 </script>

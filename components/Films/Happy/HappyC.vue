@@ -48,6 +48,7 @@
   <b-button-group>
   <HappyR />
   <HappyF />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -68,6 +69,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import HappyR from '@/components/Films/Happy/HappyR'
 import HappyF from '@/components/Films/Happy/HappyF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -89,6 +91,7 @@ export default {
     Vstratford,
     HappyR,
     HappyF,
+    Nineteen,
       }
 }
 </script>

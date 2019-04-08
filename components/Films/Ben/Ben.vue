@@ -10,6 +10,7 @@
   <b-button-group>
   <BenR />
   <BenF />
+  <Eighteen />
   </b-button-group>
 
 </b-card>
@@ -30,6 +31,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import BenR from '@/components/Films/Ben/BenR'
 import BenF from '@/components/Films/Ben//BenF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -51,7 +53,7 @@ export default {
     Vstratford,
     BenR,
     BenF,
-
+    Eighteen,
       }
 }
 </script>

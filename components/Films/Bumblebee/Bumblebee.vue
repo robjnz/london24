@@ -11,6 +11,7 @@
   <b-button-group>
   <BumblebeeR />
   <BumblebeeF />
+  <Eighteen />
   </b-button-group>
 </b-card>
 </template>
@@ -27,6 +28,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import BumblebeeR from '@/components/Films/Bumblebee/BumblebeeR'
 import BumblebeeF from '@/components/Films/Bumblebee/BumblebeeF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -43,6 +45,7 @@ export default {
     Vstratford,
     BumblebeeR,
     BumblebeeF,
+    Eighteen,
       }
 }
 </script>

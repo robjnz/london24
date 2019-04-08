@@ -55,8 +55,15 @@
   <b-card-group deck
   class="mb-3 ">
   <Poppins /><!--Mary Poppins-->
+  <Blue /><!--Out Of Blue -->
+  <Shazam /><!--Shazam-->
+   </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <King /><!--The Kid Who Would Be King-->
   <Vanishing /><!--The Vanishing-->
-  <blank />
+  <Blank />
   </b-card-group>
 
       <!--<Ml --90ML -->
@@ -113,7 +120,6 @@ import Colette from '@/components/Films/Colette'
 import Star from '@/components/Films/Star'
 import Lego from '@/components/Films/Lego'
 import True from '@/components/Films/True'
-import King from '@/components/Films/King'
 import Grinch from '@/components/Films/Grinch'
 import Caper from '@/components/Films/Caper'
 import Sex from '@/components/Films/Sex'
@@ -153,7 +159,7 @@ import Dumbo from '@/components/Films/Dumbo'
 import Junglee from '@/components/Films/Junglee'
 import Lion from '@/components/Films/Lion'
 import Us from '@/components/Films/Us'
-import Blue from '@/components/Films/Blue'
+import Blue from '@/components/Films/Blue/Blue'
 import Notebook from '@/components/Films/Notebook'
 import Lords from '@/components/Films/Lords'
 import Lucifer from '@/components/Films/Lucifer'
@@ -200,6 +206,8 @@ import Peppa from '@/components/Films/Peppa/Peppa'
 import ShazamC from '@/components/Films/Shazam/ShazamC'
 import PetC from '@/components/Films/Pet/PetC'
 import Pet from '@/components/Films/Pet/Pet'
+import Shazam from '@/components/Films/Shazam/Shazam'
+import King from '@/components/Films/King/King'
 
 
 
@@ -305,7 +313,7 @@ export default {
     Second,
     Serenityx,
     Sex,
-    ShazamC,
+    Shazam,
     Spider,
     Stan,
     Star,

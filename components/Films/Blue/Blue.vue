@@ -5,48 +5,14 @@
           src    = "https://www.youtube.com/embed/JsNBLkO2Itg"
           allowfullscreen
   ></b-embed>
-
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<Greenwichbutton />-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-<!--<Ilfordbutton />-->
-<!--<Westbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Odeon</h4>
-  <b-button-group>
- <!-- <Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Picturehouses</h4>
-  <b-button-group>
-  <Pgreenwichbutton />
-  <Phackneybutton />
-  </b-button-group>
-<br><br>
-  <b-button-group>
-  <!--<Pstratfordbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <!--<Romfordbutton />-->
-  <!--<Vstratford />-->
-  </b-button-group>
+  <p class="title-color">
+Mike Hoolihan is an unconventional New Orleans cop investigating the murder of renowned astrophysicist Jennifer Rockwell. </p>
 
   <h4 class="title-color"></h4>
   <b-button-group>
     <BlueR />
+    <BlueF />
+    <Eighteen />
 
   </b-button-group>
 
@@ -66,7 +32,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import BlueR from '@/components/ReviewMovies/BlueR'
+import BlueR from '@/components/Films/Blue/BlueR'
+import BlueF from '@/components/Films/Blue/BlueF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -86,7 +54,8 @@ export default {
     Romfordbutton,
     Vstratford,
     BlueR,
-
+    BlueF,
+    Eighteen,
       }
 }
 </script>

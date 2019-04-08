@@ -258,17 +258,17 @@ class="mb-3">
       class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Fairlop Waters Park">
-<a href="http://bit.ly/2q6LASe" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1513623047/fairlopwaters_zeonuk.jpg" fluid-grow alt="Fairlop Waters Park"/></a>
+<a href="https://kutt.it/fairlop-waters" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1513623047/fairlopwaters_zeonuk.jpg" fluid-grow alt="Fairlop Waters Park"/></a>
 
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Hospital Chapel Ilford">
-<a href="http://bit.ly/2NY3WOT" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1513623127/The_Hospital_Chapel_of_St_Mary_St_Thomas_kirkus.jpg" fluid-grow alt="Hospital Chapel Ilford"/></a>
+<a href="https://kutt.it/ilford-chapel" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1513623127/The_Hospital_Chapel_of_St_Mary_St_Thomas_kirkus.jpg" fluid-grow alt="Hospital Chapel Ilford"/></a>
 
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Valentines Mansion & Park">
-<a href="http://bit.ly/2S9h1be" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1513623135/valman_oxte6t.jpg" fluid-grow alt="Valentines Mansion & Park Ilford"/></a>
+<a href="https://kutt.it/valentines" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1513623135/valman_oxte6t.jpg" fluid-grow alt="Valentines Mansion & Park Ilford"/></a>
 
 </b-card>
 </b-card-group>
@@ -277,7 +277,7 @@ class="mb-3">
       class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Wansted Park">
-<a href="http://bit.ly/2Jda6JW" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1517230661/Temple__Wanstead_ax5r0t.jpg" fluid-grow alt="Wansted Park"/></a>
+<a href="https://kutt.it/wansted-park" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1517230661/Temple__Wanstead_ax5r0t.jpg" fluid-grow alt="Wansted Park"/></a>
 
 </b-card>
 
@@ -299,17 +299,17 @@ class="mb-3">
       class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Docklands Museum">
-<a href="http://bit.ly/2EyBcwJ" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516617068/docklands_cdf4n1.jpg" fluid-grow alt="Docklands Museum"/></a>
+<a href="https://kutt.it/docklands" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516617068/docklands_cdf4n1.jpg" fluid-grow alt="Docklands Museum"/></a>
 
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Mudchute">
-<a href="http://bit.ly/2CXL8ON" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521544523/mudchute_ajuyq6.jpg" fluid-grow alt="Mudchute"/></a>
+<a href="https://kutt.it/mudchute" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521544523/mudchute_ajuyq6.jpg" fluid-grow alt="Mudchute"/></a>
 
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Ragged School Museum">
-<a href="http://bit.ly/2R9hzMW" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516616792/school_oc6iie.jpg" fluid-grow alt="Ragged School Museum"/></a>
+<a href="https://kutt.it/ragged-school" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516616792/school_oc6iie.jpg" fluid-grow alt="Ragged School Museum"/></a>
 
 </b-card>
 </b-card-group>
@@ -318,17 +318,17 @@ class="mb-3">
       class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Tower Of London">
-<a href="http://bit.ly/2OKnQ4U" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516614546/tower_vgxpev.jpg" fluid-grow alt="Tower Of London"/></a>
+<a href="https://kutt.it/tower-london" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516614546/tower_vgxpev.jpg" fluid-grow alt="Tower Of London"/></a>
 
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Trinity Buoy Wharf">
-<a href="http://bit.ly/2D11g22" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521546145/Bow_Creek_Lighthouse_srxzuj.jpg" fluid-grow alt="Trinity Buoy Wharf"/></a>
+<a href="https://kutt.it/trinity" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521546145/Bow_Creek_Lighthouse_srxzuj.jpg" fluid-grow alt="Trinity Buoy Wharf"/></a>
 
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Wilton's Music Hall">
-<a href="http://bit.ly/2R9bBf7" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521549561/Wilton_s_Music_Hall_girpj6.jpg" fluid-grow alt="Wilton's Music Hall"/></a>
+<a href="https://kutt.it/wiltons" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521549561/Wilton_s_Music_Hall_girpj6.jpg" fluid-grow alt="Wilton's Music Hall"/></a>
 
 </b-card>
 </b-card-group>
@@ -340,17 +340,17 @@ class="mb-3">
       class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Chingford Sky Trail">
-<a href="http://bit.ly/2EK6e4S" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521647926/chingfordskytrail_uo40zw.jpg" fluid-grow alt="Chingford Sky Trail"/></a>
+<a href="https://kutt.it/altitude-adventure" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521647926/chingfordskytrail_uo40zw.jpg" fluid-grow alt="Chingford Sky Trail"/></a>
 
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Elizabeth's Hunting Lodge">
-<a href="http://bit.ly/2Sgs9D9" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521647004/Queen_Elizabeth_s_Hunting_Lodge_qjqzxx.jpg" fluid-grow alt="Elizabeth's Hunting Lodge"/></a>
+<a href="https://kutt.it/elizabeths-hunting" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521647004/Queen_Elizabeth_s_Hunting_Lodge_qjqzxx.jpg" fluid-grow alt="Elizabeth's Hunting Lodge"/></a>
 
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Epping Forest">
-<a href="http://bit.ly/2ywqe5a" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521647588/Epping_Forest_Chingford_jax5kv.jpg" fluid-grow alt="Epping Forest"/></a>
+<a href="https://kutt.it/epping-forest" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521647588/Epping_Forest_Chingford_jax5kv.jpg" fluid-grow alt="Epping Forest"/></a>
 
 </b-card>
 </b-card-group>
@@ -359,7 +359,7 @@ class="mb-3">
       class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "William Morris Gallery & Park">
-<a href="http://bit.ly/2q80RST" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521646578/williammorris_kvmpj8.jpg" fluid-grow alt="William Morris Gallery"/></a>
+<a href="https://kutt.it/william-morris" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521646578/williammorris_kvmpj8.jpg" fluid-grow alt="William Morris Gallery"/></a>
 
 </b-card>
 

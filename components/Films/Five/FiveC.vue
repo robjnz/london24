@@ -48,6 +48,7 @@
   <b-button-group>
   <FiveR />
   <FiveF />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -68,6 +69,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import FiveR from '@/components/Films/Five/FiveR'
 import FiveF from '@/components/Films/Five/FiveF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -89,6 +91,7 @@ export default {
     Vstratford,
     FiveR,
     FiveF,
+    Nineteen,
       }
 }
 </script>

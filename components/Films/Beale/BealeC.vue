@@ -1,26 +1,25 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "The Kid Who Would Be King PG">
+<b-card bg-variant="dark" text-variant="white" title= "If Beale Street Could talk 15">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/TADKiHYj6RE"
+          src    = "https://www.youtube.com/embed/V3-L3HFC0NY"
           allowfullscreen
   ></b-embed>
-
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<Bexleyheathbutton />
-<Greenwichbutton />
+<!--<Bexleyheathbutton />-->
+<!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
 <b-button-group>
 <!--<Ilfordbutton />-->
-<Westbutton />
+<!--<Westbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
- <Ogreenwichbutton />
-  <Osouthbutton />
+ <!-- <Ogreenwichbutton />-->
+  <!--<Osouthbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
@@ -30,23 +29,24 @@
   </b-button-group>
 <br><br>
   <b-button-group>
- <!--<Pstratfordbutton />-->
+  <!--<Pstratfordbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Showcase</h4>
   <b-button-group>
-  <Newhambutton />
+  <!--<Newhambutton />-->
   </b-button-group>
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-<Romfordbutton />
-  <Vstratford />
+  <Romfordbutton />
+  <!--<Vstratford />-->
   </b-button-group>
-
   <h4 class="title-color"></h4>
   <b-button-group>
-  <KingR />
+  <BealeR />
+  <BealeF />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -65,7 +65,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import KingR from '@/components/ReviewMovies/KingR'
+import BealeR from '@/components/Films/Beale/BealeR'
+import BealeF from '@/components/Films/Beale/BealeF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -85,8 +87,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    KingR,
-
+    BealeR,
+    BealeF,
+    Nineteen,
       }
 }
 </script>

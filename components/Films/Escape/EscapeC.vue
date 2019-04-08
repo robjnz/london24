@@ -50,6 +50,7 @@
   <b-button-group>
   <EscapeR />
   <EscapeF />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -70,6 +71,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import EscapeR from '@/components/Films/Escape/EscapeR'
 import EscapeF from '@/components/Films/Escape/EscapeF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -89,6 +91,7 @@ export default {
     Vstratford,
     EscapeR,
     EscapeF,
+    Nineteen,
       }
 }
 </script>

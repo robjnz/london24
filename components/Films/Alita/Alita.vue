@@ -10,6 +10,7 @@
   <b-button-group>
     <AlitaR />
     <AlitaF />
+    <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -30,6 +31,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import AlitaR from '@/components/Films/Alita/AlitaR'
 import AlitaF from '@/components/Films/Alita/AlitaF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -51,7 +53,7 @@ export default {
     Vstratford,
     AlitaR,
     AlitaF,
-
+    Nineteen,
       }
 }
 </script>

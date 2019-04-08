@@ -11,6 +11,7 @@
   <b-button-group>
     <PetR />
     <PetF />
+    <Eightynine />
   </b-button-group>
 
 </b-card>
@@ -31,6 +32,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import PetR from '@/components/Films/Pet/PetR'
 import PetF from '@/components/Films/Pet/PetF'
+import Eightynine from '@/components/Films/Year/Eightynine'
 
 
 
@@ -51,7 +53,7 @@ export default {
     Vstratford,
     PetR,
     PetF,
-
+    Eightynine,
       }
 }
 </script>

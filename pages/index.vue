@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Sunday<br>7th April 2019</font></h1>
+    <h1> <font color="gold"><br>Monday<br>8th April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -35,7 +35,7 @@ Ilford
 <b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-<!--
+
 <h3 class="labour">Drake<br>
 
 <b-embed type="iframe"
@@ -43,7 +43,7 @@ Ilford
           src    = "https://www.youtube.com/embed/d5ilLcjmvTE"
           allowfullscreen
   ></b-embed>
-  
+
     Showing today @
   <br>The O2 arena
   <br>@<br>7pm
@@ -51,7 +51,7 @@ Ilford
 
 <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
 <br><br>
--->
+
     </b-badge>
 
     </div>

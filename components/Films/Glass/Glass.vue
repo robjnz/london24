@@ -11,6 +11,7 @@
   <b-button-group>
   <GlassR />
   <GlassF />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -31,6 +32,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import GlassR from '@/components/Films/Glass/GlassR'
 import GlassF from '@/components/Films/Glass/GlassF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -50,6 +52,7 @@ export default {
     Vstratford,
     GlassR,
     GlassF,
+    Nineteen,
       }
 }
 </script>

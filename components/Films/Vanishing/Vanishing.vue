@@ -11,6 +11,7 @@
   <b-button-group>
     <VanishingR />
     <VanishingF />
+    <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -31,6 +32,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import VanishingR from '@/components/Films/Vanishing/VanishingR'
 import VanishingF from '@/components/Films/Vanishing/VanishingF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -51,6 +53,7 @@ export default {
     Vstratford,
     VanishingR,
     VanishingF,
+    Nineteen,
 
       }
 }

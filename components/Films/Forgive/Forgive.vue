@@ -10,6 +10,7 @@
   <b-button-group>
   <ForgiveR />
   <ForgiveF />
+  <Eighteen />
   </b-button-group>
 </b-card>
 </template>
@@ -29,6 +30,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import ForgiveR from '@/components/Films/Forgive/ForgiveR'
 import ForgiveF from '@/components/Films/Forgive/ForgiveF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -49,7 +51,7 @@ export default {
     Vstratford,
     ForgiveR,
     ForgiveF,
-
+    Eighteen,
 
       }
 }

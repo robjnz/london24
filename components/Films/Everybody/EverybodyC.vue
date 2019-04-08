@@ -48,6 +48,7 @@
   <b-button-group>
   <EverybodyR />
   <EverybodyF />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -68,6 +69,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import EverybodyR from '@/components/Films/Everybody/EverybodyR'
 import EverybodyF from '@/components/Films/Everybody/EverybodyF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -89,6 +91,7 @@ export default {
     Vstratford,
     EverybodyR,
     EverybodyF,
+    Nineteen,
       }
 }
 </script>

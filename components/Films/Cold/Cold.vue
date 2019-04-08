@@ -11,6 +11,7 @@
   <b-button-group>
   <ColdR />
   <ColdF />
+  <Eighteen />
   </b-button-group>
 
 </b-card>
@@ -31,6 +32,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import ColdR from '@/components/Films/Cold/ColdR'
 import ColdF from '@/components/Films/Cold/ColdF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -52,7 +54,7 @@ export default {
     Vstratford,
     ColdR,
     ColdF,
-
+    Eighteen,
       }
 }
 </script>

@@ -11,6 +11,7 @@
   <b-button-group>
   <DragonworldR />
   <DragonworldF />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -31,6 +32,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import DragonworldR from '@/components/Films/Dragonworld/DragonworldR'
 import DragonworldF from '@/components/Films/Dragonworld/DragonworldF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -52,6 +54,7 @@ export default {
     Vstratford,
     DragonworldR,
     DragonworldF,
+    Nineteen,
       }
 }
 </script>

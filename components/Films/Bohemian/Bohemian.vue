@@ -11,6 +11,7 @@
   <b-button-group>
   <BohemianR />
   <BohemianF />
+  <Eighteen />
   </b-button-group>
 </b-card>
 
@@ -32,6 +33,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import BohemianR from '@/components/Films/Bohemian/BohemianR'
 import BohemianF from '@/components/Films/Bohemian/BohemianF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -51,6 +53,7 @@ export default {
     Vstratford,
     BohemianR,
     BohemianF,
+    Eighteen,
       }
 }
 </script>

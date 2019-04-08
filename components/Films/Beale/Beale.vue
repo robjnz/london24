@@ -5,47 +5,13 @@
           src    = "https://www.youtube.com/embed/V3-L3HFC0NY"
           allowfullscreen
   ></b-embed>
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<Greenwichbutton />-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-<!--<Ilfordbutton />-->
-<!--<Westbutton />-->
-  </b-button-group>
 
-  <h4 class="title-color">Odeon</h4>
-  <b-button-group>
- <!-- <Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
-  </b-button-group>
 
-  <h4 class="title-color">Picturehouses</h4>
-  <b-button-group>
-  <!--<Pgreenwichbutton />-->
-  <!--<Phackneybutton />-->
-  </b-button-group>
-<br><br>
-  <b-button-group>
-  <!--<Pstratfordbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <Romfordbutton />
-  <!--<Vstratford />-->
-  </b-button-group>
   <h4 class="title-color"></h4>
   <b-button-group>
   <BealeR />
   <BealeF />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -66,6 +32,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import BealeR from '@/components/Films/Beale/BealeR'
 import BealeF from '@/components/Films/Beale/BealeF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -87,6 +54,7 @@ export default {
     Vstratford,
     BealeR,
     BealeF,
+    Nineteen,
 
       }
 }

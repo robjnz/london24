@@ -5,7 +5,8 @@
           src    = "https://www.youtube.com/embed/BklqjGWxNMs"
           allowfullscreen
   ></b-embed>
-
+  <p class="title-color">
+Young Rudolf Nureyev becomes a top ballet dancer in Russia, but a life-changing visit to Paris soon makes him seek asylum in France.</p>
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
 <!--<Bexleyheathbutton />-->
@@ -47,6 +48,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
   <CrowR />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -66,6 +68,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import CrowR from '@/components/ReviewMovies/CrowR'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -86,6 +89,7 @@ export default {
     Romfordbutton,
     Vstratford,
     CrowR,
+    Nineteen,
 
       }
 }

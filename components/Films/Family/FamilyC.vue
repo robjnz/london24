@@ -48,6 +48,7 @@
   <b-button-group>
   <FamilyR />
   <FamilyF />
+  <Eighteen />
   </b-button-group>
 
 </b-card>
@@ -68,6 +69,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import FamilyR from '@/components/Films/Family/FamilyR'
 import FamilyF from '@/components/Films/Family/FamilyF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -89,6 +91,7 @@ export default {
     Vstratford,
     FamilyR,
     FamilyF,
+    Eighteen,
       }
 }
 </script>

@@ -9,6 +9,7 @@
   <b-button-group>
   <PoppinsR />
   <PoppinsF />
+  <Eighteen />
   </b-button-group>
 </b-card>
 </template>
@@ -28,6 +29,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import PoppinsR from '@/components/Films/Poppins/PoppinsR'
 import PoppinsF from '@/components/Films/Poppins/PoppinsF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -48,7 +50,7 @@ export default {
     Vstratford,
     PoppinsR,
     PoppinsF,
-
+    Eighteen,
 
       }
 }

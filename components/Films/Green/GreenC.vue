@@ -50,6 +50,7 @@
   <b-button-group>
   <GreenR />
   <GreenF />
+  <Eighteen />
   </b-button-group>
 
 </b-card>
@@ -70,6 +71,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import GreenR from '@/components/Films/Green/GreenR'
 import GreenF from '@/components/Films/Green/GreenF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -89,6 +91,7 @@ export default {
     Vstratford,
     GreenR,
     GreenF,
+    Eighteen,
       }
 }
 </script>

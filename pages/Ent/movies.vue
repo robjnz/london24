@@ -14,31 +14,31 @@
 
   <b-card-group deck
   class="mb-3 ">
-    <Beale /><!--If Beale Street Could talk-->
     <Border /><!--Border -->
     <MarvelC /><!-- Captain Marvel -->
+  <Dumbo /><!--Dumbo -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Dumbo /><!--Dumbo -->
     <EscapeC /><!--Escape Room -->
     <FightingC /><!--Fighting With My Family -->
-  </b-card-group>
+    <Fisherman /><!--Fisherman’s Friend -->
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <Fisherman /><!--Fisherman’s Friend -->
     <GlassC /><!--Glass-->
     <GreenC /><!--Green Book-->
+    <Gully /><!--Gully Boy -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <Gully /><!--Gully Boy -->
     <DragonworldC /><!--How to Train Your Dragon the Hidden -->
-  <FamilyC /><!--Instant Family  -->
-    </b-card-group>
+    <BealeC /><!--If Beale Street Could talk-->
+    <FamilyC /><!--Instant Family  -->
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
@@ -56,14 +56,14 @@
 
   <b-card-group deck
   class="mb-3 ">
-  <Blue /><!--Out Of Blue -->
+  <BlueC /><!--Out Of Blue -->
   <Rabb /><!--Rabb Da Radio-->
   <Favourite /><!--The Favourite -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <King /><!--The Kid Who Would Be King-->
+  <KingC /><!--The Kid Who Would Be King-->
   <Peppa /><!--Peppa Pig Festival of Fun-->
   <PetC /><!--Pet Sematary-->
   </b-card-group>
@@ -150,7 +150,6 @@ import Colette from '@/components/Films/Colette'
 import Star from '@/components/Films/Star'
 import Lego from '@/components/Films/Lego'
 import True from '@/components/Films/True'
-import King from '@/components/Films/King'
 import Grinch from '@/components/Films/Grinch'
 import Caper from '@/components/Films/Caper'
 import Sex from '@/components/Films/Sex'
@@ -190,7 +189,7 @@ import Dumbo from '@/components/Films/Dumbo'
 import Junglee from '@/components/Films/Junglee'
 import Lion from '@/components/Films/Lion'
 import Us from '@/components/Films/Us'
-import Blue from '@/components/Films/Blue'
+import BlueC from '@/components/Films/Blue/BlueC'
 import Notebook from '@/components/Films/Notebook'
 import Lords from '@/components/Films/Lords'
 import Lucifer from '@/components/Films/Lucifer'
@@ -209,7 +208,7 @@ import DogC from '@/components/Films/Dog/DogC'
 import Ben from '@/components/Films/Ben/Ben'
 import Bohemian from '@/components/Films/Bohemian/Bohemian'
 import Cold from '@/components/Films/Cold/Cold'
-import Beale from '@/components/Films/Beale/Beale'
+import BealeC from '@/components/Films/Beale/BealeC'
 import Bumblebee from '@/components/Films/Bumblebee/Bumblebee'
 import Alita from '@/components/Films/Alita/Alita'
 import AlitaC from '@/components/Films/Alita/AlitaC'
@@ -238,6 +237,7 @@ import MissingC from '@/components/Films/Missing/MissingC'
 import Peppa from '@/components/Films/Peppa/Peppa'
 import ShazamC from '@/components/Films/Shazam/ShazamC'
 import PetC from '@/components/Films/Pet/PetC'
+import KingC from '@/components/Films/King/KingC'
 
 
 
@@ -270,12 +270,12 @@ export default {
     Badla,
     Bala,
     Band,
-    Beale,
+    BealeC,
     Bell,
     Ben,
     Black,
     Blank,
-    Blue,
+    BlueC,
     Bohemian,
     Border,
     Boy,
@@ -322,7 +322,7 @@ export default {
     Hole,
     Kala,
     Kindergarten,
-    King,
+    KingC,
     Kobiety,
     Kodathi,
     Kumbalangi,

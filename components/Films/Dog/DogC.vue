@@ -48,6 +48,7 @@
   <b-button-group>
   <DogR />
   <DogF />
+  <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -68,6 +69,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import DogR from '@/components/Films/Dog/DogR'
 import DogF from '@/components/Films/Dog/DogF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -89,7 +91,7 @@ export default {
     Vstratford,
     DogR,
     DogF,
-
+    Nineteen,
 
       }
 }
