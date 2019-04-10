@@ -206,7 +206,7 @@ import Pet from '@/components/Films/Pet/Pet'
 import Shazam from '@/components/Films/Shazam/Shazam'
 import King from '@/components/Films/King/King'
 import Sister from '@/components/Films/Sister/Sister'
-import Wonder from '@/components/Films/wonder/Wonder'
+import Wonder from '@/components/Films/Wonder/Wonder'
 
 
 

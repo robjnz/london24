@@ -199,7 +199,6 @@ import Rabb from '@/components/Films/Rabb'
 import Airaa from '@/components/Films/Airaa/Airaa'
 import Vanishing from '@/components/Films/Vanishing/Vanishing'
 import VanishingC from '@/components/Films/Vanishing/VanishingC'
-import Poppins from '@/components/Films/Poppins/Poppins'
 import Scots from '@/components/Films/Scots/Scots'
 import ScotsC from '@/components/Films/Scots/ScotsC'
 import Forgive from '@/components/Films/Forgive/Forgive'
@@ -348,7 +347,6 @@ export default {
     Notebook,
     Peppa,
     PetC,
-    Poppins,
     Preview,
     Prodigy,
     Rabb,
