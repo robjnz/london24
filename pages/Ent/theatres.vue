@@ -7,12 +7,20 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "A Night for Leah">
+<b-card bg-variant="dark" text-variant="white" title= "
+The Amazing Adventures of Pinocchio">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    7 pm Tue 9 April 2019
+    Sun 14 April  @ 1.30pm & 4.30pm
+
+    <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/19HEeE5fWB8"
+          allowfullscreen
+  ></b-embed>
     </p>
+
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 
 </b-card>
@@ -65,12 +73,12 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Scratch Night">
+<b-card bg-variant="dark" text-variant="white" title= "Hansel & Gretel">
   <p class="title-color">
 
   <p class="title-color">
     Queen's Theatre Hornchurch<br>
-    Tue 9 April 2019 @ 8pm
+    Sat 20 Apr 2019 @ 10.30am & 12pm
 
     </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
@@ -91,10 +99,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Drake">
+<b-card bg-variant="dark" text-variant="white" title= "Jay Chou">
   <p class="title-color">
     The O2 arena<br>
-    Mon 1 April - Mon 11 April 2019
+    26 - 27 April 2019 @ 8pm
 
     </p>
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>

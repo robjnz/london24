@@ -1,47 +1,56 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Us 15">
+<b-card bg-variant="dark" text-variant="white" title= "Wonder park PG">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/56Cl68ANDgc"
+          src    = "https://www.youtube.com/embed/wWLc_N3-KNk"
           allowfullscreen
   ></b-embed>
+<p class="title-color">
+    Wonder Park tells the story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.</p>
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<Bexleyheathbutton />
-<Greenwichbutton />
+<!--<Bexleyheathbutton />-->
+<!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
 <b-button-group>
-<Ilfordbutton />
-<Westbutton />
+<!--<Ilfordbutton />-->
+<!--<Westbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
- <Ogreenwichbutton />
-  <Osouthbutton />
+ <!-- <Ogreenwichbutton />-->
+  <!--<Osouthbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <Pgreenwichbutton />
-  <Phackneybutton />
+  <!--<Pgreenwichbutton />-->
+  <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
   <b-button-group>
-  <Pstratfordbutton />
+  <!--<Pstratfordbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Showcase</h4>
   <b-button-group>
-  <Newhambutton />
+  <!--<Newhambutton />-->
   </b-button-group>
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <Romfordbutton />
-  <Vstratford />
+  <!--<Romfordbutton />-->
+  <!--<Vstratford />-->
+  </b-button-group>
+
+  <h4 class="title-color"></h4>
+  <b-button-group>
+    <WonderR />
+    <WonderF />
+    <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -60,7 +69,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-
+import WonderR from '@/components/Films/Wonder/WonderR'
+import WonderF from '@/components/Films/Wonder/WonderF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -79,7 +90,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-
+    WonderR,
+    WonderF,
+    Nineteen,
 
       }
 }

@@ -3,53 +3,39 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Sunday 7th April 2019</h2>
+    <h2>Wednesday 10th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
     <DogC /><!--A Dog's Way Home-->
     <AlitaC /><!--Alita Battle Angel -->
-    <Badla /><!---Badia -->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-    <Border /><!--Border -->
     <MarvelC /><!-- Captain Marvel -->
-  <Dumbo /><!--Dumbo -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-    <EscapeC /><!--Escape Room -->
-    <FightingC /><!--Fighting With My Family -->
-    <Fisherman /><!--Fisherman’s Friend -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Dumbo /><!--Dumbo -->
+  <Lion /><!--Eaten by Lion -->
+    <FightingC /><!--Fighting With My Family -->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+    <Fisherman /><!--Fisherman’s Friend -->
     <GlassC /><!--Glass-->
     <GreenC /><!--Green Book-->
-    <Gully /><!--Gully Boy -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
     <DragonworldC /><!--How to Train Your Dragon the Hidden -->
-    <BealeC /><!--If Beale Street Could talk-->
     <FamilyC /><!--Instant Family  -->
-   </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <Lucifer /><!--Lucifer-->
-  <Lords /><!--Lords of chaos-->
-  <Luka /><!--Luka Chuppi  -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Bala /><!--Miss Bala-->
+  <Lords /><!--Lords of chaos-->
   <ScotsC /><!--Mary Queen Of Scots -->
   <MissingC /><!--Missing Link-->
   </b-card-group>
@@ -58,30 +44,41 @@
   class="mb-3 ">
   <BlueC /><!--Out Of Blue -->
   <Rabb /><!--Rabb Da Radio-->
-  <Favourite /><!--The Favourite -->
+  <KeeperC /><!--The Keeper -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Favourite /><!--The Favourite -->
   <KingC /><!--The Kid Who Would Be King-->
   <Peppa /><!--Peppa Pig Festival of Fun-->
-  <PetC /><!--Pet Sematary-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <PetC /><!--Pet Sematary-->
   <ShazamC /><!--Shazam-->
+  <SisterC /><!--The sisters Brother -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Crow /><!--The White Crow-->
   <Us /><!--Us-->
+  <WonderC /><!--Wonder park -->
   </b-card-group>
 
       <!--<Ml --90ML -->
       <!--<Star --A star is Born-->
       <!--<Airaa Airaa -->
+      <!--<Badla ---Badia -->
+      <!--<Border --Border -->
+
       <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
       <!--<Aquaman --Aquaman -->
       <!--<Band /--Band Vaaje-->
+      <!--<BealeC --If Beale Street Could talk-->
 
       <!--Black --Blackklansman -->
       <!--<BoyC /--Beautiful Boy -->
@@ -91,8 +88,12 @@
 
       <!--<Dragon --Dragon Ball Super -->
       <!--<Erased --Boy Erased-->
+      <!--<EscapeC --Escape Room -->
+
       <!--<EverybodyC />--Everybody Knows -->
       <!--<Guddiyan />--Guddiyan Patole -->
+      <!--<Gully --Gully Boy -->
+
       <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
       <!--<Had --What They Had -->
@@ -102,8 +103,10 @@
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
-      <!--<Lion />--Eaten by Lion -->
       <!--<Junglee /--Junglee -->
+      <!--<Bala --Miss Bala-->
+      <!--<Luka /--Luka Chuppi  -->
+
       <!--Maiden --Maiden-->
       <!--<Milan -Milan Talkies-->
       <!--<Notebook />--Notebook-->
@@ -188,7 +191,6 @@ import Crow from '@/components/Films/Crow'
 import Dumbo from '@/components/Films/Dumbo'
 import Junglee from '@/components/Films/Junglee'
 import Lion from '@/components/Films/Lion'
-import Us from '@/components/Films/Us'
 import BlueC from '@/components/Films/Blue/BlueC'
 import Notebook from '@/components/Films/Notebook'
 import Lords from '@/components/Films/Lords'
@@ -238,6 +240,10 @@ import Peppa from '@/components/Films/Peppa/Peppa'
 import ShazamC from '@/components/Films/Shazam/ShazamC'
 import PetC from '@/components/Films/Pet/PetC'
 import KingC from '@/components/Films/King/KingC'
+import KeeperC from '@/components/Films/Keeper/KeeperC'
+import SisterC from '@/components/Films/Sister/SisterC'
+import WonderC from '@/components/Films/Wonder/WonderC'
+import UsC from '@/components/Films/Us/UsC'
 
 
 
@@ -321,6 +327,7 @@ export default {
     HappyC,
     Hole,
     Kala,
+    KeeperC,
     Kindergarten,
     KingC,
     Kobiety,
@@ -354,6 +361,7 @@ export default {
     Serenityx,
     Sex,
     ShazamC,
+    SisterC,
     Spider,
     Stan,
     Star,
@@ -367,7 +375,8 @@ export default {
     Dumbo,
     Junglee,
     Lion,
-    Us,
+    UsC,
+    WonderC,
       }
 }
 </script>

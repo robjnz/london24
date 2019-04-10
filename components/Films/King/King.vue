@@ -7,7 +7,7 @@
   ></b-embed>
 
 <p class="title-color">
-Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and enemies, and they become knights who join forces with the legendary wizard Merlin. </p>
+Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and enemies. </p>
 
 
   <h4 class="title-color"></h4>

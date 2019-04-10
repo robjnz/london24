@@ -57,12 +57,19 @@
   <Poppins /><!--Mary Poppins-->
   <Blue /><!--Out Of Blue -->
   <Shazam /><!--Shazam-->
-   </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <King /><!--The Kid Who Would Be King-->
+  <Sister /><!--The sisters Brother -->
   <Vanishing /><!--The Vanishing-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Wonder /><!--Wonder park -->
+  <Blank />
   <Blank />
   </b-card-group>
 
@@ -158,7 +165,6 @@ import Crow from '@/components/Films/Crow'
 import Dumbo from '@/components/Films/Dumbo'
 import Junglee from '@/components/Films/Junglee'
 import Lion from '@/components/Films/Lion'
-import Us from '@/components/Films/Us'
 import Blue from '@/components/Films/Blue/Blue'
 import Notebook from '@/components/Films/Notebook'
 import Lords from '@/components/Films/Lords'
@@ -185,29 +191,22 @@ import MarvelC from '@/components/Films/Marvel/MarvelC'
 import Happy from '@/components/Films/Happy/Happy'
 import HappyC from '@/components/Films/Happy/HappyC'
 import Green from '@/components/Films/Green/Green'
-import GreenC from '@/components/Films/Green/GreenC'
 import Glass from '@/components/Films/Glass/Glass'
-import GlassC from '@/components/Films/Glass/GlassC'
 import Five from '@/components/Films/Five/Five'
-import FiveC from '@/components/Films/Five/FiveC'
 import Fighting from '@/components/Films/Fighting/Fighting'
 import FightingC from '@/components/Films/Fighting/FightingC'
 import Family from '@/components/Films/Family/Family'
-import FamilyC from '@/components/Films/Family/FamilyC'
 import Everybody from '@/components/Films/Everybody/Everybody'
-import EverybodyC from '@/components/Films/Everybody/EverybodyC'
 import Escape from '@/components/Films/Escape/Escape'
-import EscapeC from '@/components/Films/Escape/EscapeC'
 import Dragonworld from '@/components/Films/Dragonworld/Dragonworld'
-import DragonworldC from '@/components/Films/Dragonworld/DragonworldC'
 import Missing from '@/components/Films/Missing/Missing'
-import MissingC from '@/components/Films/Missing/MissingC'
 import Peppa from '@/components/Films/Peppa/Peppa'
 import ShazamC from '@/components/Films/Shazam/ShazamC'
-import PetC from '@/components/Films/Pet/PetC'
 import Pet from '@/components/Films/Pet/Pet'
 import Shazam from '@/components/Films/Shazam/Shazam'
 import King from '@/components/Films/King/King'
+import Sister from '@/components/Films/Sister/Sister'
+import Wonder from '@/components/Films/wonder/Wonder'
 
 
 
@@ -226,7 +225,6 @@ export default {
     Aftermath,
     Airaa,
     Alita,
-    AlitaC,
     Aquaman,
     Badla,
     Bala,
@@ -240,7 +238,6 @@ export default {
     Bohemian,
     Border,
     Boy,
-    BoyC,
     Bumblebee,
     Burning,
     Caper,
@@ -252,33 +249,24 @@ export default {
     Dog,
     Dragon,
     Dragonworld,
-    DragonworldC,
     Erased,
     Escape,
-    EscapeC,
     Everybody,
-    EverybodyC,
     Family,
-    FamilyC,
     Favourite,
     Fight,
     Fighting,
-    FightingC,
     Fisherman,
     Five,
-    FiveC,
     Forgive,
     Glass,
-    GlassC,
     Green,
-    GreenC,
     Grinch,
     Guddiyan,
     Gully,
     Had,
     Hannah,
     Happy,
-    HappyC,
     Hole,
     Kala,
     Kindergarten,
@@ -295,13 +283,11 @@ export default {
     MarvelC,
     Milan,
     Missing,
-    MissingC,
     Ml,
     Mule,
     Notebook,
     Peppa,
     Pet,
-    PetC,
     Poppins,
     Preview,
     Prodigy,
@@ -314,6 +300,7 @@ export default {
     Serenityx,
     Sex,
     Shazam,
+    Sister,
     Spider,
     Stan,
     Star,
@@ -321,13 +308,12 @@ export default {
     True,
     Upside,
     Vanishing,
-    VanishingC,
     Vice,
     War,
     Dumbo,
     Junglee,
     Lion,
-    Us,
+    Wonder,
       }
 }
 </script>

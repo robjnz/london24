@@ -7,7 +7,7 @@
   ></b-embed>
 
 <p class="title-color">
-Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and enemies, and they become knights who join forces with the legendary wizard Merlin. </p>
+Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and enemies. </p>
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
 <Bexleyheathbutton />
@@ -15,7 +15,7 @@ Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and 
   </b-button-group>
 <br><br>
 <b-button-group>
-<!--<Ilfordbutton />-->
+<Ilfordbutton />
 <Westbutton />
   </b-button-group>
 
@@ -42,7 +42,7 @@ Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and 
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-<Romfordbutton />
+<!--<Romfordbutton />-->
   <Vstratford />
   </b-button-group>
 

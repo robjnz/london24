@@ -4,7 +4,7 @@
 <p class="title-color">
 
 
-  <br>Wed 10 April 2019 @ 7.45pm<br>V <br>Harwich & Parkeston
+  <br>
 
 </p>
 </b-card>

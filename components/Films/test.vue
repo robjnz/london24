@@ -5,6 +5,8 @@
           src    = "https://www.youtube.com/embed/95ghQs5AmNk"
           allowfullscreen
   ></b-embed>
+    <p class="title-color">
+    Wonder Park tells the story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.</p>
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
@@ -48,6 +50,7 @@
   <b-button-group>
     <HappyR />
     <HappyF />
+    <Eighteen />
   </b-button-group>
 
 </b-card>
@@ -68,6 +71,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import HappyR from '@/components/Films/Happy/HappyR'
 import HappyF from '@/components/Films/Happy/HappyF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -88,6 +92,7 @@ export default {
     Vstratford,
     HappyR,
     HappyF,
+    Eighteen,
 
       }
 }
