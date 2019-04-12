@@ -7,69 +7,69 @@
   class="mb-3 ">
   <Dog /><!--A Dog's Way Home-->
   <Alita /><!--Alita Battle Angel -->
-  <Boy /><!--Beautiful Boy -->
+  <Aquaman /><!--Aquaman -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Boy /><!--Beautiful Boy -->
   <Ben /><!--Ben is Back 15-->
   <Bohemian /><!--Bohemian Rhapsody -->
-  <Bumblebee /><!--Bumblebee -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Bumblebee /><!--Bumblebee -->
   <Escape /><!--Escape Room -->
   <Fighting /><!--Fighting With My Family -->
-  <Forgive /><!--Can You Ever Forgive Me -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Forgive /><!--Can You Ever Forgive Me -->
   <Marvel /><!-- Captain Marvel -->
   <Cold /><!--cold Pursuit -->
-  <Dragonworld /><!--How to Train Your Dragon the Hidden -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Dragonworld /><!--How to Train Your Dragon the Hidden -->
   <Five /><!--Five Feet Apart-->
   <Everybody /><!--Everybody Knows -->
-  <Glass /><!--Glass-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Glass /><!--Glass-->
   <Green /><!--Green Book-->
   <Happy /><!--Happy Death Day -->
-  <Beale /><!--If Beale Street Could talk-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Beale /><!--If Beale Street Could talk-->
   <Family /><!--Instant Family  -->
   <Scots /><!--Mary Queen Of Scots -->
-  <Pet /><!--Pet Sematary-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Pet /><!--Pet Sematary-->
   <Poppins /><!--Mary Poppins-->
   <Blue /><!--Out Of Blue -->
-  <Shazam /><!--Shazam-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Shazam /><!--Shazam-->
   <King /><!--The Kid Who Would Be King-->
   <Sister /><!--The sisters Brother -->
-  <Vanishing /><!--The Vanishing-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Vanishing /><!--The Vanishing-->
   <Wonder /><!--Wonder park -->
-  <Blank />
   <Blank />
   </b-card-group>
 
@@ -77,7 +77,6 @@
       <!--<Star --A star is Born-->
       <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
-      <!--<Aquaman --Aquaman -->
       <!--Black --Blackklansman -->
       <!--Burning --Burning-->
       <!--<Dragon --Dragon Ball Super -->
@@ -109,7 +108,6 @@
 
 <script>
 
-import Aquaman from '@/components/Films/Aquaman'
 import Second from '@/components/Films/Second'
 import Stan from '@/components/Films/Stan'
 import Favourite from '@/components/Films/Favourite'
@@ -207,6 +205,7 @@ import Shazam from '@/components/Films/Shazam/Shazam'
 import King from '@/components/Films/King/King'
 import Sister from '@/components/Films/Sister/Sister'
 import Wonder from '@/components/Films/Wonder/Wonder'
+import Aquaman from '@/components/Films/Aquaman/Aquaman'
 
 
 

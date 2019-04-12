@@ -4,18 +4,18 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Friday<br>12th April 2019</font></h1>
+    <h1> <font color="gold"><br>Saturday<br>13th April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
-<!--
+
 <h3 class="title-color">
 
-  Home Game<br><b-img src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1544246630/hackney_wick_fc_cj1n2r.jpg" alt="Leyton Orient F.C."/>
-Hackney Wick F.C.<br>V<br>Harwich & Parkeston<br> @ 7.45pm
+  Home Game<br><b-img src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1544009671/charlton_fc_madgqn.png" alt="Charlton Athletic F.C."/>
+Charlton Athletic F.C.<br>V<br>Luton Town<br> @ 3pm
 <br>
 <b-button href="http://bit.ly/2GsFU02" target="_blank" variant="info">open</b-button>
 </h3>
--->
+
 <h3 class ="tory">
 <br>Shazam<br>
 
@@ -35,23 +35,23 @@ Ilford
 <b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-<!--
-<h3 class="labour">Drake<br>
+
+<h3 class="labour">Ben & Holly's Little Kingdom<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/d5ilLcjmvTE"
+          src    = "https://www.youtube.com/embed/gh5HuOT6BmE"
           allowfullscreen
   ></b-embed>
 
     Showing today @
-  <br>The O2 arena
-  <br>@<br>7pm
+  <br>Kenneth More Theatre
+  <br>@<br>1pm & 4pm
 </h3>
 
-<b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
+<b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 <br><br>
--->
+
     </b-badge>
 
     </div>

@@ -6,7 +6,7 @@
           allowfullscreen
   ></b-embed>
     <p class="title-color">
-    Jordan faces an unexpected threat to her personal life and career when she magically transforms into a 13-year-old version of herself right before a do-or-die presentation.
+    Jordan faces an unexpected threat to her personal life and career when she magically transforms into a 13-year-old.
     </p>
 
 

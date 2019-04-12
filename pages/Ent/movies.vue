@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Friday 12th April 2019</h2>
+    <h2>Saturday 13th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -22,57 +22,71 @@
   <b-card-group deck
   class="mb-3 ">
     <GreenC /><!--Green Book-->
+    <Gully /><!--Gully Boy -->
     <HellboyC /><!--Heliboy-->
-    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
-     </b-card-group>
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
     <FamilyC /><!--Instant Family  -->
     <LittleC /><!--Little -->
-  <Lords /><!--Lords of chaos-->
-   </b-card-group>
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Lords /><!--Lords of chaos-->
   <Luka /><!--Luka Chuppi  -->
   <Lucifer /><!--Lucifer-->
-  <PoppinsC /><!--Mary Poppins-->
-   </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <ManjeC /><!--Manje Bistre 2-->
+  <PoppinsC /><!--Mary Poppins-->
   <MissingC /><!--Missing Link-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <BlueC /><!--Out Of Blue -->
   <Rabb /><!--Rabb Da Radio-->
-   </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Spider /><!-- Spider-Man Into The Spider-Verse -->
   <KeeperC /><!--The Keeper -->
-  <Favourite /><!--The Favourite -->
-   </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Favourite /><!--The Favourite -->
   <KingC /><!--The Kid Who Would Be King-->
   <Peppa /><!--Peppa Pig Festival of Fun-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <PetC /><!--Pet Sematary-->
-   </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
+  <Ralph /><!--Ralph Breaks The Internet: Wreck-It -->
   <RomeoC /><!--Romeo Akbar Walter-->
-  <ShazamC /><!--Shazam-->
-  <SisterC /><!--The sisters Brother -->
-   </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <SherdilC /><!--SherDil-->
+  <ShazamC /><!--Shazam-->
+  <SuperC /><!--Super Deluxe -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <SisterC /><!--The sisters Brother -->
   <UsC /><!--Us-->
   <Rose /><!----Wild Rose -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <WonderC /><!--Wonder park -->
+  <Blank />
+  <Blank />
   </b-card-group>
 
       <!--<Ml --90ML -->
@@ -103,7 +117,6 @@
       <!--<GlassC --Glass-->
 
       <!--<Guddiyan />--Guddiyan Patole -->
-      <!--<Gully --Gully Boy -->
 
       <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
@@ -122,11 +135,12 @@
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
 
-      <!--<Ralph --Ralph Breaks The Internet: Wreck-It -->
       <!--<Ring --Ring-->
       <!--Second --Second Act-->
       <!--Serenityx--Serenity -->
       <!--<Sex --On The Basis Of Sex-->
+      <!--<Spider -- Spider-Man Into The Spider-Verse -->
+
       <!--<Total /><-Total Dhamal  -->
   <!--<ScotsC />--Mary Queen Of Scots -->
 
@@ -145,7 +159,6 @@
 
 <script>
 
-import Aquaman from '@/components/Films/Aquaman'
 import Second from '@/components/Films/Second'
 import Stan from '@/components/Films/Stan'
 import Favourite from '@/components/Films/Favourite'
@@ -257,6 +270,9 @@ import HellboyC from '@/components/Films/Hellboy/HellboyC'
 import LittleC from '@/components/Films/Little/LittleC'
 import PoppinsC from '@/components/Films/Poppins/PoppinsC'
 import RomeoC from '@/components/Films/Romeo/RomeoC'
+import ManjeC from '@/components/Films/Manje/ManjeC'
+import SherdilC from '@/components/Films/Sherdil/SherdilC'
+import SuperC from '@/components/Films/Super/SuperC'
 
 
 
@@ -285,7 +301,6 @@ export default {
     Airaa,
     Alita,
     AlitaC,
-    Aquaman,
     Badla,
     Bala,
     Band,
@@ -353,6 +368,7 @@ export default {
     Lords,
     Luka,
     Maiden,
+    ManjeC,
     Marvel,
     MarvelC,
     Milan,
@@ -377,10 +393,12 @@ export default {
     Serenityx,
     Sex,
     ShazamC,
+    SherdilC,
     SisterC,
     Spider,
     Stan,
     Star,
+    SuperC,
     Total,
     True,
     Upside,

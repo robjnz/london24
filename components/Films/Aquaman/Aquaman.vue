@@ -6,35 +6,17 @@
           src    = "https://www.youtube.com/embed/VMzYtgzYO7U"
           allowfullscreen
   ></b-embed>
-
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<Greenwichbutton />-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-  <!--<Ilfordbutton />-->
-<!--<Westbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Odeon</h4>
+  
+  <p class="title-color">
+      Atlantis, an underwater kingdom ruled by King Orm, planning to conquer the oceanic people Standing in his way is Aquaman.
+    </p>
+  <h4 class="title-color"></h4>
   <b-button-group>
-  <!--<Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
+  <AquamanR />
+  <AquamanF />
+  <Eighteen />
   </b-button-group>
 
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-<!--<Romfordbutton />-->
-  <!--<Vstratford />-->
-
-  </b-button-group>
 </b-card>
 </template>
 
@@ -48,6 +30,9 @@ import Osouthbutton from '@/components/Odeon/Osouthbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import AquamanR from '@/components/Films/Aquaman/AquamanR'
+import AquamanF from '@/components/Films/Aquaman/AquamanF'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 export default {
@@ -61,7 +46,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-
+    AquamanR,
+    AquamanF,
+    Eighteen,
 
       }
 }
