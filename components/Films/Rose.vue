@@ -8,29 +8,29 @@
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<Greenwichbutton />-->
+  <Bexleyheathbutton />
+<Greenwichbutton />
   </b-button-group>
 <br><br>
 <b-button-group>
-<!--<Ilfordbutton />-->
-<!--<Westbutton />-->
+<Ilfordbutton />
+<Westbutton />
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
- <!-- <Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
+ <Ogreenwichbutton />
+  <Osouthbutton />
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <!--<Pgreenwichbutton />-->
-  <!--<Phackneybutton />-->
+  <Pgreenwichbutton />
+  <Phackneybutton />
   </b-button-group>
 <br><br>
   <b-button-group>
-  <!--<Pstratfordbutton />-->
+  <Pstratfordbutton />
   </b-button-group>
 
   <h4 class="title-color">Showcase</h4>
@@ -41,7 +41,7 @@
   <h4 class="title-color">Vue</h4>
   <b-button-group>
   <!--<Romfordbutton />-->
-  <!--<Vstratford />-->
+  <Vstratford />
   </b-button-group>
 
 </b-card>

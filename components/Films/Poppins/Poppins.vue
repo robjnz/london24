@@ -5,6 +5,7 @@
           src    = "https://www.youtube.com/embed/-3jsfXDZLIY"
           allowfullscreen
   ></b-embed>
+  
   <h4 class="title-color"></h4>
   <b-button-group>
   <PoppinsR />
@@ -27,8 +28,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import PoppinsR from '@/components/Films/Poppins/PoppinsR'
 import PoppinsF from '@/components/Films/Poppins/PoppinsF'
+import PoppinsR from '@/components/Films/Poppins/PoppinsR'
 import Eighteen from '@/components/Films/Year/Eighteen'
 
 
@@ -48,8 +49,8 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    PoppinsR,
     PoppinsF,
+    PoppinsR,
     Eighteen,
 
       }

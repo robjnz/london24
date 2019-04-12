@@ -3,73 +3,82 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Wednesday 10th April 2019</h2>
+    <h2>Friday 12th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
     <DogC /><!--A Dog's Way Home-->
-    <AlitaC /><!--Alita Battle Angel -->
     <MarvelC /><!-- Captain Marvel -->
+  <Dumbo /><!--Dumbo -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Dumbo /><!--Dumbo -->
   <Lion /><!--Eaten by Lion -->
     <FightingC /><!--Fighting With My Family -->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
     <Fisherman /><!--Fisherman’s Friend -->
-    <GlassC /><!--Glass-->
+      </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <GreenC /><!--Green Book-->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
+    <HellboyC /><!--Heliboy-->
     <DragonworldC /><!--How to Train Your Dragon the Hidden -->
+     </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <FamilyC /><!--Instant Family  -->
-  <Lucifer /><!--Lucifer-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
+    <LittleC /><!--Little -->
   <Lords /><!--Lords of chaos-->
-  <ScotsC /><!--Mary Queen Of Scots -->
-  <MissingC /><!--Missing Link-->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Luka /><!--Luka Chuppi  -->
+  <Lucifer /><!--Lucifer-->
+  <PoppinsC /><!--Mary Poppins-->
+   </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <MissingC /><!--Missing Link-->
   <BlueC /><!--Out Of Blue -->
   <Rabb /><!--Rabb Da Radio-->
-  <KeeperC /><!--The Keeper -->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Spider /><!-- Spider-Man Into The Spider-Verse -->
+  <KeeperC /><!--The Keeper -->
   <Favourite /><!--The Favourite -->
+   </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <KingC /><!--The Kid Who Would Be King-->
   <Peppa /><!--Peppa Pig Festival of Fun-->
-  </b-card-group>
+  <PetC /><!--Pet Sematary-->
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <PetC /><!--Pet Sematary-->
+  <RomeoC /><!--Romeo Akbar Walter-->
   <ShazamC /><!--Shazam-->
   <SisterC /><!--The sisters Brother -->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Crow /><!--The White Crow-->
-  <Us /><!--Us-->
+  <UsC /><!--Us-->
+  <Rose /><!----Wild Rose -->
   <WonderC /><!--Wonder park -->
   </b-card-group>
 
       <!--<Ml --90ML -->
       <!--<Star --A star is Born-->
+      <!-- <AlitaC --Alita Battle Angel -->
+
       <!--<Airaa Airaa -->
       <!--<Badla ---Badia -->
       <!--<Border --Border -->
@@ -91,6 +100,8 @@
       <!--<EscapeC --Escape Room -->
 
       <!--<EverybodyC />--Everybody Knows -->
+      <!--<GlassC --Glass-->
+
       <!--<Guddiyan />--Guddiyan Patole -->
       <!--<Gully --Gully Boy -->
 
@@ -105,7 +116,6 @@
       <!--Kumbalangi --Kumbalangi Nights-->
       <!--<Junglee /--Junglee -->
       <!--<Bala --Miss Bala-->
-      <!--<Luka /--Luka Chuppi  -->
 
       <!--Maiden --Maiden-->
       <!--<Milan -Milan Talkies-->
@@ -117,16 +127,16 @@
       <!--Second --Second Act-->
       <!--Serenityx--Serenity -->
       <!--<Sex --On The Basis Of Sex-->
-      <!--<Spider Spider-Man Into The Spider-Verse -->
       <!--<Total /><-Total Dhamal  -->
+  <!--<ScotsC />--Mary Queen Of Scots -->
 
       <!--<Stan --Stan & Ollie -->
       <!--<Kala /> Kala Shah Kala -->
       <!--Upside --The Upside -->
       <!--Grinch --Grinch-->
-      <!--<Rose --Wild Rose -->
       <!--<VanishingC --The Vanishing-->
       <!--<Vice />--Vice-->
+      <!--<Crow --The White Crow-->
 
       </b-container>
       </section>
@@ -243,6 +253,10 @@ import KeeperC from '@/components/Films/Keeper/KeeperC'
 import SisterC from '@/components/Films/Sister/SisterC'
 import WonderC from '@/components/Films/Wonder/WonderC'
 import UsC from '@/components/Films/Us/UsC'
+import HellboyC from '@/components/Films/Hellboy/HellboyC'
+import LittleC from '@/components/Films/Little/LittleC'
+import PoppinsC from '@/components/Films/Poppins/PoppinsC'
+import RomeoC from '@/components/Films/Romeo/RomeoC'
 
 
 
@@ -324,6 +338,7 @@ export default {
     Hannah,
     Happy,
     HappyC,
+    HellboyC,
     Hole,
     Kala,
     KeeperC,
@@ -333,6 +348,7 @@ export default {
     Kodathi,
     Kumbalangi,
     Lego,
+    LittleC,
     Lucifer,
     Lords,
     Luka,
@@ -347,11 +363,13 @@ export default {
     Notebook,
     Peppa,
     PetC,
+    PoppinsC,
     Preview,
     Prodigy,
     Rabb,
     Ralph,
     Ring,
+    RomeoC,
     Rose,
     Scots,
     ScotsC,
