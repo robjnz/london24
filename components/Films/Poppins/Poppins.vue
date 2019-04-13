@@ -1,18 +1,21 @@
 <template>
 <b-card bg-variant="dark" text-variant="white" title= "Mary Poppins Returns U">
-  <b-embed type="iframe"
+<b-embed type="iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/-3jsfXDZLIY"
           allowfullscreen
   ></b-embed>
-  
+    <p class="title-color">
+
+    </p>
+
   <h4 class="title-color"></h4>
   <b-button-group>
-  <PoppinR />
-  <PoppinF />
+  <PoppinsR />
+  <PoppinsF />
   <Eighteen />
   </b-button-group>
-</b-card>
+ </b-card>
 </template>
 
 <script>
@@ -28,8 +31,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import PoppinF from '@/components/Films/Poppin/PoppinF'
-import PoppinR from '@/components/Films/Poppin/PoppinR'
+import PoppinsR from '@/components/Films/Poppins/PoppinsR'
+import PoppinsF from '@/components/Films/Poppins/PoppinsF'
 import Eighteen from '@/components/Films/Year/Eighteen'
 
 
@@ -49,10 +52,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    PoppinF,
-    PoppinR,
+    PoppinsR,
+    PoppinsF,
     Eighteen,
-
       }
 }
 </script>

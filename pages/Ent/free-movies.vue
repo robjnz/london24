@@ -62,9 +62,10 @@
 
   <b-card-group deck
   class="mb-3 ">
-  <Pet /><!--Pet Sematary-->
-  <Poppin /><!--Mary Poppins-->
+  <Poppins /><!--Mary Poppins-->
   <Blue /><!--Out Of Blue -->
+  <Pet /><!--Pet Sematary-->
+
   </b-card-group>
 
   <b-card-group deck
@@ -177,7 +178,7 @@ import Rabb from '@/components/Films/Rabb'
 import Airaa from '@/components/Films/Airaa/Airaa'
 import Vanishing from '@/components/Films/Vanishing/Vanishing'
 import VanishingC from '@/components/Films/Vanishing/VanishingC'
-import Poppin from '@/components/Films/Poppin/Poppin'
+import Poppins from '@/components/Films/Poppins/Poppins'
 import Scots from '@/components/Films/Scots/Scots'
 import Forgive from '@/components/Films/Forgive/Forgive'
 import Boy from '@/components/Films/Boy/Boy'
@@ -296,7 +297,7 @@ export default {
     Notebook,
     Peppa,
     Pet,
-    Poppin,
+    Poppins,
     Preview,
     Prodigy,
     Rabb,

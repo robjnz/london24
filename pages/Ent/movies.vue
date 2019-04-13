@@ -43,7 +43,7 @@
   <b-card-group deck
   class="mb-3 ">
   <ManjeC /><!--Manje Bistre 2-->
-  <PoppinC /><!--Mary Poppins-->
+  <PoppinsC /><!--Mary Poppins-->
   <MissingC /><!--Missing Link-->
   </b-card-group>
 
@@ -262,7 +262,7 @@ import WonderC from '@/components/Films/Wonder/WonderC'
 import UsC from '@/components/Films/Us/UsC'
 import HellboyC from '@/components/Films/Hellboy/HellboyC'
 import LittleC from '@/components/Films/Little/LittleC'
-import PoppinC from '@/components/Films/Poppin/PoppinC'
+import PoppinsC from '@/components/Films/Poppins/PoppinsC'
 import RomeoC from '@/components/Films/Romeo/RomeoC'
 import ManjeC from '@/components/Films/Manje/ManjeC'
 import SherdilC from '@/components/Films/Sherdil/SherdilC'
@@ -371,7 +371,7 @@ export default {
     Notebook,
     Peppa,
     PetC,
-    PoppinC,
+    PoppinsC,
     Preview,
     Prodigy,
     Rabb,
