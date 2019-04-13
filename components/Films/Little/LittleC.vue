@@ -72,7 +72,7 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import LittleR from '@/components/Films/Little/LittleR'
 import LittleF from '@/components/Films/Little/LittleF'
-import Nineteen from '@/components/Films/Year/nineteen'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 

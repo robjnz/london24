@@ -43,7 +43,7 @@
   <b-card-group deck
   class="mb-3 ">
   <ManjeC /><!--Manje Bistre 2-->
-  <PoppinsC /><!--Mary Poppins-->
+  <PoppinC /><!--Mary Poppins-->
   <MissingC /><!--Missing Link-->
   </b-card-group>
 
@@ -143,8 +143,6 @@
 
       <!--<Total /><-Total Dhamal  -->
   <!--<ScotsC />--Mary Queen Of Scots -->
-
-      <!--<Stan --Stan & Ollie -->
       <!--<Kala /> Kala Shah Kala -->
       <!--Upside --The Upside -->
       <!--Grinch --Grinch-->
@@ -160,7 +158,6 @@
 <script>
 
 import Second from '@/components/Films/Second'
-import Stan from '@/components/Films/Stan'
 import Favourite from '@/components/Films/Favourite'
 import Mule from '@/components/Films/Mule'
 import Vice from '@/components/Films/Vice'
@@ -171,12 +168,9 @@ import Spider from '@/components/Films/Spider'
 import Destroyer from '@/components/Films/Destroyer'
 import Preview from '@/components/Films/Preview'
 import Creed from '@/components/Films/Creed'
-import Dragon from '@/components/Films/Dragon'
 import Colette from '@/components/Films/Colette'
-import Star from '@/components/Films/Star'
 import Lego from '@/components/Films/Lego'
 import True from '@/components/Films/True'
-import Grinch from '@/components/Films/Grinch'
 import Caper from '@/components/Films/Caper'
 import Sex from '@/components/Films/Sex'
 import Black from '@/components/Films/Black'
@@ -268,7 +262,7 @@ import WonderC from '@/components/Films/Wonder/WonderC'
 import UsC from '@/components/Films/Us/UsC'
 import HellboyC from '@/components/Films/Hellboy/HellboyC'
 import LittleC from '@/components/Films/Little/LittleC'
-import PoppinsC from '@/components/Films/Poppins/PoppinsC'
+import PoppinC from '@/components/Films/Poppin/PoppinC'
 import RomeoC from '@/components/Films/Romeo/RomeoC'
 import ManjeC from '@/components/Films/Manje/ManjeC'
 import SherdilC from '@/components/Films/Sherdil/SherdilC'
@@ -324,7 +318,6 @@ export default {
     Destroyer,
     Dog,
     DogC,
-    Dragon,
     Dragonworld,
     DragonworldC,
     Erased,
@@ -346,7 +339,6 @@ export default {
     GlassC,
     Green,
     GreenC,
-    Grinch,
     Guddiyan,
     Gully,
     Had,
@@ -379,7 +371,7 @@ export default {
     Notebook,
     Peppa,
     PetC,
-    PoppinsC,
+    PoppinC,
     Preview,
     Prodigy,
     Rabb,
@@ -396,8 +388,6 @@ export default {
     SherdilC,
     SisterC,
     Spider,
-    Stan,
-    Star,
     SuperC,
     Total,
     True,

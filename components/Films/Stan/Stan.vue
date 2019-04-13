@@ -1,55 +1,21 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Mary Poppins Returns U">
-  <b-embed type="iframe"
+<b-card bg-variant="dark" text-variant="white" title= "Stan & Ollie PG">
+<b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/-3jsfXDZLIY"
+          src    = "https://www.youtube.com/embed/MdcBNrjc3wo"
           allowfullscreen
   ></b-embed>
+<p class="title-color">
+    Laurel and Hardy the world's greatest comedy team, touring variety halls in Britain in 1953. 
+    </p>
 
-  <h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<Bexleyheathbutton />
-<Greenwichbutton />
-  </b-button-group>
-<br><br>
-<b-button-group>
-<Ilfordbutton />
-<Westbutton />
-  </b-button-group>
-
-  <h4 class="title-color">Odeon</h4>
+<h4 class="title-color"></h4>
   <b-button-group>
- <Ogreenwichbutton />
-  <Osouthbutton />
-  </b-button-group>
-
-  <h4 class="title-color">Picturehouses</h4>
-  <b-button-group>
-  <!--<Pgreenwichbutton />-->
-  <!--<Phackneybutton />-->
-  </b-button-group>
-<br><br>
-  <b-button-group>
-  <!--<Pstratfordbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <Romfordbutton />
-  <!--<Vstratford />-->
-  </b-button-group>
-  <h4 class="title-color"></h4>
-  <b-button-group>
-<PoppinsR />
-  <PoppinsF />
+  <StanR />
+  <StanF />
   <Eighteen />
   </b-button-group>
- </b-card>
+</b-card>
 </template>
 
 <script>
@@ -65,11 +31,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import PoppinsF from '@/components/Films/Poppins/PoppinsF'
-import PoppinsR from '@/components/Films/Poppins/PoppinsR'
+import StanR from '@/components/Films/Stan/StanR'
+import StanF from '@/components/Films/Stan/StanF'
 import Eighteen from '@/components/Films/Year/Eighteen'
-
-
 
 
 export default {
@@ -86,10 +50,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    PoppinsF,
-    PoppinsR,
+    StanR,
+    StanF,
     Eighteen,
-
       }
 }
 </script>

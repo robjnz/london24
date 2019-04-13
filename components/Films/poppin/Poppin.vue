@@ -1,49 +1,17 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "The Grinch U">
-<b-embed type="iframe"
+<b-card bg-variant="dark" text-variant="white" title= "Mary Poppins Returns U">
+  <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/Bf6D-i8YpHg"
+          src    = "https://www.youtube.com/embed/-3jsfXDZLIY"
           allowfullscreen
   ></b-embed>
-
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<Greenwichbutton />-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-<!--<Ilfordbutton />-->
-<!--<Westbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Odeon</h4>
+  
+  <h4 class="title-color"></h4>
   <b-button-group>
-  <!--<Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
+  <PoppinR />
+  <PoppinF />
+  <Eighteen />
   </b-button-group>
-
-  <h4 class="title-color">Picturehouses</h4>
-  <b-button-group>
-  <!--<Pgreenwichbutton />-->
-  <!--<Phackneybutton />-->
-  </b-button-group>
-<br><br>
-  <b-button-group>
- <!--<Pstratfordbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <!--<Romfordbutton />-->
- <!--<Vstratford />-->
-  </b-button-group>
-
 </b-card>
 </template>
 
@@ -60,7 +28,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-
+import PoppinF from '@/components/Films/Poppin/PoppinF'
+import PoppinR from '@/components/Films/Poppin/PoppinR'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -79,7 +49,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-
+    PoppinF,
+    PoppinR,
+    Eighteen,
 
       }
 }

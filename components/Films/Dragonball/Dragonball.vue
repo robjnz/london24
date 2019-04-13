@@ -1,16 +1,18 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Mary Poppins Returns U">
+<b-card bg-variant="dark" text-variant="white" title= "Dragon Ball Super Broly PG">
   <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/-3jsfXDZLIY"
+          src    = "https://www.youtube.com/embed/U_WaYehNVAM"
           allowfullscreen
   ></b-embed>
-  
+<p class="title-color">
+    A planet destroyed, a powerful race reduced to nothing, three Saiyans were scattered among the stars.
+    </p>
   <h4 class="title-color"></h4>
   <b-button-group>
-  <PoppinsR />
-  <PoppinsF />
-  <Eighteen />
+  <DragonballR />
+    <DragonballF />
+    <Nineteen />
   </b-button-group>
 </b-card>
 </template>
@@ -22,17 +24,12 @@ import Ilfordbutton from '@/components/Cineworld/Ilfordbutton'
 import Westbutton from '@/components/Cineworld/Westbutton'
 import Ogreenwichbutton from '@/components/Odeon/Ogreenwichbutton'
 import Osouthbutton from '@/components/Odeon/Osouthbutton'
-import Pgreenwichbutton from '@/components/Picturehouses/Pgreenwichbutton'
-import Phackneybutton from '@/components/Picturehouses/Phackneybutton'
-import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import PoppinsF from '@/components/Films/Poppins/PoppinsF'
-import PoppinsR from '@/components/Films/Poppins/PoppinsR'
-import Eighteen from '@/components/Films/Year/Eighteen'
-
-
+import DragonballR from '@/components/Films/Dragonball/DragonballR'
+import DragonballF from '@/components/Films/Dragonball/DragonballF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 export default {
@@ -43,15 +40,12 @@ export default {
     Westbutton,
     Ogreenwichbutton,
     Osouthbutton,
-    Pgreenwichbutton,
-    Phackneybutton,
-    Pstratfordbutton,
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    PoppinsF,
-    PoppinsR,
-    Eighteen,
+    DragonballR,
+    DragonballF,
+    Nineteen,
 
       }
 }

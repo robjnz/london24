@@ -4,11 +4,9 @@
 <p class="title-color">
 
 
-<br>Sat 13th April 2019<br>V <br>Holmesdale
-<!--
 <br>Mon 22nd April 2019<br>V <br>Sutton Athletic
 <br>
--->
+
 </p>
 </b-card>
 </template>

@@ -4,7 +4,7 @@
 <p class="title-color">
 
 
-  <br>Sat 13 Apri 2019 @ 3pm <br>V<br>Hullbridge Sports
+  <br>
 
 </p>
 </b-card>

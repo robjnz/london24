@@ -3,45 +3,53 @@
   <b-container>
 
   <h1 class="title-color">Movies free to watch online </h1>
+  <Alert />
   <b-card-group deck
   class="mb-3 ">
+  <Star /><!--A star is Born-->
   <Dog /><!--A Dog's Way Home-->
   <Alita /><!--Alita Battle Angel -->
-  <Aquaman /><!--Aquaman -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Aquaman /><!--Aquaman -->
   <Boy /><!--Beautiful Boy -->
   <Ben /><!--Ben is Back 15-->
-  <Bohemian /><!--Bohemian Rhapsody -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Bohemian /><!--Bohemian Rhapsody -->
   <Bumblebee /><!--Bumblebee -->
   <Escape /><!--Escape Room -->
-  <Fighting /><!--Fighting With My Family -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Fighting /><!--Fighting With My Family -->
   <Forgive /><!--Can You Ever Forgive Me -->
   <Marvel /><!-- Captain Marvel -->
-  <Cold /><!--cold Pursuit -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Cold /><!--cold Pursuit -->
+  <Dragonball />-<!--Dragon Ball Super -->
   <Dragonworld /><!--How to Train Your Dragon the Hidden -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Five /><!--Five Feet Apart-->
   <Everybody /><!--Everybody Knows -->
+  <Glass /><!--Glass-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Glass /><!--Glass-->
   <Green /><!--Green Book-->
+  <Grinch /><!--Grinch-->
   <Happy /><!--Happy Death Day -->
   </b-card-group>
 
@@ -55,31 +63,32 @@
   <b-card-group deck
   class="mb-3 ">
   <Pet /><!--Pet Sematary-->
-  <Poppins /><!--Mary Poppins-->
+  <Poppin /><!--Mary Poppins-->
   <Blue /><!--Out Of Blue -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <Shazam /><!--Shazam-->
+  <Stan/><!--Stan & Ollie -->
   <King /><!--The Kid Who Would Be King-->
-  <Sister /><!--The sisters Brother -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Sister /><!--The sisters Brother -->
   <Vanishing /><!--The Vanishing-->
   <Wonder /><!--Wonder park -->
-  <Blank />
   </b-card-group>
 
+
+
+
       <!--<Ml --90ML -->
-      <!--<Star --A star is Born-->
       <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
       <!--Black --Blackklansman -->
       <!--Burning --Burning-->
-      <!--<Dragon --Dragon Ball Super -->
       <!--<Erased --Boy Erased-->
       <!--<Fight --The Fight-->
       <!--<Had --What They Had -->
@@ -96,10 +105,8 @@
       <!--Second --Second Act-->
       <!--Serenityx--Serenity -->
       <!--<Sex --On The Basis Of Sex-->
-      <!--<Stan --Stan & Ollie -->
       <!--<Kala /> Kala Shah Kala -->
       <!--Upside --The Upside -->
-      <!--Grinch --Grinch-->
       <!--<Rose --Wild Rose -->
       </b-container>
       </section>
@@ -109,7 +116,6 @@
 <script>
 
 import Second from '@/components/Films/Second'
-import Stan from '@/components/Films/Stan'
 import Favourite from '@/components/Films/Favourite'
 import Mule from '@/components/Films/Mule'
 import Vice from '@/components/Films/Vice'
@@ -120,12 +126,12 @@ import Spider from '@/components/Films/Spider'
 import Destroyer from '@/components/Films/Destroyer'
 import Preview from '@/components/Films/Preview'
 import Creed from '@/components/Films/Creed'
-import Dragon from '@/components/Films/Dragon'
+import Dragonball from '@/components/Films/Dragonball/Dragonball'
 import Colette from '@/components/Films/Colette'
-import Star from '@/components/Films/Star'
+import Star from '@/components/Films/Star/Star'
 import Lego from '@/components/Films/Lego'
 import True from '@/components/Films/True'
-import Grinch from '@/components/Films/Grinch'
+import Grinch from '@/components/Films/Grinch/Grinch'
 import Caper from '@/components/Films/Caper'
 import Sex from '@/components/Films/Sex'
 import Black from '@/components/Films/Black'
@@ -171,7 +177,7 @@ import Rabb from '@/components/Films/Rabb'
 import Airaa from '@/components/Films/Airaa/Airaa'
 import Vanishing from '@/components/Films/Vanishing/Vanishing'
 import VanishingC from '@/components/Films/Vanishing/VanishingC'
-import Poppins from '@/components/Films/Poppins/Poppins'
+import Poppin from '@/components/Films/Poppin/Poppin'
 import Scots from '@/components/Films/Scots/Scots'
 import Forgive from '@/components/Films/Forgive/Forgive'
 import Boy from '@/components/Films/Boy/Boy'
@@ -206,6 +212,8 @@ import King from '@/components/Films/King/King'
 import Sister from '@/components/Films/Sister/Sister'
 import Wonder from '@/components/Films/Wonder/Wonder'
 import Aquaman from '@/components/Films/Aquaman/Aquaman'
+import Stan from '@/components/Films/Stan/Stan'
+import Alert from '@/components/Films/Alert/Alert'
 
 
 
@@ -221,6 +229,7 @@ export default {
     }
   },
   components: {
+    Alert,
     Aftermath,
     Airaa,
     Alita,
@@ -246,7 +255,7 @@ export default {
     Crow,
     Destroyer,
     Dog,
-    Dragon,
+    Dragonball,
     Dragonworld,
     Erased,
     Escape,
@@ -287,7 +296,7 @@ export default {
     Notebook,
     Peppa,
     Pet,
-    Poppins,
+    Poppin,
     Preview,
     Prodigy,
     Rabb,

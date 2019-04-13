@@ -4,7 +4,7 @@
 <p class="title-color">
 
 
-  <br>Sat 13 April 2019 3pm<br>V<br>Stansted F.C
+  <br>
 
 </p>
 

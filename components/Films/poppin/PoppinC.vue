@@ -1,26 +1,26 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "A star is Born 15">
-<b-embed type="iframe"
+<b-card bg-variant="dark" text-variant="white" title= "Mary Poppins Returns U">
+  <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/nSbzyEJ8X9E"
+          src    = "https://www.youtube.com/embed/-3jsfXDZLIY"
           allowfullscreen
   ></b-embed>
 
-<h4 class="title-color">Cineworld</h4>
+  <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<Greenwichbutton />-->
+<Bexleyheathbutton />
+<Greenwichbutton />
   </b-button-group>
 <br><br>
 <b-button-group>
-<!--<Ilfordbutton />-->
-<!--<Westbutton />-->
+<Ilfordbutton />
+<Westbutton />
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
- <!--<Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
+ <Ogreenwichbutton />
+  <Osouthbutton />
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
@@ -40,11 +40,16 @@
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
- <!--<Romfordbutton />-->
+  <Romfordbutton />
   <!--<Vstratford />-->
   </b-button-group>
-
-</b-card>
+  <h4 class="title-color"></h4>
+  <b-button-group>
+<PoppinR />
+  <PoppinF />
+  <Eighteen />
+  </b-button-group>
+ </b-card>
 </template>
 
 <script>
@@ -60,7 +65,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-
+import PoppinF from '@/components/Films/Poppin/PoppinF'
+import PoppinR from '@/components/Films/Poppin/PoppinR'
+import Eighteen from '@/components/Films/Year/Eighteen'
 
 
 
@@ -79,7 +86,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-
+    PoppinF,
+    PoppinR,
+    Eighteen,
 
       }
 }

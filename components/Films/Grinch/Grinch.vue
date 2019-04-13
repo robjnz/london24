@@ -1,38 +1,22 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Dragon Ball Super PG">
-  <b-embed type="iframe"
+<b-card bg-variant="dark" text-variant="white" title= "The Grinch U">
+<b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/U_WaYehNVAM"
+          src    = "https://www.youtube.com/embed/Bf6D-i8YpHg"
           allowfullscreen
   ></b-embed>
 
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<greenwichbutton/>-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-<!--<ilfordbutton />-->
-<!--<westbutton />-->
+<p class="title-color">
+    A grumpy Grinch plots to ruin Christmas for the village of Whoville.
+    </p>
+
+  <h4 class="title-color"></h4>
+  <b-button-group>
+  <GrinchR />
+  <GrinchF />
+  <Eighteen />
   </b-button-group>
 
-<h4 class="title-color">Odeon</h4>
-  <b-button-group>
-  <!--<Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <!--<Romfordbutton />-->
-  <!--<Vstratford />-->
-  </b-button-group>
 </b-card>
 </template>
 
@@ -43,9 +27,17 @@ import Ilfordbutton from '@/components/Cineworld/Ilfordbutton'
 import Westbutton from '@/components/Cineworld/Westbutton'
 import Ogreenwichbutton from '@/components/Odeon/Ogreenwichbutton'
 import Osouthbutton from '@/components/Odeon/Osouthbutton'
+import Pgreenwichbutton from '@/components/Picturehouses/Pgreenwichbutton'
+import Phackneybutton from '@/components/Picturehouses/Phackneybutton'
+import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import GrinchR from '@/components/Films/Grinch/GrinchR'
+import GrinchF from '@/components/Films/Grinch/GrinchF'
+import Eighteen from '@/components/Films/Year/Eighteen'
+
+
 
 
 export default {
@@ -56,9 +48,15 @@ export default {
     Westbutton,
     Ogreenwichbutton,
     Osouthbutton,
+    Pgreenwichbutton,
+    Phackneybutton,
+    Pstratfordbutton,
     Newhambutton,
     Romfordbutton,
     Vstratford,
+    GrinchR,
+    GrinchF,
+    Eighteen,
 
 
       }
