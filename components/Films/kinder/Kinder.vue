@@ -10,8 +10,8 @@
     </p>
   <h4 class="title-color"></h4>
   <b-button-group>
-  <KindergartenR />
-  <KindergartenF />
+  <KinderR />
+  <KinderF />
   <Eighteen />
   </b-button-group>
 
@@ -31,8 +31,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import KindergartenR from '@/components/Films/Kindergarten/KindergartenR'
-import KindergartenF from '@/components/Films/Kindergarten/KindergartenF'
+import KinderR from '@/components/Films/Kinder/KinderR'
+import KinderF from '@/components/Films/Kinder/KinderF'
 import Eighteen from '@/components/Films/Year/Eighteen'
 
 
@@ -52,8 +52,8 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    KindergartenR,
-    KindergartenF,
+    KinderR,
+    KinderF,
     Eighteen,
       }
 }

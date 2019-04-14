@@ -62,7 +62,7 @@
 
   <b-card-group deck
   class="mb-3 ">
-  <Kindergarten /><!--The Kindergarten Teacher -->
+  <Kinder /><!--The Kinder Teacher -->
   <Scots /><!--Mary Queen Of Scots -->
   <Poppins /><!--Mary Poppins-->
   </b-card-group>
@@ -151,7 +151,7 @@ import Kala from '@/components/Films/Kala'
 import Ml from '@/components/Films/Ml'
 import Luka from '@/components/Films/Luka'
 import Badla from '@/components/Films/Badla'
-import Kindergarten from '@/components/Films/Kindergarten/Kindergarten'
+import Kinder from '@/components/Films/Kinder/Kinder'
 import Border from '@/components/Films/Border'
 import Bala from '@/components/Films/Bala'
 import Guddiyan from '@/components/Films/Guddiyan'
@@ -285,7 +285,7 @@ export default {
     Happy,
     Hole,
     Kala,
-    Kindergarten,
+    Kinder,
     King,
     Kobiety,
     Kodathi,
