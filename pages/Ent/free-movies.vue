@@ -57,22 +57,28 @@
   class="mb-3 ">
   <Beale /><!--If Beale Street Could talk-->
   <Family /><!--Instant Family  -->
-  <Scots /><!--Mary Queen Of Scots -->
+  <Mid /><!--Mid 90s -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Kindergarten /><!--The Kindergarten Teacher -->
+  <Scots /><!--Mary Queen Of Scots -->
   <Poppins /><!--Mary Poppins-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Blue /><!--Out Of Blue -->
   <Pet /><!--Pet Sematary-->
-
+  <Shazam /><!--Shazam-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Shazam /><!--Shazam-->
   <Stan/><!--Stan & Ollie -->
   <King /><!--The Kid Who Would Be King-->
+  <Favourite /><!--The Favourite -->
   </b-card-group>
 
   <b-card-group deck
@@ -95,7 +101,6 @@
       <!--<Had --What They Had -->
       <!--<Hannah --Hannah-->
       <!--<Hole --The Hole In The Ground-->
-      <!--<Kindergarten --The Kindergarten Teacher -->
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
@@ -116,8 +121,9 @@
 
 <script>
 
+import Alert from '@/components/Films/Alert/Alert'
 import Second from '@/components/Films/Second'
-import Favourite from '@/components/Films/Favourite'
+import Favourite from '@/components/Films/Favourite/Favourite'
 import Mule from '@/components/Films/Mule'
 import Vice from '@/components/Films/Vice'
 import Blank from '@/components/Films/Blank'
@@ -145,7 +151,7 @@ import Kala from '@/components/Films/Kala'
 import Ml from '@/components/Films/Ml'
 import Luka from '@/components/Films/Luka'
 import Badla from '@/components/Films/Badla'
-import Kindergarten from '@/components/Films/Kindergarten'
+import Kindergarten from '@/components/Films/Kindergarten/Kindergarten'
 import Border from '@/components/Films/Border'
 import Bala from '@/components/Films/Bala'
 import Guddiyan from '@/components/Films/Guddiyan'
@@ -214,7 +220,8 @@ import Sister from '@/components/Films/Sister/Sister'
 import Wonder from '@/components/Films/Wonder/Wonder'
 import Aquaman from '@/components/Films/Aquaman/Aquaman'
 import Stan from '@/components/Films/Stan/Stan'
-import Alert from '@/components/Films/Alert/Alert'
+import Mid from '@/components/Films/Mid/Mid'
+
 
 
 
@@ -290,6 +297,7 @@ export default {
     Maiden,
     Marvel,
     MarvelC,
+    Mid,
     Milan,
     Missing,
     Ml,

@@ -7,18 +7,13 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "
-The Amazing Adventures of Pinocchio">
+<b-card bg-variant="dark" text-variant="white" title= "Alice in Wonderland">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Sun 14 April  @ 1.30pm & 4.30pm
+    Mon 15 - Tues 16 April 2019 @ 2pm & 6pm
 
-    <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/19HEeE5fWB8"
-          allowfullscreen
-  ></b-embed>
+    
     </p>
 
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
@@ -57,17 +52,12 @@ The Amazing Adventures of Pinocchio">
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Ben & Holly's Little Kingdom">
+<b-card bg-variant="dark" text-variant="white" title= "And Then There Were None">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Sat 13 - Sun 14 April 2019
+    Thu 25 - Sat 27 April 2019
 
-    <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/gh5HuOT6BmE"
-          allowfullscreen
-  ></b-embed>
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 

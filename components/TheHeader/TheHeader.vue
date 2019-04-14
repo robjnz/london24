@@ -78,6 +78,7 @@
         </b-nav-item-dropdown>
 
         <b-nav-item href="/Ent/movies">Movies on today</b-nav-item>
+        <b-nav-item href="/Ent/free-movies">Movies free to watch online</b-nav-item>
         <b-nav-item href="/Ent/night">Nightclubs</b-nav-item>
         <b-nav-item href="/Ent/theatres">Theatres</b-nav-item>
         <b-nav-item href="/Sport/football">Football Matches</b-nav-item>

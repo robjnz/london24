@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Sunday<br>14th April 2019</font></h1>
+    <h1> <font color="gold"><br>Monday<br>15th April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -36,20 +36,20 @@ Ilford
 <br>
 <br>
 
-<h3 class="labour">Ben & Holly's Little Kingdom<br>
-
+<h3 class="labour">Alice in Wonderland<br>
+<!--
 <b-embed type="iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/gh5HuOT6BmE"
           allowfullscreen
   ></b-embed>
-
+-->
     Showing today @
-  <br>Kenneth More Theatre
-  <br>@<br>10am & 1pm
+  <br> Broadway Theatre Barking
+  <br>@<br>2pm & 6pm
 </h3>
 
-<b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
+<b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 <br><br>
 
     </b-badge>

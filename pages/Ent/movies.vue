@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Saturday 13th April 2019</h2>
+    <h2>Monday 15th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -21,71 +21,64 @@
 
   <b-card-group deck
   class="mb-3 ">
-    <GreenC /><!--Green Book-->
     <Gully /><!--Gully Boy -->
     <HellboyC /><!--Heliboy-->
-    </b-card-group>
+    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
+     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
     <FamilyC /><!--Instant Family  -->
     <LittleC /><!--Little -->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <Lords /><!--Lords of chaos-->
-  <Luka /><!--Luka Chuppi  -->
-  <Lucifer /><!--Lucifer-->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Lucifer /><!--Lucifer-->
   <ManjeC /><!--Manje Bistre 2-->
   <PoppinsC /><!--Mary Poppins-->
+   </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <MidC /><!--Mid 90s -->
   <MissingC /><!--Missing Link-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <BlueC /><!--Out Of Blue -->
-  <Rabb /><!--Rabb Da Radio-->
+   </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <KeeperC /><!--The Keeper -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Favourite /><!--The Favourite -->
+  <FavouriteC /><!--The Favourite -->
   <KingC /><!--The Kid Who Would Be King-->
-  <Peppa /><!--Peppa Pig Festival of Fun-->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Peppa /><!--Peppa Pig Festival of Fun-->
   <PetC /><!--Pet Sematary-->
-  <Ralph /><!--Ralph Breaks The Internet: Wreck-It -->
   <RomeoC /><!--Romeo Akbar Walter-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <SherdilC /><!--SherDil-->
   <ShazamC /><!--Shazam-->
-  <SuperC /><!--Super Deluxe -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
+  <SherdilC /><!--SherDil-->
   <SisterC /><!--The sisters Brother -->
-  <UsC /><!--Us-->
-  <Rose /><!----Wild Rose -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Spider /><!-- Spider-Man Into The Spider-Verse -->
+  <SuperC /><!--Super Deluxe -->
+  <UsC /><!--Us-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Rose /><!----Wild Rose -->
   <WonderC /><!--Wonder park -->
-  <Blank />
   <Blank />
   </b-card-group>
 
@@ -115,6 +108,7 @@
 
       <!--<EverybodyC />--Everybody Knows -->
       <!--<GlassC --Glass-->
+      <!--<GreenC /--Green Book-->
 
       <!--<Guddiyan />--Guddiyan Patole -->
 
@@ -128,18 +122,21 @@
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
       <!--<Junglee /--Junglee -->
+      <!--<Luka />--Luka Chuppi  -->
+
       <!--<Bala --Miss Bala-->
 
       <!--Maiden --Maiden-->
       <!--<Milan -Milan Talkies-->
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
+      <!--<Rabb /--Rabb Da Radio-->
+      <!--<Ralph --Ralph Breaks The Internet: Wreck-It -->
 
       <!--<Ring --Ring-->
       <!--Second --Second Act-->
       <!--Serenityx--Serenity -->
       <!--<Sex --On The Basis Of Sex-->
-      <!--<Spider -- Spider-Man Into The Spider-Verse -->
 
       <!--<Total /><-Total Dhamal  -->
   <!--<ScotsC />--Mary Queen Of Scots -->
@@ -158,7 +155,7 @@
 <script>
 
 import Second from '@/components/Films/Second'
-import Favourite from '@/components/Films/Favourite'
+import FavouriteC from '@/components/Films/Favourite/FavouriteC'
 import Mule from '@/components/Films/Mule'
 import Vice from '@/components/Films/Vice'
 import Blank from '@/components/Films/Blank'
@@ -183,7 +180,6 @@ import Kala from '@/components/Films/Kala'
 import Ml from '@/components/Films/Ml'
 import Luka from '@/components/Films/Luka'
 import Badla from '@/components/Films/Badla'
-import Kindergarten from '@/components/Films/Kindergarten'
 import Border from '@/components/Films/Border'
 import Bala from '@/components/Films/Bala'
 import Guddiyan from '@/components/Films/Guddiyan'
@@ -267,6 +263,7 @@ import RomeoC from '@/components/Films/Romeo/RomeoC'
 import ManjeC from '@/components/Films/Manje/ManjeC'
 import SherdilC from '@/components/Films/Sherdil/SherdilC'
 import SuperC from '@/components/Films/Super/SuperC'
+import MidC from '@/components/Films/Mid/MidC'
 
 
 
@@ -327,7 +324,7 @@ export default {
     EverybodyC,
     Family,
     FamilyC,
-    Favourite,
+    FavouriteC,
     Fight,
     Fighting,
     FightingC,
@@ -349,7 +346,6 @@ export default {
     Hole,
     Kala,
     KeeperC,
-    Kindergarten,
     KingC,
     Kobiety,
     Kodathi,
@@ -363,6 +359,7 @@ export default {
     ManjeC,
     Marvel,
     MarvelC,
+    MidC,
     Milan,
     Missing,
     MissingC,
