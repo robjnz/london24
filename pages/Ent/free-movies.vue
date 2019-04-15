@@ -62,7 +62,7 @@
 
   <b-card-group deck
   class="mb-3 ">
-  <Kinder /><!--The Kinder Teacher -->
+  <Teacher /><!--The Kinder Teacher -->
   <Scots /><!--Mary Queen Of Scots -->
   <Poppins /><!--Mary Poppins-->
   </b-card-group>
@@ -220,7 +220,7 @@ import Wonder from '@/components/Films/Wonder/Wonder'
 import Aquaman from '@/components/Films/Aquaman/Aquaman'
 import Stan from '@/components/Films/Stan/Stan'
 import Mid from '@/components/Films/Mid/Mid'
-import Kinder from '@/components/Films/Kinder/Kinder'
+import Teacher from '@/components/Films/Teacher/Teacher'
 
 
 
@@ -285,7 +285,6 @@ export default {
     Happy,
     Hole,
     Kala,
-    Kinder,
     King,
     Kobiety,
     Kodathi,
@@ -321,6 +320,7 @@ export default {
     Spider,
     Stan,
     Star,
+    Teacher,
     Total,
     True,
     Upside,

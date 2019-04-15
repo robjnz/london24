@@ -6,13 +6,15 @@
           allowfullscreen
   ></b-embed>
     <p class="title-color">
-    A teacher sees such great promise in her 5-year-old student that she goes to unreasonable lengths to protect his talent.
+      A teacher sees such great promise in her 5-year-old student that she goes to unreasonable lengths to protect his talent.
     </p>
+
+
   <h4 class="title-color"></h4>
   <b-button-group>
-  <KinderR />
-  <KinderF />
-  <Eighteen />
+    <TeacherR />
+    <TeacherF />
+    <Eighteen />
   </b-button-group>
 
 </b-card>
@@ -31,8 +33,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import KinderR from '@/components/Films/Kinder/KinderR'
-import KinderF from '@/components/Films/Kinder/KinderF'
+import TeacherR from '@/components/Films/Teacher/TeacherR'
+import TeacherF from '@/components/Films/Teacher/TeacherF'
 import Eighteen from '@/components/Films/Year/Eighteen'
 
 
@@ -52,9 +54,10 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    KinderR,
-    KinderF,
+    TeacherR,
+    TeacherF,
     Eighteen,
+
       }
 }
 </script>
