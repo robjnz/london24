@@ -151,7 +151,6 @@ import Kala from '@/components/Films/Kala'
 import Ml from '@/components/Films/Ml'
 import Luka from '@/components/Films/Luka'
 import Badla from '@/components/Films/Badla'
-import Kinder from '@/components/Films/Kinder/Kinder'
 import Border from '@/components/Films/Border'
 import Bala from '@/components/Films/Bala'
 import Guddiyan from '@/components/Films/Guddiyan'
@@ -221,6 +220,7 @@ import Wonder from '@/components/Films/Wonder/Wonder'
 import Aquaman from '@/components/Films/Aquaman/Aquaman'
 import Stan from '@/components/Films/Stan/Stan'
 import Mid from '@/components/Films/Mid/Mid'
+import Kinder from '@/components/Films/Kinder/Kinder'
 
 
 
