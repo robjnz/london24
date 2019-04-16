@@ -21,22 +21,15 @@
 
   <b-card-group deck
   class="mb-3 ">
-    <Gully /><!--Gully Boy -->
     <HellboyC /><!--Heliboy-->
     <DragonworldC /><!--How to Train Your Dragon the Hidden -->
-     </b-card-group>
+    <FamilyC /><!--Instant Family  -->
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <FamilyC /><!--Instant Family  -->
     <LittleC /><!--Little -->
   <Lords /><!--Lords of chaos-->
-   </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Lucifer /><!--Lucifer-->
-  <ManjeC /><!--Manje Bistre 2-->
   <PoppinsC /><!--Mary Poppins-->
    </b-card-group>
 
@@ -58,22 +51,15 @@
   class="mb-3 ">
   <Peppa /><!--Peppa Pig Festival of Fun-->
   <PetC /><!--Pet Sematary-->
-  <RomeoC /><!--Romeo Akbar Walter-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <ShazamC /><!--Shazam-->
-  <SherdilC /><!--SherDil-->
-  <SisterC /><!--The sisters Brother -->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <SisterC /><!--The sisters Brother -->
   <Spider /><!-- Spider-Man Into The Spider-Verse -->
-  <SuperC /><!--Super Deluxe -->
   <UsC /><!--Us-->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
@@ -81,6 +67,8 @@
   <WonderC /><!--Wonder park -->
   <Blank />
   </b-card-group>
+
+  
 
       <!--<Ml --90ML -->
       <!--<Star --A star is Born-->
@@ -263,6 +251,7 @@ import ManjeC from '@/components/Films/Manje/ManjeC'
 import SherdilC from '@/components/Films/Sherdil/SherdilC'
 import SuperC from '@/components/Films/Super/SuperC'
 import MidC from '@/components/Films/Mid/MidC'
+import Kesari from '@/components/Films/Kesari'
 
 
 
@@ -345,6 +334,7 @@ export default {
     Hole,
     Kala,
     KeeperC,
+    Kesari,
     KingC,
     Kobiety,
     Kodathi,
