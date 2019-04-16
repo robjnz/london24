@@ -68,7 +68,7 @@
   <Blank />
   </b-card-group>
 
-  
+
 
       <!--<Ml --90ML -->
       <!--<Star --A star is Born-->
@@ -104,7 +104,6 @@
       <!--<Fight --The Fight-->
       <!--<Had --What They Had -->
       <!--<Hannah --Hannah-->
-      <!--<Hole --The Hole In The Ground-->
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
@@ -121,14 +120,11 @@
       <!--<Ralph --Ralph Breaks The Internet: Wreck-It -->
 
       <!--<Ring --Ring-->
-      <!--Second --Second Act-->
       <!--Serenityx--Serenity -->
-      <!--<Sex --On The Basis Of Sex-->
 
       <!--<Total /><-Total Dhamal  -->
   <!--<ScotsC />--Mary Queen Of Scots -->
       <!--<Kala /> Kala Shah Kala -->
-      <!--Upside --The Upside -->
       <!--Grinch --Grinch-->
       <!--<VanishingC --The Vanishing-->
       <!--<Vice />--Vice-->
@@ -141,13 +137,11 @@
 
 <script>
 
-import Second from '@/components/Films/Second'
 import FavouriteC from '@/components/Films/Favourite/FavouriteC'
 import Mule from '@/components/Films/Mule'
 import Vice from '@/components/Films/Vice'
 import Blank from '@/components/Films/Blank'
 import Ralph from '@/components/Films/Ralph'
-import Upside from '@/components/Films/Upside'
 import Spider from '@/components/Films/Spider'
 import Destroyer from '@/components/Films/Destroyer'
 import Preview from '@/components/Films/Preview'
@@ -156,7 +150,6 @@ import Colette from '@/components/Films/Colette'
 import Lego from '@/components/Films/Lego'
 import True from '@/components/Films/True'
 import Caper from '@/components/Films/Caper'
-import Sex from '@/components/Films/Sex'
 import Black from '@/components/Films/Black'
 import War from '@/components/Films/War'
 import Aftermath from '@/components/Films/Aftermath'
@@ -171,7 +164,6 @@ import Border from '@/components/Films/Border'
 import Bala from '@/components/Films/Bala'
 import Guddiyan from '@/components/Films/Guddiyan'
 import Kumbalangi from '@/components/Films/Kumbalangi'
-import Hole from '@/components/Films/Hole'
 import Total from '@/components/Films/Total'
 import Bell from '@/components/Films/Bell'
 import Kobiety from '@/components/Films/Kobiety'
@@ -331,7 +323,6 @@ export default {
     Happy,
     HappyC,
     HellboyC,
-    Hole,
     Kala,
     KeeperC,
     Kesari,
@@ -367,9 +358,7 @@ export default {
     Rose,
     Scots,
     ScotsC,
-    Second,
     Serenityx,
-    Sex,
     ShazamC,
     SherdilC,
     SisterC,
@@ -377,7 +366,6 @@ export default {
     SuperC,
     Total,
     True,
-    Upside,
     Vanishing,
     VanishingC,
     Vice,

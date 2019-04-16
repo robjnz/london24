@@ -71,23 +71,36 @@
   class="mb-3 ">
   <Blue /><!--Out Of Blue -->
   <Pet /><!--Pet Sematary-->
-  <Shazam /><!--Shazam-->
-  </b-card-group>
+  <Second /><!--Second Act-->
+ </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Sex /><!--On the basis of sex -->
+  <Shazam /><!--Shazam-->
   <Stan/><!--Stan & Ollie -->
+   </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Hole /><!--The Hole In The Ground-->
   <King /><!--The Kid Who Would Be King-->
   <Favourite /><!--The Favourite -->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <Sister /><!--The sisters Brother -->
+  <Upside /><!--The Upside -->
   <Vanishing /><!--The Vanishing-->
-  <Wonder /><!--Wonder park -->
-  </b-card-group>
+   </b-card-group>
 
+  <b-card-group deck
+  class="mb-3 ">
+  <Wonder /><!--Wonder park -->
+  <Blank />
+  <Blank />
+  </b-card-group>
 
 
 
@@ -100,7 +113,6 @@
       <!--<Fight --The Fight-->
       <!--<Had --What They Had -->
       <!--<Hannah --Hannah-->
-      <!--<Hole --The Hole In The Ground-->
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
@@ -108,11 +120,8 @@
       <!--<Milan -Milan Talkies-->
       <!--<Ralph --Ralph Breaks The Internet: Wreck-It -->
       <!--<Ring --Ring-->
-      <!--Second --Second Act-->
       <!--Serenityx--Serenity -->
-      <!--<Sex --On The Basis Of Sex-->
       <!--<Kala /> Kala Shah Kala -->
-      <!--Upside --The Upside -->
       <!--<Rose --Wild Rose -->
       </b-container>
       </section>
@@ -122,13 +131,12 @@
 <script>
 
 import Alert from '@/components/Films/Alert/Alert'
-import Second from '@/components/Films/Second'
-import Favourite from '@/components/Films/Favourite/Favourite'
+import Second from '@/components/Films/Second/Second'
 import Mule from '@/components/Films/Mule'
 import Vice from '@/components/Films/Vice'
 import Blank from '@/components/Films/Blank'
 import Ralph from '@/components/Films/Ralph'
-import Upside from '@/components/Films/Upside'
+import Upside from '@/components/Films/Upside/Upside'
 import Spider from '@/components/Films/Spider'
 import Destroyer from '@/components/Films/Destroyer'
 import Preview from '@/components/Films/Preview'
@@ -140,7 +148,6 @@ import Lego from '@/components/Films/Lego'
 import True from '@/components/Films/True'
 import Grinch from '@/components/Films/Grinch/Grinch'
 import Caper from '@/components/Films/Caper'
-import Sex from '@/components/Films/Sex'
 import Black from '@/components/Films/Black'
 import War from '@/components/Films/War'
 import Aftermath from '@/components/Films/Aftermath'
@@ -155,7 +162,7 @@ import Border from '@/components/Films/Border'
 import Bala from '@/components/Films/Bala'
 import Guddiyan from '@/components/Films/Guddiyan'
 import Kumbalangi from '@/components/Films/Kumbalangi'
-import Hole from '@/components/Films/Hole'
+import Hole from '@/components/Films/Hole/Hole'
 import Total from '@/components/Films/Total'
 import Bell from '@/components/Films/Bell'
 import Kobiety from '@/components/Films/Kobiety'
@@ -221,6 +228,9 @@ import Aquaman from '@/components/Films/Aquaman/Aquaman'
 import Stan from '@/components/Films/Stan/Stan'
 import Mid from '@/components/Films/Mid/Mid'
 import Teacher from '@/components/Films/Teacher/Teacher'
+import Sex from '@/components/Films/Sex/Sex'
+import Favourite from '@/components/Films/Favourite/Favourite'
+
 
 
 

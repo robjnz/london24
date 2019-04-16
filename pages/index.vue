@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Tuesday<br>16th April 2019</font></h1>
+    <h1> <font color="gold"><br>Wednesday<br>17th April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -35,15 +35,15 @@ Ilford
 <b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-
-<h3 class="labour">Alice in Wonderland<br>
 <!--
+<h3 class="labour">Alice in Wonderland<br>
+
 <b-embed type="iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/gh5HuOT6BmE"
           allowfullscreen
   ></b-embed>
--->
+
     Showing today @
   <br> Broadway Theatre Barking
   <br>@<br>2pm & 6pm
@@ -51,7 +51,7 @@ Ilford
 
 <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 <br><br>
-
+-->
     </b-badge>
 
     </div>

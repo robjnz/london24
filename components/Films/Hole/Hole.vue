@@ -1,47 +1,18 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "On The Basis Of Sex 12A">
+<b-card bg-variant="dark" text-variant="white" title= "The Hole In The Ground 15">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/28dHbIR_NB4"
+          src    = "https://www.youtube.com/embed/2_qQOt5ZBCw"
           allowfullscreen
   ></b-embed>
-
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<Greenwichbutton />-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-<!--<Ilfordbutton />-->
-<!--<Westbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Odeon</h4>
+  <p class="title-color">
+    One night, Sarah's young son disappears into the woods behind their rural home. When he returns, he looks the same, but his behavior grows increasingly disturbing.
+ </p>
+  <h4 class="title-color"></h4>
   <b-button-group>
- <!--<Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Picturehouses</h4>
-  <b-button-group>
-  <!--<Pgreenwichbutton />-->
-  <!--<Phackneybutton />-->
-  </b-button-group>
-<br><br>
-  <b-button-group>
-  <!--<Pstratfordbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <!--<Romfordbutton />-->
-  <!--<Vstratford />-->
+ <HoleR />
+ <HoleF />
+ <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -60,6 +31,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import HoleR from '@/components/Films/Hole/HoleR'
+import HoleF from '@/components/Films/Hole/HoleF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -79,6 +53,10 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
+    HoleR,
+    HoleF,
+    Nineteen,
+
 
 
       }

@@ -1,37 +1,22 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Second Act 12A">
-  <b-embed type="iframe"
+<b-card bg-variant="dark" text-variant="white" title= "On The Basis Of Sex 12A">
+<b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/YsVo5necW6Q"
+          src    = "https://www.youtube.com/embed/28dHbIR_NB4"
           allowfullscreen
   ></b-embed>
 
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<ilfordbutton />-->
-  </b-button-group>
-<br><br>
-<b-button-group>
-<!--<westbutton />-->
+<p class="title-color">
+  Ruth Bader Ginsburg is a struggling attorney and  mother who faces adversity and numerous obstacles in her fight for equal rights.
+</p>
+
+  <h4 class="title-color"></h4>
+  <b-button-group>
+  <SexR />
+  <SexF />
+  <Eighteen />
   </b-button-group>
 
-  <h4 class="title-color">Odeon</h4>
-  <b-button-group>
-  <!--<Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Showcase</h4>
-  <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <!--<Romfordbutton />-->
- <!--<Vstratford />-->
-  </b-button-group>
 </b-card>
 </template>
 
@@ -42,9 +27,17 @@ import Ilfordbutton from '@/components/Cineworld/Ilfordbutton'
 import Westbutton from '@/components/Cineworld/Westbutton'
 import Ogreenwichbutton from '@/components/Odeon/Ogreenwichbutton'
 import Osouthbutton from '@/components/Odeon/Osouthbutton'
+import Pgreenwichbutton from '@/components/Picturehouses/Pgreenwichbutton'
+import Phackneybutton from '@/components/Picturehouses/Phackneybutton'
+import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import SexR from '@/components/Films/Sex/SexR'
+import SexF from '@/components/Films/Sex/SexF'
+import Eighteen from '@/components/Films/Year/Eighteen'
+
+
 
 
 
@@ -56,9 +49,16 @@ export default {
     Westbutton,
     Ogreenwichbutton,
     Osouthbutton,
+    Pgreenwichbutton,
+    Phackneybutton,
+    Pstratfordbutton,
     Newhambutton,
     Romfordbutton,
     Vstratford,
+    SexF,
+    SexR,
+    Eighteen,
+
 
       }
 }

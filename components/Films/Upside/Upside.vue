@@ -7,32 +7,16 @@
           allowfullscreen
   ></b-embed>
 
-<h4 class="title-color">Cineworld</h4>
-<b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<greenwichbutton/>-->
-</b-button-group>
-<br><br>
-<b-button-group>
-<!--<ilfordbutton />-->
-<!--<westbutton />-->
-</b-button-group>
+<p class="title-color">
+    A comedic look at the relationship between a wealthy man with quadriplegia and an unemployed man with a criminal record who's hired to help him.
+    </p>
 
-  <h4 class="title-color">Odeon</h4>
-  <b-button-group>
-  <!--<Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
-  </b-button-group>
 
-  <h4 class="title-color">Showcase</h4>
+  <h4 class="title-color"></h4>
   <b-button-group>
-  <!--<Newhambutton />-->
-  </b-button-group>
-
-  <h4 class="title-color">Vue</h4>
-  <b-button-group>
-  <!--<Romfordbutton />-->
-  <!--<Vstratford />-->
+  <UpsideR />
+  <UpsideF />
+  <Nineteen />
   </b-button-group>
 </b-card>
 </template>
@@ -47,6 +31,9 @@ import Osouthbutton from '@/components/Odeon/Osouthbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
+import UpsideR from '@/components/Films/Upside/UpsideR'
+import UpsideF from '@/components/Films/Upside/UpsideF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 export default {
@@ -60,6 +47,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
+    UpsideR,
+    UpsideF,
+    Nineteen,
 
       }
 }
