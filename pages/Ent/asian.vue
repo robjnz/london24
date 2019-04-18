@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Monday 15th April 2019</h2>
+    <h2>Thurday 18th April 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
@@ -14,17 +14,11 @@
 
   <b-card-group deck
   class="mb-3 ">
+    <Luka /><!--Luka Chuppi  -->
     <ManjeC /><!--Manje Bistre 2-->
-    <RomeoC /><!--Romeo Akbar Walter-->
     <SherdilC /><!--SherDil-->
     </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
-    <SuperC /><!--Super Deluxe -->
-    <Blank />
-    <Blank />
-    </b-card-group>
 
       <!--<Ml --90ML -->
       <!--<Star --A star is Born-->
@@ -47,7 +41,6 @@
       <!--<Caper />--Capernaum -->
 
       <!--<Dragon --Dragon Ball Super -->
-      <!--<Erased --Boy Erased-->
       <!--<EscapeC --Escape Room -->
 
       <!--<EverybodyC />--Everybody Knows -->
@@ -58,13 +51,11 @@
 
       <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
-      <!--<Had --What They Had -->
       <!--<Hannah --Hannah-->
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
       <!--<Junglee /--Junglee -->
-      <!--<Luka />--Luka Chuppi  -->
 
       <!--<Bala --Miss Bala-->
 
@@ -74,9 +65,11 @@
       <!--<Prodigy --The Prodigy-->
       <!--<Rabb /--Rabb Da Radio-->
       <!--<Ralph --Ralph Breaks The Internet: Wreck-It -->
+        <!--<RomeoC --Romeo Akbar Walter-->
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
+      <!--<SuperC /--Super Deluxe -->
 
       <!--<Total /><-Total Dhamal  -->
   <!--<ScotsC />--Mary Queen Of Scots -->
@@ -109,7 +102,6 @@ import Caper from '@/components/Films/Caper'
 import Black from '@/components/Films/Black'
 import War from '@/components/Films/War'
 import Aftermath from '@/components/Films/Aftermath'
-import Had from '@/components/Films/Had'
 import Serenityx from '@/components/Films/Serenityx'
 import Gully from '@/components/Films/Gully'
 import Kala from '@/components/Films/Kala'
@@ -129,7 +121,6 @@ import Fisherman from '@/components/Films/Fisherman'
 import Fight from '@/components/Films/Fight'
 import Prodigy from '@/components/Films/Prodigy'
 import Band from '@/components/Films/Band'
-import Erased from '@/components/Films/Erased'
 import Milan from '@/components/Films/Milan'
 import Burning from '@/components/Films/Burning'
 import Ring from '@/components/Films/Ring'
@@ -253,7 +244,6 @@ export default {
     DogC,
     Dragonworld,
     DragonworldC,
-    Erased,
     Escape,
     EscapeC,
     Everybody,
@@ -274,7 +264,6 @@ export default {
     GreenC,
     Guddiyan,
     Gully,
-    Had,
     Hannah,
     Happy,
     HappyC,

@@ -11,7 +11,7 @@
 
   <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<!--<Bexleyheathbutton />-->
+<Bexleyheathbutton />
 <Greenwichbutton />
   </b-button-group>
 <br><br>

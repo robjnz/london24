@@ -1,26 +1,29 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Boy Erased 15">
+<b-card bg-variant="dark" text-variant="white" title= "Geta 15 ">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/QEpU7EF0oVY"
+          src    = "https://www.youtube.com/embed/2f1maBmQzH8"
           allowfullscreen
   ></b-embed>
+    <p class="title-color">
+    young woman returns an elderly widow’s lost purse, leading to an unlikely relationship between the two — until the young woman discovers her elder might not be all that she seems.
+    </p>
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<!--<Bexleyheathbutton />-->
-<!--<Greenwichbutton />-->
+<Bexleyheathbutton />
+<Greenwichbutton />
   </b-button-group>
 <br><br>
 <b-button-group>
-<!--<Ilfordbutton />-->
-<!--<Westbutton />-->
+<Ilfordbutton />
+<Westbutton />
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
- <!-- <Ogreenwichbutton />-->
-  <!--<Osouthbutton />-->
+ <Ogreenwichbutton />
+  <Osouthbutton />
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
@@ -35,13 +38,20 @@
 
   <h4 class="title-color">Showcase</h4>
   <b-button-group>
-  <!--<Newhambutton />-->
+  <Newhambutton />
   </b-button-group>
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <!--<Romfordbutton />-->
-  <!--<Vstratford />-->
+  <Romfordbutton />
+  <Vstratford />
+  </b-button-group>
+
+  <h4 class="title-color"></h4>
+  <b-button-group>
+    <GretaR />
+
+    <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -60,7 +70,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-
+import GretaR from '@/components/Films/Greta/GretaR'
+import GretaF from '@/components/Films/Greta/GretaF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -79,7 +91,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-
+    GretaR,
+    GretaF,
+    Nineteen,
 
       }
 }

@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Monday 15th April 2019</h2>
+    <h2>Thursday 18th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -21,53 +21,59 @@
 
   <b-card-group deck
   class="mb-3 ">
+    <GreenC /><!--Green Book-->
+    <GretaC /><!--Greta -->
     <HellboyC /><!--Heliboy-->
-    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
-    <FamilyC /><!--Instant Family  -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
+    <FamilyC /><!--Instant Family  -->
     <LittleC /><!--Little -->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Lords /><!--Lords of chaos-->
   <PoppinsC /><!--Mary Poppins-->
+  <MidC /><!--Mid 90s -->
    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <MidC /><!--Mid 90s -->
   <MissingC /><!--Missing Link-->
   <BlueC /><!--Out Of Blue -->
+  <KeeperC /><!--The Keeper -->
    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <KeeperC /><!--The Keeper -->
   <FavouriteC /><!--The Favourite -->
   <KingC /><!--The Kid Who Would Be King-->
+  <Peppa /><!--Peppa Pig Festival of Fun-->
    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Peppa /><!--Peppa Pig Festival of Fun-->
   <PetC /><!--Pet Sematary-->
   <ShazamC /><!--Shazam-->
-   </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <SisterC /><!--The sisters Brother -->
-  <Spider /><!-- Spider-Man Into The Spider-Verse -->
-  <UsC /><!--Us-->
-   </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Rose /><!----Wild Rose -->
-  <WonderC /><!--Wonder park -->
-  <Blank />
   </b-card-group>
 
+  <b-card-group deck
+  class="mb-3 ">
+  <UsC /><!--Us-->
+  <Vice /><!--Vice-->
+  <Rose /><!----Wild Rose -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <WonderC /><!--Wonder park -->
+  <blank />
+  <Blank />
+  </b-card-group>
 
 
       <!--<Ml --90ML -->
@@ -91,18 +97,15 @@
       <!--<Caper />--Capernaum -->
 
       <!--<Dragon --Dragon Ball Super -->
-      <!--<Erased --Boy Erased-->
       <!--<EscapeC --Escape Room -->
 
       <!--<EverybodyC />--Everybody Knows -->
       <!--<GlassC --Glass-->
-      <!--<GreenC /--Green Book-->
 
       <!--<Guddiyan />--Guddiyan Patole -->
 
       <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
-      <!--<Had --What They Had -->
       <!--<Hannah --Hannah-->
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
@@ -121,13 +124,13 @@
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
+      <!--<Spider /- Spider-Man Into The Spider-Verse -->
 
       <!--<Total /><-Total Dhamal  -->
   <!--<ScotsC />--Mary Queen Of Scots -->
       <!--<Kala /> Kala Shah Kala -->
       <!--Grinch --Grinch-->
       <!--<VanishingC --The Vanishing-->
-      <!--<Vice />--Vice-->
       <!--<Crow --The White Crow-->
 
       </b-container>
@@ -153,7 +156,6 @@ import Caper from '@/components/Films/Caper'
 import Black from '@/components/Films/Black'
 import War from '@/components/Films/War'
 import Aftermath from '@/components/Films/Aftermath'
-import Had from '@/components/Films/Had'
 import Serenityx from '@/components/Films/Serenityx'
 import Gully from '@/components/Films/Gully'
 import Kala from '@/components/Films/Kala'
@@ -173,7 +175,6 @@ import Fisherman from '@/components/Films/Fisherman'
 import Fight from '@/components/Films/Fight'
 import Prodigy from '@/components/Films/Prodigy'
 import Band from '@/components/Films/Band'
-import Erased from '@/components/Films/Erased'
 import Milan from '@/components/Films/Milan'
 import Burning from '@/components/Films/Burning'
 import Ring from '@/components/Films/Ring'
@@ -244,6 +245,7 @@ import SherdilC from '@/components/Films/Sherdil/SherdilC'
 import SuperC from '@/components/Films/Super/SuperC'
 import MidC from '@/components/Films/Mid/MidC'
 import Kesari from '@/components/Films/Kesari'
+import GretaC from '@/components/Films/Greta/GretaC'
 
 
 
@@ -297,7 +299,6 @@ export default {
     DogC,
     Dragonworld,
     DragonworldC,
-    Erased,
     Escape,
     EscapeC,
     Everybody,
@@ -316,9 +317,9 @@ export default {
     GlassC,
     Green,
     GreenC,
+    GretaC,
     Guddiyan,
     Gully,
-    Had,
     Hannah,
     Happy,
     HappyC,

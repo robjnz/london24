@@ -21,85 +21,85 @@
   <b-card-group deck
   class="mb-3 ">
   <Bohemian /><!--Bohemian Rhapsody -->
+  <Erased /><!--Boy Erased-->
   <Bumblebee /><!--Bumblebee -->
-  <Escape /><!--Escape Room -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Escape /><!--Escape Room -->
   <Fighting /><!--Fighting With My Family -->
   <Forgive /><!--Can You Ever Forgive Me -->
-  <Marvel /><!-- Captain Marvel -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Marvel /><!-- Captain Marvel -->
   <Cold /><!--cold Pursuit -->
   <Dragonball />-<!--Dragon Ball Super -->
-  <Dragonworld /><!--How to Train Your Dragon the Hidden -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Dragonworld /><!--How to Train Your Dragon the Hidden -->
   <Five /><!--Five Feet Apart-->
   <Everybody /><!--Everybody Knows -->
-  <Glass /><!--Glass-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Glass /><!--Glass-->
   <Green /><!--Green Book-->
   <Grinch /><!--Grinch-->
-  <Happy /><!--Happy Death Day -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Happy /><!--Happy Death Day -->
   <Beale /><!--If Beale Street Could talk-->
   <Family /><!--Instant Family  -->
-  <Mid /><!--Mid 90s -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Mid /><!--Mid 90s -->
   <Teacher /><!--The Kinder Teacher -->
   <Scots /><!--Mary Queen Of Scots -->
-  <Poppins /><!--Mary Poppins-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Poppins /><!--Mary Poppins-->
   <Blue /><!--Out Of Blue -->
   <Pet /><!--Pet Sematary-->
-  <Second /><!--Second Act-->
- </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Second /><!--Second Act-->
   <Sex /><!--On the basis of sex -->
   <Shazam /><!--Shazam-->
-  <Stan/><!--Stan & Ollie -->
-   </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Stan/><!--Stan & Ollie -->
   <Hole /><!--The Hole In The Ground-->
   <King /><!--The Kid Who Would Be King-->
-  <Favourite /><!--The Favourite -->
-   </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Favourite /><!--The Favourite -->
   <Sister /><!--The sisters Brother -->
   <Upside /><!--The Upside -->
-  <Vanishing /><!--The Vanishing-->
-   </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Vanishing /><!--The Vanishing-->
+  <Had /><!--What They Had -->
   <Wonder /><!--Wonder park -->
-  <Blank />
-  <Blank />
   </b-card-group>
 
 
@@ -109,9 +109,7 @@
       <!--<Bell --Bell bottom-->
       <!--Black --Blackklansman -->
       <!--Burning --Burning-->
-      <!--<Erased --Boy Erased-->
       <!--<Fight --The Fight-->
-      <!--<Had --What They Had -->
       <!--<Hannah --Hannah-->
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
@@ -151,7 +149,7 @@ import Caper from '@/components/Films/Caper'
 import Black from '@/components/Films/Black'
 import War from '@/components/Films/War'
 import Aftermath from '@/components/Films/Aftermath'
-import Had from '@/components/Films/Had'
+import Had from '@/components/Films/Had/Had'
 import Serenityx from '@/components/Films/Serenityx'
 import Gully from '@/components/Films/Gully'
 import Kala from '@/components/Films/Kala'
@@ -172,7 +170,7 @@ import Fisherman from '@/components/Films/Fisherman'
 import Fight from '@/components/Films/Fight'
 import Prodigy from '@/components/Films/Prodigy'
 import Band from '@/components/Films/Band'
-import Erased from '@/components/Films/Erased'
+import Erased from '@/components/Films/Erased/Erased'
 import Milan from '@/components/Films/Milan'
 import Burning from '@/components/Films/Burning'
 import Ring from '@/components/Films/Ring'

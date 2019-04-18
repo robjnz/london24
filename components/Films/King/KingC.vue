@@ -15,7 +15,7 @@ Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and 
   </b-button-group>
 <br><br>
 <b-button-group>
-<Ilfordbutton />
+<!--<Ilfordbutton />-->
 <Westbutton />
   </b-button-group>
 

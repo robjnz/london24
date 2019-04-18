@@ -7,13 +7,13 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Alice in Wonderland">
+<b-card bg-variant="dark" text-variant="white" title= "Dancers Delight Under 18">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Mon 15 - Tues 16 April 2019 @ 2pm & 6pm
+    Thurs 18 April 2019 @ 6 pm
 
-    
+
     </p>
 
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
@@ -29,10 +29,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Young Producers">
+<b-card bg-variant="dark" text-variant="white" title= "Laugh in the Face of Hate">
   <p class="title-color">
     Hackney Empire<br>
-    Tues 08 Jan 2019- Tues 16 Apr 2019
+    Mon 29 April @ 7.30pm
 
     </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
